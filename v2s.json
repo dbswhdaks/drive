@@ -1,0 +1,4002 @@
+[
+ {
+  "id": 1,
+  "question": "Theo Luật Giao thông đường bộ, tiêu chuẩn về người mới lái xe là người chưa vượt quá khoảng thời gian baolâu kể từ ngày được cấp giấy phép lái xe đầu tiên?",
+  "answer1": "2 năm",
+  "answer2": "3 năm",
+  "answer3": "4 năm",
+  "answer4": "5 năm",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 2,
+  "question": "Người nào sau đây không phải là đối tượng được khuyến cáo nên tham gia khóa đào tạo an toàn giao thông đặc biệt?",
+  "answer1": "Người đã có giấy phép lái xe và có độ tuổi từ 65 trở lên tính đến ngày dự kiến được đào tạo",
+  "answer2": "Người đã tham gia khóa đào tạo an toàn giao thông đặc biệt bắt buộc vì là người mới lái xe bị xử phạt đìnhchỉ giấy phép lái xe và chưa hết thời hạn đình chỉ đó",
+  "answer3": "Người có khả năng sẽ bị xử phạt đình chỉ giấy phép lái xe do vi phạm luật giao thông",
+  "answer4": "Người bị hủy giấy phép lái xe do không thi sát hạch",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 3,
+  "question": "Theo Luật Giao thông đường bộ, độ tuổi có thể thi lấy giấy phép lái xe loại nhỏ hạng 2 là bao nhiêu tuổi?",
+  "answer1": "15 tuổi trở lên",
+  "answer2": "16 tuổi trở lên",
+  "answer3": "17 tuổi trở lên",
+  "answer4": "18 tuổi trở lên",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 4,
+  "question": "Người đã có bằng lái xe gắn máy có động cơ dưới 125cc khi thi lấy bằng lái xe cỡ nhỏ hạng 2 thì được miễnthi môn nào?",
+  "answer1": "Kiểm tra năng lực",
+  "answer2": "Kỹ năng",
+  "answer3": "Pháp luật",
+  "answer4": "Kiểm tra",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 5,
+  "question": "Loại xe nào không thể lái khi có bằng lái xe cỡ nhỏ hạng 2?",
+  "answer1": "Xe hai bánh 100cc",
+  "answer2": "Xe hai bánh 125cc",
+  "answer3": "Xe hai bánh 250cc",
+  "answer4": "Xe ô tô hạng nhẹ 800cc",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 6,
+  "question": "Người có bằng lái xe cỡ nhỏ hạng 2 có thể lái những loại xe nào?",
+  "answer1": "Xe nâng dưới 3 tấn",
+  "answer2": "Xe ô tô con",
+  "answer3": "Xe gắn máy dưới 125cc",
+  "answer4": "Xe ô tô con 3 bánh",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 7,
+  "question": "Giải thích nào về Giấy phép lái xe là đúng theo Luật Giao thông đường bộ? (Ngoại trừ người gặp khó khăn khi di chuyển theo 'Luật Tăng cường tiện ích trong di chuyển cho người gặp khó khăn khi di chuyển')",
+  "answer1": "Người trên 13 tuổi đều có thể lái phương tiện di chuyển cá nhân kể cả không có giấy phép lái xe.",
+  "answer2": "Người từ 16 tuổi trở lên phải có giấy phép lái xe nếu muốn lái phương tiện di chuyển cá nhân.",
+  "answer3": "Trẻ em phải có giấy phép lái xe nếu muốn lái phương tiện di chuyển cá nhân có tốc độ tối đa từ 20km/giờ trở xuống.",
+  "answer4": "Người trưởng thành không có nghĩa vụ phải có giấy phép lái xe nếu muốn lái phương tiện di chuyển cá nhâncó tốc độ tối đa từ 20km/giờ trở xuống.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 8,
+  "question": "Theo Luật Giao thông đường bộ, nội dung nào sau đây đúng với giải thích định nghĩa (tiêu chuẩn) về xe gắn máy?",
+  "answer1": "Là tất cả các loại xe mô tô hai bánh.",
+  "answer2": "Là xe mô tô hai bánh có dung tích xi lanh từ 250cc trở xuống theo Luật Quản lý xe ô tô.",
+  "answer3": "Là xe một động cơ có công suất định mức dưới 0,59kW và một động cơ dung tích xi lanh dưới 50cc.",
+  "answer4": "Là xe một động cơ có công suất định mức từ 11kW trở xuống và một động cơ với dung tích xi lanh từ 125cc trở xuống.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 9,
+  "question": "Ai là người có quyền cấp lại bằng lái khi bằng lái xe bị mất hoặc bị cũ nát không thể sử dụng được?",
+  "answer1": "Chủ tịch huyện",
+  "answer2": "Thị trưởng",
+  "answer3": "Tỉnh trưởng",
+  "answer4": "Giám đốc Sở Cảnh sát tỉnh - thành phố",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 10,
+  "question": "Thời gian đổi bằng lái đối với những người lấy Bằng lái xe cỡ nhỏ hạng 2 (ngoại trừ những người trên 65tuổi) là bao lâu?",
+  "answer1": "3 năm",
+  "answer2": "5 năm",
+  "answer3": "7 năm",
+  "answer4": "10 năm",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 11,
+  "question": "Người nào không được cấp giấy phép lái xe quốc tế?",
+  "answer1": "Người có giấy phép lái xe đầu kéo cỡ lớn hạng 1",
+  "answer2": "Người có giấy phép lái xe phổ thông hạng 1",
+  "answer3": "Người có giấy phép lái xe cỡ nhỏ hạng 2",
+  "answer4": "Người có giấy phép lái xe gắn máy dưới 125cc hạng 2",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 12,
+  "question": "Theo Luật Giao thông đường bộ, quy định về độ tuổi được cấp giấy phép lái xe gắn máy dưới 125cc hạng 2là trên bao nhiêu tuổi?",
+  "answer1": "13 tuổi",
+  "answer2": "14 tuổi",
+  "answer3": "15 tuổi",
+  "answer4": "16 tuổi",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 13,
+  "question": "Người có giấy phép lái xe cỡ nhỏ hạng 2 khi muốn thi lấy giấy phép lái xe phổ thông hạng 2 thì được miễnthi môn nào?",
+  "answer1": "Kiểm tra năng lực",
+  "answer2": "Kỹ năng",
+  "answer3": "Pháp luật",
+  "answer4": "Kiểm tra",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 14,
+  "question": "Theo Luật Giao thông đường bộ, người có giấy phép lái xe gắn máy dưới 125cc hạng 2 không được lái loại xe nào?",
+  "answer1": "Xe mô tô hai bánh loại nhiều bánh dung tích xi lanh 100cc",
+  "answer2": "Xe mô tô hai bánh dung tích xi lanh 49cc",
+  "answer3": "Xe mô tô hai bánh dung tích xi lanh 200cc",
+  "answer4": "Xe có động cơ có công suất tối đa 10kW",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 15,
+  "question": "Nội dung nào sau đây đúng với tiêu chuẩn kiểm tra năng lực để lấy giấy phép lái xe gắn máy dưới 125cc hạng 2?",
+  "answer1": "Thị lực cả hai mắt khi mở đồng thời phải từ 0,4 trở lên.",
+  "answer2": "Người có một bên mắt không nhìn thấy được thì thị lực mắt bên còn lại phải từ 0,6 trở lên.",
+  "answer3": "Phải nghe thấy âm thanh 55 decibel.",
+  "answer4": "Người sử dụng máy trợ thính phải nghe thấy âm thanh 40 decibel.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 16,
+  "question": "Giải thích nào đúng nhất về việc thay đổi kết cấu của xe mô tô hai bánh?",
+  "answer1": "Phải khai báo với Cảnh sát trưởng khi có thay đổi về kết cấu của xe mô tô hai bánh.",
+  "answer2": "Không được thay đổi kết cấu của xe mô tô hai bánh trong bất cứ trường hợp nào.",
+  "answer3": "Bị xử phạt nếu cải tiến kết cấu của xe mô tô hai bánh một cách bất hợp pháp.",
+  "answer4": "Chủ sở hữu xe mô tô hai bánh có thể trực tiếp thay đổi kết cấu xe mà không cần xin phép.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 17,
+  "question": "Theo Luật Quản lý xe ô tô, xe mô tô hai bánh có tốc độ tối đa ( ) km/giờ là đối tượng phải đăng ký sử dụng. Đáp án nào đúng để điền vào ( )?",
+  "answer1": "10",
+  "answer2": "15",
+  "answer3": "20",
+  "answer4": "25",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 18,
+  "question": "Theo Luật Bảo đảm bồi thường thiệt hại cho xe ô tô, loại bảo hiểm nào sau đây bắt buộc phải tham gia khiđăng ký sử dụng xe mô tô hai bánh?",
+  "answer1": "Bảo hiểm tổng hợp",
+  "answer2": "Bảo hiểm tai nạn",
+  "answer3": "Bảo hiểm trách nhiệm",
+  "answer4": "Bảo hiểm dành cho người lái xe",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 19,
+  "question": "Theo Luật Quản lý xe ô tô, đáp án nào sau đây là tiêu chuẩn về thời hạn phải khai báo thay đổi trong trường hợp chuyển quyền sở hữu xe mô tô hai bánh do mua bán?",
+  "answer1": "Trong vòng 7 ngày kể từ ngày mua",
+  "answer2": "Trong vòng 10 ngày kể từ ngày mua",
+  "answer3": "Trong vòng 15 ngày kể từ ngày mua",
+  "answer4": "Trong vòng 30 ngày kể từ ngày mua",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 20,
+  "question": "Giải thích nào đúng nhất về việc kiểm tra lốp xe của xe mô tô hai bánh?",
+  "answer1": "Thường xuyên kiểm tra áp suất lốp bằng mắt thường.",
+  "answer2": "Trạng thái mài mòn của lốp xe không liên quan gì đến lái xe an toàn.",
+  "answer3": "Nếu như áp suất lốp thấp thì phanh sẽ ăn hơn.",
+  "answer4": "Việc kiểm tra lốp định kỳ sẽ có ích cho việc lái xe an toàn.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 21,
+  "question": "Cách giải thích phù hợp nhất cho tiêu chuẩn an toàn của xe mô tô hai bánh về tính năng hoạt động và tiêu chuẩn của ô tô và các bộ phận của ô tô? (Trừ mô tô hai bánh phân khối lớn)",
+  "answer1": "Độ dài ở trạng thái xe không có gắn giá chở hàng bên cạnh không quá 2,5m.",
+  "answer2": "Chiều rộng không quá 1,5m và chiều cao không quá 2,5m ở trạng thái xe không có gắn giá chở hàng bêncạnh.",
+  "answer3": "Tổng trọng lượng của xe mô tô hai bánh loại khác không được vượt quá 500kg.",
+  "answer4": "Tổng trọng lượng của xe mô tô hai bánh loại đặc biệt không được vượt quá 700kg.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 22,
+  "question": "Nội dung nào sau đây là đúng nhất khi mô tả về việc quản lý lốp xe ô tô?",
+  "answer1": "Sử dụng cho đến khi lốp xe bị mòn hoàn toàn.",
+  "answer2": "Lốp càng căng càng tốt.",
+  "answer3": "Nên thay lốp xe định kỳ.",
+  "answer4": "Lốp xe và hiệu suất nhiên liệu không liên quan đến nhau.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 23,
+  "question": "Loại xe mô tô hai bánh nào sau đây cần khai báo sử dụng với thị trưởng, chủ tịch UBND quận - huyện?",
+  "answer1": "Xe mô tô hai bánh 49cc và có tốc độ tối đa trên 25km/giờ.",
+  "answer2": "Xe mô tô hai bánh không có thiết bị truyền động vi sai được chế tạo với mục đích sử dụng chủ yếu cho địahình đồi núi.",
+  "answer3": "Xe mô tô hai bánh có mục đích sử dụng chính không phải để lưu thông trên đường và không thể điều khiểnthiết bị lái, thiết bị phanh bằng tay.",
+  "answer4": "Xe trượt scooter dùng trong y tế.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 24,
+  "question": "Giải thích nào không đúng về phương pháp kiểm tra phanh của xe mô tô hai bánh?",
+  "answer1": "Nhẹ nhàng di chuyển xe mô tô phanh để kiểm tra và điều chỉnh cần khi cần thiết.",
+  "answer2": "Không thay mà chỉ kiểm tra và thêm dầu phanh vì dầu phanh không phải là vật tư tiêu hao.",
+  "answer3": "Thường xuyên kiểm tra tình trạng ma sát má phanh và đĩa phanh để thay thế khi cần thiết.",
+  "answer4": "Kiểm tra xem dầu phanh có bị rò rỉ ở chỗ nào hay không và sửa chữa nếu có chỗ rò rỉ.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 25,
+  "question": "Nội dung nào không phải là điều cần lưu ý khi xảy ra cháy hệ thống ắc quy điện áp cao của xe ô tô điện?",
+  "answer1": "Nhanh chóng tắt máy trong trường hợp xảy ra cháy.",
+  "answer2": "Sử dụng bình chữa cháy chứa cacbon đioxit hóa lỏng khi chữa cháy.",
+  "answer3": "Tránh ra nơi an toàn trong trường hợp không thể dập đám cháy.",
+  "answer4": "Không cần thông báo cho cơ sở phòng cháy chữa cháy khi xảy ra cháy xe ô tô điện.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 26,
+  "question": "Giải thích nào không đúng về trường hợp áp suất lốp xe mô tô hai bánh cao quá mức?",
+  "answer1": "Xe dễ bị trơn trượt.",
+  "answer2": "Phần chính giữa mặt lăn lốp xe nhanh mòn.",
+  "answer3": "Bề mặt tiếp đất nhỏ hơn.",
+  "answer4": "Tay lái nặng hơn.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 27,
+  "question": "Giải thích nào không đúng về trường hợp lốp xe mô tô hai bánh có áp suất quá thấp?",
+  "answer1": "Bề mặt tiếp xúc rộng hơn.",
+  "answer2": "Lãng phí nhiên liệu nghiêm trọng.",
+  "answer3": "Có thể ngăn chặn tai nạn do nổ lốp khi lái xe tốc độ cao.",
+  "answer4": "Ít trơn trượt hơn.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 28,
+  "question": "Giải thích nào không đúng về vai trò của dầu máy xe mô tô hai bánh?",
+  "answer1": "Tác dụng bôi trơn.",
+  "answer2": "Tác dụng tăng nhiệt để cải thiện tính năng của động cơ.",
+  "answer3": "Tác dụng tẩy rửa.",
+  "answer4": "Tác dụng chống ăn mòn.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 29,
+  "question": "Mức phạt đối với người điều khiển xe mô tô hai bánh không gắn biển số theo Luật Quản lý xe ô tô là baonhiêu? (Trường hợp vi phạm lần 1)",
+  "answer1": "300.000 Won",
+  "answer2": "500.000 Won",
+  "answer3": "700.000 Won",
+  "answer4": "1.000.000 Won",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 30,
+  "question": "Theo Luật Giao thông đường bộ, nội dung nào dưới đây không phải là nội dung người lái xe cần tuân thủ?",
+  "answer1": "Người lái xe đạp không được lái xe có thể gây ra nguy hiểm về an toàn giao thông.",
+  "answer2": "Người lái xe mô tô hai bánh phải đeo dụng cụ bảo hộ tính mạng cho cả những người đi cùng.",
+  "answer3": "Người lái xe gắn máy không cần khuyến cáo người đi cùng đeo dụng cụ bảo hộ tính mạng.",
+  "answer4": "Người lái phương tiện di chuyển cá nhân không được lái xe chở theo người khác vượt quá số người quy địnhtrong Pháp lệnh.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 31,
+  "question": "Nội dung nào đúng với cách đổi làn đường phòng tránh tai nạn giao thông?",
+  "answer1": "Rút ngắn khoảng cách với xe trước để xe khác không thể đổi làn đường ở trước xe của mình.",
+  "answer2": "Nhanh chóng đổi làn đường dù có gây trở ngại cho lưu thông bình thường của xe khác.",
+  "answer3": "Bật đèn nhấp nhánh khẩn cấp và đổi làn đường.",
+  "answer4": "Bật đèn xi nhan chỉ hướng để thông báo cho đối phương biết, sau đó đổi làn đường một cách an toàn.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 32,
+  "question": "Điều gì liên quan nhiều nhất tới nhân tố ảnh hưởng đến hành vi lái xe của người lái xe?",
+  "answer1": "Cách lấy bằng lái xe.",
+  "answer2": "Trình độ học vấn của người lái xe.",
+  "answer3": "Loại bằng lái xe.",
+  "answer4": "Tình trạng sức khỏe của người lái xe.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 33,
+  "question": "Hành động nào đúng nhất để xử lý cấp cứu người bị thương trong tai nạn giao thông?",
+  "answer1": "Với người bị thương không còn nhận thức thì cho nằm sấp xuống và loại bỏ các dị vật.",
+  "answer2": "Người bị thương còn nhận thức thì cố́ gắng giữ cho tâm lý ổn định.",
+  "answer3": "Trong trường hợp có dị vật trong khí quản thì phải tiến hành hô hấp nhân tạo trước.",
+  "answer4": "Nếu bị gãy xương thì dùng tay ấn mạnh vào bộ phận đó.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 34,
+  "question": "Hành động nào phù hợp nhất mà người lái xe phải làm khi chứng kiến tai nạn giao thông?",
+  "answer1": "Di chuyển người bị thương bất kể vết thương nặng hay nhẹ.",
+  "answer2": "Không liên quan đến mình nên nhanh chóng rời khỏi hiện trường.",
+  "answer3": "Nếu có xe bỏ trốn thì đuổi theo và giữ lại.",
+  "answer4": "Giải thích về mức độ chấn thương khi gọi báo cảnh sát hoặc 119.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 35,
+  "question": "Trong các mục sau, đâu là thứ tự đúng về quy trình lái xe?",
+  "answer1": "Nhận thức → Đánh giá → Điều khiển",
+  "answer2": "Đánh giá → Nhận thức → Điều khiển",
+  "answer3": "Điều khiển → Đánh giá→ Nhận thức",
+  "answer4": "Nhận thức → Điều khiển → Đánh giá",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 36,
+  "question": "Mục nào sau đây có nguy cơ xảy ra cao hơn khi lái xe vào ban đêm so với ban ngày?",
+  "answer1": "Lái xe tiết kiệm",
+  "answer2": "Hạn chế tầm nhìn và giảm khả năng phát hiện",
+  "answer3": "Lái xe ẩu",
+  "answer4": "Lái xe quá tốc độ",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 37,
+  "question": "Bạn đang định vượt qua vạch phân cách đứt quãng màu vàng để vượt lên trước thì xe khác đi ở làn đườngngược chiều tiến đến rất nhanh. Biện pháp lái xe an toàn nhất ở đây là gì?",
+  "answer1": "Dừng ngay việc vượt lên trước lại và quay trở lại làn đường đang đi.",
+  "answer2": "Bật đèn trước, bấm còi để cho xe đối diện nhượng bộ và vượt lên trước.",
+  "answer3": "Tăng tốc độ tối đa và vượt lên xe phía trước thật nhanh.",
+  "answer4": "Dừng lại ngay tại chỗ hoặc tránh vào làn đường phụ khẩn cấp.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 38,
+  "question": "Khu vực nào phải quyết định là nên dừng ở vạch dừng hay đi tiếp khi nhìn thấy đèn tín hiệu phương hướngthay đổi?",
+  "answer1": "Khu vực tiến thoái lưỡng nan (Dilemma Zone)",
+  "answer2": "Khu vực không đỗ xe (No Parking Zone)",
+  "answer3": "Khu vực tốc độ (Speed Zone)",
+  "answer4": "Khu vực đường dừng (Stop Line Zone)",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 39,
+  "question": "Cách điều khiển xe an toàn nhất khi tầm nhìn xa bị rút ngắn do sương mù dày đặc?",
+  "answer1": "Khi không nhìn rõ phía trước thì có thể lấn vạch trung tâm.",
+  "answer2": "Bật đèn pha trước, nhấn còi để xe ở phía đối diện đang đi đến nhường đường rồi vượt lên.",
+  "answer3": "Bật đèn pha trước hoặc đèn sương mù để thông báo vị trí của mình.",
+  "answer4": "Tăng tốc trong khu vực sương mù để nhanh chóng thoát ra.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 40,
+  "question": "Giải thích nào không đúng với các nội dung người lái phương tiện di chuyển cá nhân cần tuân thủ theo LuậtGiao thông đường bộ?",
+  "answer1": "Không được tăng số vòng quay của động cơ.",
+  "answer2": "Phải tạm dừng khi có người cao tuổi không thể sử dụng cầu vượt sang đường đang đi bộ qua đường.",
+  "answer3": "Không được lái xe trong trạng thái có nguy cơ không thể lái xe bình thường như do tác dụng của thuốc.",
+  "answer4": "Khi lái xe ở nơi có nước đọng phải đảm bảo không để nước bắn lên gây nguy hại cho những người khác.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 41,
+  "question": "Khi có xe lấn vào làn phía trước để rẽ trái ở đường giao nhau không có đèn hiệu giao thông thì cách xử lýnào là đúng?",
+  "answer1": "Xe đi thẳng vừa chú ý vừa lái xe.",
+  "answer2": "Xe rẽ phải đi chầm chậm rồi rẽ phải.",
+  "answer3": "Tất cả xe đi thẳng và rẽ phải đều phải nhường đường cho xe rẽ trái.",
+  "answer4": "Xe đi trên đường hẹp cần lái xe chậm và đi qua.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 42,
+  "question": "Giải thích nào không đúng nhất về việc dừng và đỗ xe đối với xe mô tô hai bánh?",
+  "answer1": "Khi dừng, đỗ xe ngay sau khi vừa chạy xe, phải tránh người đi bộ vì xung quanh động cơ và phần ống xả rấtnóng.",
+  "answer2": "Dừng và đỗ xe ở nơi càng bằng phẳng càng tốt.",
+  "answer3": "Dựng chân chống và dừng, đỗ ở nơi có nền đất yếu.",
+  "answer4": "Không được dừng và đỗ xe ở nơi cản trở người đi bộ đi lại.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 43,
+  "question": "Phương pháp lái xe nào an toàn nhất khi người điều khiển xe mô tô hai bánh đang lái xe trên làn thứ nhấttrên đường thông thường có 1 làn ở mỗi chiều thì xe buýt đi ngay phía trước dừng lại bên tay phải?",
+  "answer1": "Vượt qua vạch phân cách kẻ liền và vượt lên trước xe buýt.",
+  "answer2": "Đi lên đường đi bộ bên phải.",
+  "answer3": "Bấm còi và đi về bên trái xe buýt.",
+  "answer4": "Dừng sau xe buýt cho đến khi xe buýt xuất phát.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 44,
+  "question": "Theo Luật Giao thông đường bộ, hành vi vi phạm nào sau đây của người lái xe gắn máy dưới 125cc không bịxử phạt?",
+  "answer1": "Lái xe khi vừa uống rượu",
+  "answer2": "Điều khiển thiết bị hiển thị hình ảnh khi đang lái xe",
+  "answer3": "Tỷ lệ ánh sáng nhìn thấy xuyên qua kính trước của xe gắn máy dưới 125cc",
+  "answer4": "Vi phạm dừng, đỗ xe",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 45,
+  "question": "Nội dung nào mà người điều khiển xe mô tô hai bánh cần phải tuân thủ?",
+  "answer1": "Lái xe lên đường đi bộ khi đường dành cho xe bị ùn tắc.",
+  "answer2": "Dù không nhìn thấy người cao tuổi trong khu vực bảo vệ người cao tuổi vẫn phải giữ đúng tốc độ giới hạnvà lái xe an toàn.",
+  "answer3": "Nếu buồn ngủ khi lái xe vào ban đêm, dừng xe vào khu vực lề đường để nghỉ ngơi chốc lát rồi mới đi tiếp.",
+  "answer4": "Dù có người sang đường ở vạch sang đường không có tín hiệu đèn thì vẫn lái xe đi qua với tốc độ cao.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 46,
+  "question": "Nội dung nào đúng với hạng mục phải tuân thủ của người điều khiển xe đạp gắn động cơ?",
+  "answer1": "Thường xuyên đổi làn đường.",
+  "answer2": "Vào những ngày nóng bức của mùa hè, không cần đội mũ bảo hiểm.",
+  "answer3": "Khi chạy chỗ đọng nước, phải đi chậm để không gây thiệt hại cho người khác.",
+  "answer4": "Khi đường xe chạy bị tắc nghẽn giao thông, có thể đi trên vỉa hè (lề đường).",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 47,
+  "question": "Thái độ nào của người điều khiển xe mô tô hai bánh nhằm lái xe an toàn là đúng?",
+  "answer1": "Chú ý và đi chậm vì hành khách có thể xuống xe khi xe taxi dừng.",
+  "answer2": "Luôn cầm điện thoại trên tay khi lái xe vì có thể có cuộc gọi khẩn cấp.",
+  "answer3": "Vượt lên trước xe buýt đưa đón trẻ có gắn biển báo trẻ em đang ngồi trên xe.",
+  "answer4": "Thu hẹp khoảng cách với xe phía trước để tránh xe khác chen ngang.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 48,
+  "question": "Câu nào giải thích đúng về việc lái xe nhường đường?",
+  "answer1": " Khi lái xe với tốc độ chậm, cần tránh vào mép đường bên trái để nhường đường cho xe khác tiến lên.",
+  "answer2": " Khi có xe cấp cứu theo ở phía sau thì phải dừng lại thật gấp.",
+  "answer3": " Tại đường giao nhau, phải nhường đường cho xe khác mà không liên quan gì đến thứ tự ưu tiên.",
+  "answer4": " Khi có biển báo nhường đường phải nhường đường cho xe đang đi trên làn đường khác.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 49,
+  "question": "Nội dung nào đúng là nội dung người lái xe phải tuân thủ?",
+  "answer1": " Rút ngắn khoảng cách với xe phía trước để xe khác không thể thay đổi hướng lưu thông trước xe của mình.",
+  "answer2": " Vượt nhanh qua những đoạn có vạch sang đường cho người đi bộ không có đèn tín hiệu và không có ngườisang đường.",
+  "answer3": " Dừng lại nghỉ ngay tại chỗ rồi lái xe đi tiếp trong trường hợp buồn ngủ khi đang lái xe vào ban đêm.",
+  "answer4": " Giữ đúng tốc độ giới hạn và lái xe với tốc độ an toàn trong khu vực bảo vệ trẻ em.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 50,
+  "question": "Nội dung nào đúng nhất với tư thế điều khiển xe khi muốn đổi làn đường hoặc vượt lên trước?",
+  "answer1": " Vì đối phương nên đổi làn đường nhanh.",
+  "answer2": " Vẫn vượt lên xe trước dù xe trước đang vượt lên xe khác.",
+  "answer3": " Khi muốn vượt lên xe trước, phải đi về phía bên phải của xe trước này.",
+  "answer4": " Bật đèn xi nhan chỉ hướng để thông báo cho đối phương, sau đó đổi làn đường một cách an toàn ở vùng vạchkẻ chấm.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 51,
+  "question": "Người lái xe nào dưới đây có khả năng gây ra tai nạn giao thông cao nhất?",
+  "answer1": " Người lái xe chỉ tập trung vào việc lái xe",
+  "answer2": " Người lái xe lặp đi lặp lại các hành vi xuất phát đột ngột, phanh đột ngột, đổi làn đột ngột",
+  "answer3": " Người lái xe đảm bảo cự ly an toàn với xe đạp hoặc xe ô tô",
+  "answer4": " Người lái xe có tinh thần nhường nhịn và không vội vàng",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 52,
+  "question": "Có biển báo nhường đường ở trước lối vào đường giao nhau. Hãy chọn cách đi qua giao lộ đúng.",
+  "answer1": " Đi chậm rồi lái xe qua.",
+  "answer2": " Không dừng lại ở vạch báo dừng mà cứ đi qua.",
+  "answer3": " Để cho các xe khác đi xong, sau đó mới đi qua.",
+  "answer4": " Bật đèn tín hiệu khẩn cấp và đi qua.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 53,
+  "question": "Người bị thương nhẹ đang bị chảy máu. Phương pháp xử lý cấp cứu nào đúng nhất?",
+  "answer1": " Trong trường hợp chảy máu nhẹ dùng băng gạc hoặc vải sạch nhấn vào.",
+  "answer2": " Khi phải dùng băng cầm máu buộc vào vị trí xa với tim để cầm máu.",
+  "answer3": " Vị trí bị mất máu phải để thấp hơn so với tim.",
+  "answer4": " Vì chỉ là vết thương nhẹ nên tiếp tục lái xe đi.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 54,
+  "question": "Nội dung nào sau đây đúng nhất với cách điều khiển xe an toàn trên đường?",
+  "answer1": " Trong khu vực 'nút thắt cổ chai', điều khiển xe chạy bám sát xe trước.",
+  "answer2": " Cùng người đi bộ lưu thông an toàn trên vạch sang đường dành cho người đi bộ.",
+  "answer3": " Nếu đèn giao thông là đèn vàng thì phải dừng lại trên đường giao nhau để tuân thủ tín hiệu đèn.",
+  "answer4": " Tuân thủ tốc độ giới hạn trong khu vực bảo vệ trẻ em.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 55,
+  "question": "Nội dung nào sau đây đúng nhất với cách điều khiển xe bảo vệ người đi bộ?",
+  "answer1": " Vì có thể có người sang đường nên nhấn còi khi lưu thông.",
+  "answer2": " Đường dân cư không phân cách lề đường & lòng đường ưu tiên cho xe máy hai bánh hơn người đi bộ.",
+  "answer3": " Luôn quan tâm bảo vệ, nhường đường cho người đi bộ và lái xe cẩn thận.",
+  "answer4": " Khi không có người sang đường thì có thể đi nhanh qua.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 56,
+  "question": "Khi có xe buýt nội thành đang dừng xe ở phía trước trên đường có 1 làn xe một chiều, cách điều khiển xe antoàn nhất là?",
+  "answer1": " Duy trì đủ khoảng cách an toàn với xe buýt nội thành và nhanh chóng đi qua.",
+  "answer2": " Tăng tốc và nhanh chóng đi vào giữa đường.",
+  "answer3": " Lưu thông ở làn đường ngược chiều để tránh gây nguy hiểm cho người đi bộ.",
+  "answer4": " Vượt lên trước xe buýt nội thành là hành vi nguy hiểm nên phải chờ xe buýt một chút rồi mới đi.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 57,
+  "question": "Phương pháp nào là phương pháp lái xe an toàn trên đường đúng nhất?",
+  "answer1": " Bấm còi báo hiệu cho trẻ em biết có xe đang đến rồi mới đi qua.",
+  "answer2": " Nếu thanh chắn của đường sắt sắp hạ xuống thì phóng xe vượt nhanh qua.",
+  "answer3": " Nếu rẽ phải thì đi chậm lại ở mép đường bên phải sau đó mới rẽ phải.",
+  "answer4": " Bật đèn pha hướng lên khi lái xe vào ban đêm để người lái xe phía đối diện chú ý.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 58,
+  "question": "Theo Luật Giao thông đường bộ, người lái xe bị xử phạt như thế nào khi lái xe ô tô trong trạng thái có thểlái xe không bình thường do quá sức (bao gồm lái xe khi buồn ngủ)?",
+  "answer1": " Không xử phạt",
+  "answer2": " Tạm giam hoặc phạt tiền hình sự tối đa 100.000 won",
+  "answer3": " Tạm giam hoặc phạt tiền hình sự tối đa 200.000 won",
+  "answer4": " Tạm giam hoặc phạt tiền hình sự tối đa 300.000 won",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 59,
+  "question": "Theo Luật Giao thông đường bộ, tiêu chuẩn nào sau đây là đúng với trạng thái say rượu bia bị cấm lái xe?",
+  "answer1": " Lái xe khi nồng độ cồn trong máu từ 0,03% trở lên",
+  "answer2": " Lái xe khi nồng độ cồn trong máu từ 0,06% trở lên",
+  "answer3": " Lái xe khi nồng độ cồn trong máu từ 0,08% trở lên",
+  "answer4": " Lái xe khi nồng độ cồn trong máu từ 0,09% trở lên",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 60,
+  "question": "Nội dung nào sau đây là đúng nhất về ảnh hưởng của rượu bia lên khả năng điều khiển xe?",
+  "answer1": " Khả năng lái xe buồn ngủ thấp xuống.",
+  "answer2": " Khả năng nhận thức tăng lên.",
+  "answer3": " Nâng cao kỹ năng điều khiển xe.",
+  "answer4": " Làm giảm khả năng tập trung.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 61,
+  "question": "Giải thích đúng về khoảng cách phản xạ nhanh?",
+  "answer1": " Nếu lái xe khi đang say rượu thì để lái xe an toàn nên để khoảng cách phản xạ nhanh dài hơn.",
+  "answer2": " Trong trường hợp lái xe trên đường khi trời mưa, khoảng cách dừng sẽ trở nên ngắn hơn khoảng cách phảnxạ nhanh.",
+  "answer3": " Phải duy trì vừa đúng khoảng cách phản xạ nhanh để tránh tai nạn giao thông.",
+  "answer4": " Khoảng cách phản xạ nhanh là quãng đường xe dừng hẳn từ sau khi người lái xe nhận thấy nguy hiểm vàđạp bàn phanh.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 62,
+  "question": "Câu nào giải thích đúng về tác động của tình trạng mệt mỏi lên hành động lái xe?",
+  "answer1": " Phản ứng về những kích thích xung quanh nhanh hơn.",
+  "answer2": " Thị lực giảm và tầm nhìn mở rộng.",
+  "answer3": " Cảm giác và khả năng điều khiển phương tiện giảm.",
+  "answer4": " Lái xe cẩn thận và có kế hoạch.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 63,
+  "question": "Người lái xe mô tô hai bánh định rẽ trái ở vị trí không được bảo vệ. Phương pháp lái xe nào đúng nhất?",
+  "answer1": " Không thể rẽ trái khi tín hiệu giao thông chỉ phương hướng là màu xanh.",
+  "answer2": " Chỉ có thể rẽ trái khi tín hiệu chỉ phương hướng là màu đỏ.",
+  "answer3": " Xe mô tô hai bánh phải rẽ trái thật nhanh không liên quan đến tín hiệu chỉ phương hướng.",
+  "answer4": " Chú ý xe đang đi thẳng đến gần ở làn đường ngược chiều.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 64,
+  "question": "Người lái xe mô tô hai bánh định đi qua đường giao với đường sắt thì phải ( ) trước đoạn đường sắt. Hãychọn đáp án đúng điền vào trong ngoặc.",
+  "answer1": " Đi chậm lại",
+  "answer2": " Đỗ xe sau khi dừng xe lại",
+  "answer3": " Tạm dừng lại",
+  "answer4": " Vượt lên trước",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 65,
+  "question": "Quy định nào sau đây là quy định xử lý hình sự với trường hợp điều khiển xe mô tô hai bánh trong trạngthái nồng độ cồn trong máu từ 0,03% đến dưới 0,08%?",
+  "answer1": " Phạt tù tối đa 1 năm hoặc phạt tiền hình sự tối đa 5 triệu Won",
+  "answer2": " Phạt tù tối đa 1 năm hoặc phạt tiền hình sự tối đa 10 triệu Won",
+  "answer3": " Phạt tù tối đa 2 năm hoặc phạt tiền hình sự tối đa 10 triệu Won",
+  "answer4": " Phạt tù tối đa 2 năm hoặc phạt tiền hình sự tối đa 20 triệu Won",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 66,
+  "question": "Giải thích nào đúng về tình trạng lái xe trong lúc mệt mỏi, quá sức và buồn ngủ?",
+  "answer1": " Quang cảnh đường phố đơn điệu và thao tác lái xe nhàm chán có thể gây buồn ngủ mà không liên quan đếnviệc bị thiếu ngủ.",
+  "answer2": " Trên đường ít có sự thay đổi và ít xuất hiện sự cố nguy hiểm thì khả năng chú ý được nâng cao sẽ làm giảmbuồn ngủ khi lái xe.",
+  "answer3": " Khi mệt mỏi hay buồn ngủ thì việc xử lý tình huống nguy hiểm sẽ nhạy cảm hơn.",
+  "answer4": " Chức năng não khi uống rượu sẽ tăng mạnh và làm giảm khả năng buồn ngủ khi lái xe.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 67,
+  "question": "Giải thích nào đúng về ảnh hưởng của mệt mỏi lên người lái xe?",
+  "answer1": " Tăng khả năng đối phó với tình huống khẩn cấp.",
+  "answer2": " Tầm nhìn hẹp hơn.",
+  "answer3": " Thời gian phản ứng theo nhận thức ngắn hơn.",
+  "answer4": " Khả năng phán đoán tăng lên.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 68,
+  "question": "Người đi bộ phải chấp hành điều gì để hình thành văn hóa đi bộ và đảm bảo an toàn?",
+  "answer1": " Nguyên tắc đi bên trái.",
+  "answer2": " Nguyên tắc đi bên phải.",
+  "answer3": " Đi vào giữa.",
+  "answer4": " Đi bên nào cũng được.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 69,
+  "question": "Theo Luật Giao thông đường bộ, nội dung nào giải thích đúng về việc bảo vệ người đi bộ?",
+  "answer1": " Người dắt xe đạp đi bộ không được coi là người đi bộ.",
+  "answer2": " Xe mô tô hai bánh luôn được ưu tiên hơn người đi bộ và có thể đi qua.",
+  "answer3": " Giám đốc Sở Cảnh sát tỉnh - thành phố có thể quy định đường dành cho người đi bộ nhằm bảo vệ an toàncho người đi bộ.",
+  "answer4": " Không thể kéo xe đẩy em bé trên đường dành riêng cho người đi bộ.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 70,
+  "question": "Giải thích nào đúng về việc người hoặc đoàn người có thể đi lại ở giữa đường?",
+  "answer1": " Đoàn người diễu hành trên đường trong sự kiện xã hội quan trọng.",
+  "answer2": " Người dắt động vật to như ngựa, bò, v.v cùng đi.",
+  "answer3": " Người đang quét dọn đường, sửa chữa đường.",
+  "answer4": " Dòng người đưa tang cầm cờ hoặc trướng.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 71,
+  "question": "Giải thích nào đúng về nghĩa vụ bảo vệ người đi bộ?",
+  "answer1": " Không cần bảo vệ người say rượu băng qua đường trái phép.",
+  "answer2": " Trên đường không phân luồng giao thông, thì cản trở việc đi lại của người đi bộ cũng không sao.",
+  "answer3": " Khi đèn xanh cho người đi bộ được bật lên thì xe vẫn có thể đi tiếp.",
+  "answer4": " Nếu rẽ phải ở đường giao nhau có phân rõ luồng giao thông thì cũng không được gây cản trở cho người đibộ đang đi theo tín hiệu giao thông.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 72,
+  "question": "Phương pháp lái xe nào đúng nhất khi người cao tuổi đang băng qua đường?",
+  "answer1": " Cứ đi qua bằng tốc độ đang đi.",
+  "answer2": " Giữ khoảng cách an toàn và tạm thời dừng lại.",
+  "answer3": " Sử dụng làn đường ngược chiều bên kia và lái xe an toàn.",
+  "answer4": " Bấm còi và dừng lại gấp.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 73,
+  "question": "Phương pháp lưu thông nào của người đi bộ trên đường có phân rõ vỉa hè và đường dành cho xe chạy làđúng?",
+  "answer1": " Có thể đi dưới đường dành cho xe nếu như có nhiều người cùng đi.",
+  "answer2": " Khi lưu thông trên vỉa hè bị hạn chế do thi công thì có thể đi trên đường dành cho xe.",
+  "answer3": " Khi đang tập thể dục như chạy bộ thì có thể chạy trên đường dành cho xe.",
+  "answer4": " Có thể đi mà không phân biệt vỉa hè và đường dành cho xe.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 74,
+  "question": "Xe đang chạy với tốc độ 50km/giờ trong đường nội thành thì phát hiện có người đi bộ đang băng quađường trái luật. Cách xử lý thích hợp nhất là gì?",
+  "answer1": " Vì người đi bộ đang sang đường nên đạp phanh gấp và dừng lại.",
+  "answer2": " Dự đoán sự di chuyển của người đi bộ và đi chen vào khoảng cách đó.",
+  "answer3": " Đi chậm lại, dùng đèn báo khẩn cấp báo cho xe sau biết và dừng xe lại một cách an toàn.",
+  "answer4": " Bấm còi báo hiệu gây chú ý cho người đi bộ, tăng tốc một chút rồi đi qua.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 75,
+  "question": "Khi muốn rẽ phải ở đường giao nhau mà có người đi bộ đang băng qua đường ở vạch sang đường dành chongười đi bộ, cách điều khiển xe an toàn nhất là?",
+  "answer1": " Đầu tiên nếu nhận thấy có thể rẽ phải thì nhanh chóng rẽ phải.",
+  "answer2": " Dù đèn giao thông của người đi bộ đã chuyển sang màu đỏ nhưng vẫn phải tạm dừng chờ cho đến khi ngườiđi bộ sang đường xong.",
+  "answer3": " Lái xe tránh người đi bộ đang băng qua vạch sang đường dành cho người đi bộ.",
+  "answer4": " Nếu đèn giao thông của người đi bộ là màu đỏ thì nhất định phải lái xe đi qua.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 76,
+  "question": "Cách điều khiển xe an toàn nhất khi đi qua vạch sang đường dành cho người đi bộ không có đèn giao thôngtrong khu vực bảo vệ trẻ em?",
+  "answer1": " Khi không có người sang đường thì đi qua chậm nhất có thể.",
+  "answer2": " Vì không có người sang đường nên đi qua bằng tốc độ nhanh nhất.",
+  "answer3": " Dù không có người sang đường cũng phải tạm dừng lại.",
+  "answer4": " Vì có thể có người sang đường nên nhấn còi và đi qua.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 77,
+  "question": "Người điều khiển xe mô tô hai bánh phải ( ) ngay trước vạch sang đường và làn đường giao nhau khi đènxanh bật lên. Đáp án đúng để điền vào trong ( ) là gì?",
+  "answer1": " Giảm tốc độ",
+  "answer2": " Đi chậm",
+  "answer3": " Dừng lại",
+  "answer4": " Tiếp tục đi",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 78,
+  "question": "Hành động lái xe an toàn nhất khi lái xe trên đường là gì?",
+  "answer1": " Khi có xe cấp cứu chạy phía sau thì tăng tốc độ để chạy cùng.",
+  "answer2": " Đi thật nhanh ở khu vực bảo vệ trẻ em vì có nguy cơ xảy ra tai nạn.",
+  "answer3": " Trong trường hợp người đi bộ qua đường trái luật thì cũng tạm thời dừng lại và bảo vệ người đi bộ.",
+  "answer4": " Khi định vượt xe phía trước thì chạy qua phía bên phải của xe phía trước.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 79,
+  "question": "Theo Pháp lệnh về Giao thông đường bộ, người nào được coi là người đi bộ?",
+  "answer1": " Người đi xe lăn điện dùng trong y tế",
+  "answer2": " Người đi xe đạp",
+  "answer3": " Người đi xe điện cân bằng",
+  "answer4": " Người đi xe ván trượt điện",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 80,
+  "question": "Theo Pháp lệnh về Giao thông đường bộ, người nào được xếp vào nhóm “người không thể nhìn thấy phíatrước”?",
+  "answer1": " Người cao tuổi",
+  "answer2": " Người khiếm thính",
+  "answer3": " Trẻ em",
+  "answer4": " Người kéo xe đẩy trẻ em",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 81,
+  "question": "Giải thích nào đúng nhất về cách sang đường của người đi bộ?",
+  "answer1": " Người đi bộ khi vội có thể chui qua dải phân cách giữa đường dùng để ngăn ngừa sang đường trái luật đểqua đường.",
+  "answer2": " Người đi bộ không được sang đường ở đường không có vạch sang đường.",
+  "answer3": " Người khuyết tật có thể sang đường mà không sử dụng cơ sở hạ tầng hỗ trợ sang đường.",
+  "answer4": " Người đi bộ không được sang đường ngay phía trước hoặc sau xe trong bất kỳ trường hợp nào.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 82,
+  "question": "Biển báo an toàn nào bắt buộc phải lắp đặt khi không thể kẻ vạch sang đường được do mặt đường chưađược trải nhựa?",
+  "answer1": " Biển cảnh báo nguy hiểm",
+  "answer2": " Biển cảnh báo cho biết mặt đường chưa được chỉnh trang",
+  "answer3": " Biển báo phụ cho biết độ dài của vạch sang đường",
+  "answer4": " Biển báo phụ cho biết chiều rộng của vạch sang đường",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 83,
+  "question": "Theo Luật Giao thông đường bộ, cách an toàn nhất để người lái xe mô tô hai bánh sử dụng làn đường đi bộbăng qua đường là cách nào?",
+  "answer1": " Xuống xe mô tô hai bánh và dắt xe đi bộ.",
+  "answer2": " Cứ thế lái xe mô tô hai bánh băng qua.",
+  "answer3": " Lái xe mô tô hai bánh đi chậm lại rồi vượt qua.",
+  "answer4": " Tăng tốc độ của xe mô tô hai bánh và nhanh chóng băng qua.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 84,
+  "question": "Theo Luật Giao thông đường bộ, phương pháp nào an toàn nhất cho người đi bộ đi trên đường có vạchphân cách nhưng không phân chia đường dành cho người đi bộ và đường dành cho xe?",
+  "answer1": " Phải đi bộ ở khu vực sát mép lề đường",
+  "answer2": " Đi bộ trên toàn bộ đường",
+  "answer3": " Phải đi bộ dọc theo dải phân cách giữa đường",
+  "answer4": " Tuyệt đối không được đi",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 85,
+  "question": "Theo Luật Giao thông đường bộ, xe lăn điện dùng trong y tế phải đi vào làn đường nào?",
+  "answer1": " Làn đường dành cho xe",
+  "answer2": " Làn đường dành riêng cho xe đạp",
+  "answer3": " Vỉa hè",
+  "answer4": " Làn đường ưu tiên cho xe đạp",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 86,
+  "question": "Phương pháp lái xe an toàn nhất trong trường hợp người điều khiển xe mô tô hai bánh đi trên đường nhánhnhỏ bên trong khu dân cư tại trung tâm thành phố là gì?",
+  "answer1": " Nhấp nháy đèn trước để tạo sự chú ý cho xe ô tô đi ngược hướng.",
+  "answer2": " Liên tục bấm còi để cho biết xe mình đang di chuyển.",
+  "answer3": " Giảm tốc độ vì trẻ em có thể đột nhiên lao ra giữa đường.",
+  "answer4": " Tăng tốc độ để nhanh chóng đi qua.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 87,
+  "question": "Phương pháp lưu thông nào của người lái xe gắn máy dưới 125cc là đúng?",
+  "answer1": " Lưu thông vào giữa hai làn đường dành cho xe chạy trong trường hợp quá nhiều xe bị ùn tắc trên làn đườngdành cho xe ô tô.",
+  "answer2": " Chỉ đi vào làn xe bên phải trong số các làn xe lưu thông.",
+  "answer3": " Đi trên vỉa hè trong trường hợp không có người đi bộ trên vỉa hè.",
+  "answer4": " Đi vào khu vực sát mép lề đường để lưu thông nhanh chóng.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 88,
+  "question": "Đâu là cách lái xe an toàn nhất khi băng qua vỉa hè để đi vào trạm xăng hay cửa hàng?",
+  "answer1": " Bật đèn trước và đi qua.",
+  "answer2": " Bấm còi ra tín hiệu và đi qua.",
+  "answer3": " Nhanh chóng đi qua để người đi bộ không bị cản trở.",
+  "answer4": " Tạm dừng, kiểm tra an toàn rồi đi qua.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 89,
+  "question": "Hãy chọn giải thích đúng về phương pháp lưu thông của mọi loại phương tiện.",
+  "answer1": " Lưu thông bên trái vạch phân cách giữa đường.",
+  "answer2": " Lưu thông bên phải vạch phân cách giữa đường.",
+  "answer3": " Khi ra vào nơi không phải là con đường, đi chậm trên vỉa hè và đi qua.",
+  "answer4": " Ở khu vực có bảng hướng dẫn cấm đi vào như khu vực an toàn thì tạm dừng rồi đi qua.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 90,
+  "question": "Theo Luật Giao thông đường bộ, người lái xe nào đang lái xe an toàn nhất?",
+  "answer1": " Chú ý và lái xe bên cạnh người đi bộ khi người đi bộ đang băng qua đoạn đường không có vạch sang đườngcho người đi bộ.",
+  "answer2": " Lái xe với tốc độ cao hơn trên những đoạn dốc lên của con đường có độ dốc lớn.",
+  "answer3": " Tạm dừng tại đoạn đường giao nhau không có đèn tín hiệu, không thể quan sát phải - trái.",
+  "answer4": " Trường hợp nhận thấy có nguy cơ xảy ra tai nạn giao thông đối với trẻ em thì bấm còi để thông báo cho trẻvề sự nguy hiểm.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 91,
+  "question": "Trường hợp các xe cùng định đi vào giao lộ không có đèn tín hiệu, xe có thứ tự ưu tiên lưu thông thấp nhấtlà xe nào trong số các xe sau đây?",
+  "answer1": " Xe đi vào làn đường có chiều rộng lớn hơn",
+  "answer2": " Xe đang chuẩn bị rẽ trái trong trường hợp chiều rộng làn đường giống nhau",
+  "answer3": " Xe ở làn đường bên phải của giao lộ trong trường hợp chiều rộng làn đường giống nhau",
+  "answer4": " Xe đang chuẩn bị rẽ phải trong trường hợp chiều rộng làn đường giống nhau",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 92,
+  "question": "Trong Luật Giao thông đường bộ, nội dung nào sau đây không đúng với mô tả về phương pháp và tốc độ dichuyển của các phương tiện giao thông?",
+  "answer1": " Khi muốn rẽ trái ở đoạn đường giao nhau không có đèn tín hiệu, nếu có xe khác đang đi thẳng thì phảinhường đường cho xe đang đi thẳng.",
+  "answer2": " Khi dừng xe ô tô tại đoạn đường không phân biệt lòng đường và vỉa hè thì phải duy trì khoảng cách tối thiểu50cm tính từ lề đường bên phải đến tâm đường.",
+  "answer3": " Trường hợp xe phía trước muốn rẽ phải ở đoạn đường giao nhau và bật đèn tín hiệu thì xe phía sau khôngđược cản trở xe phía trước.",
+  "answer4": " Tốc độ tối thiểu trên đường dành riêng cho xe ô tô là 40 km/giờ.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 93,
+  "question": "Hành vi nào sau đây là hành vi vi phạm trong trường hợp tiến vào đoạn đường giao nhau nhưng không thểđi qua sau khi đèn giao thông đã đổi tín hiệu và gây ra hiện tượng 'thúc đuôi', tức là hành vi cản trở sự lưuthông của xe khác?",
+  "answer1": " Vi phạm cách lưu thông ở đoạn đường giao nhau",
+  "answer2": " Vi phạm cách tạm dừng",
+  "answer3": " Vi phạm cách chuyển làn",
+  "answer4": " Vi phạm cách xử lý giảm ùn tắc",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 94,
+  "question": "Giải thích nào dưới đây về khoảng cách an toàn là phù hợp nhất?",
+  "answer1": " Khoảng cách có thể tránh va chạm với xe phía trước nếu xe phía trước dừng lại đột ngột.",
+  "answer2": " Khoảng cách đề phòng xe đạp va chạm vào phía sau xe ô tô khi xe đạp đi phía sau.",
+  "answer3": " Khoảng cách từ khi bắt đầu phanh cho đến khi xe dừng.",
+  "answer4": " Khoảng cách từ thời điểm phát hiện nguy hiểm, đạp phanh tới thời điểm phanh bắt đầu hoạt động.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 95,
+  "question": "Mục đích xây sân đỗ xe chở hàng trên đường là?",
+  "answer1": " Để tiết kiệm nhiên liệu",
+  "answer2": " Để truy bắt xe vi phạm",
+  "answer3": " Để giảm lượng lưu thông giao thông",
+  "answer4": " Để giảm tốc độ xe",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 96,
+  "question": "Dưới đây là nội dung giải thích về khu vực sát mép lề đường. Câu nào đúng nhất?",
+  "answer1": " Là nơi biểu thị đường ranh giới bằng các biển báo an toàn nhằm đảm bảo an toàn cho người đi bộ.",
+  "answer2": " Là nơi dành cho xe đạp ở làn đường có phân chia giữa vỉa hè và đường xe chạy.",
+  "answer3": " Là nơi được biểu thị bởi biển báo an toàn để người đi bộ có thể qua đường.",
+  "answer4": " Là nơi xe mô tô hai bánh hoặc xe gắn máy dưới 125cc có thể đi lại.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 97,
+  "question": "Giải thích nào về khoảng cách dừng xe là đúng?",
+  "answer1": " Là khoảng cách dừng hẳn sau khi người lái nhấn phanh.",
+  "answer2": " Là khoảng cách để tránh tai nạn khi xe phía trước dừng đột ngột.",
+  "answer3": " Là khoảng cách từ khi lái xe phát hiện nguy hiểm và đạp phanh cho đến khi xe dừng hẳn trên thực tế.",
+  "answer4": " Là khoảng cách từ khi người lái nhận thức được sự nguy hiểm và nhấn phanh cho đến trước khi phanh hoạtđộng.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 98,
+  "question": "Nội dung nào giải thích đúng nhất về việc tuân thủ tốc độ của người lái xe mô tô hai bánh?",
+  "answer1": " Không cần phải tuân thủ tốc độ theo luật quy định dành cho đường thông thường.",
+  "answer2": " Phải ưu tiên tuân thủ tốc độ giới hạn được quy định trên biển báo an toàn hơn là tốc độ lưu thông theo luậtquy định.",
+  "answer3": " Khi tốc độ lưu thông theo luật quy định và tốc độ được quy định trên biển báo an toàn khác nhau thì chỉ cầntuân thủ một trong hai là được.",
+  "answer4": " Phải ưu tiên tốc độ lưu thông theo luật hơn là tốc độ quy định trên biển báo.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 99,
+  "question": "Đang tiến vào làn đường giao nhau thì cảnh sát giao thông đưa ra tín hiệu dừng lại. Biện pháp lái xe an toànnhất ở đây là gì?",
+  "answer1": " Tạm thời dừng lại ngay trước vạch dừng.",
+  "answer2": " Tiến vào với tốc độ cao.",
+  "answer3": " Vừa bật đèn hiệu khẩn cấp vừa tiến vào.",
+  "answer4": " Từ từ tiến vào đường giao nhau.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 100,
+  "question": "Phương pháp nào đúng nhất trong trường hợp định rẽ trái ở đường giao nhau đang bị ùn tắc?",
+  "answer1": " Nếu có thể thì cũng tiến vào theo xe phía trước.",
+  "answer2": " Nếu là đèn xanh thì tiến vào cũng không có vấn đề gì.",
+  "answer3": " Kể cả khi là đèn đỏ nhưng nếu có không gian thì có thể tiến vào.",
+  "answer4": " Dù là đèn xanh nhưng nếu không có không gian thì không tiến vào.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 101,
+  "question": "Câu nào giải thích đúng về cách dừng - đỗ xe?",
+  "answer1": " Không cần tuân theo biển báo an toàn khi đỗ xe trên đường vào ban đêm.",
+  "answer2": " Khi làm theo chỉ thị của cảnh sát, dù gây cản trở đến các phương tiện giao thông khác cũng có thể dừng -đỗ xe.",
+  "answer3": " Khi đỗ xe trên đường không phân chia vỉa hè và đường dành cho xe thì có thể đỗ xe ở cả khu vực an toàn.",
+  "answer4": " Nếu có khách đang lên xe ở trạm xe buýt thì có thể dừng xe nhưng không được đỗ xe.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 102,
+  "question": "Theo Luật Giao thông đường bộ, nơi nào cấm đỗ xe?",
+  "answer1": " Bãi đỗ xe trên đường được lắp đặt cả đường xe chạy và vỉa hè theo Luật về bãi đỗ xe.",
+  "answer2": " Khu vực đỗ xe trên đường phân chia rõ đường xe chạy và vỉa hè.",
+  "answer3": " Trong vòng 5 mét tính từ góc đường hoặc lề đường của đoạn đường giao nhau.",
+  "answer4": " Bãi đỗ xe ưu tiên cho người sống trong khu vực đường nhánh bên trong khu dân cư.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 103,
+  "question": "Theo Pháp lệnh về Giao thông đường bộ, tiêu chuẩn xử phạt nào sau đây áp dụng cho trường hợp ngườiđiều khiển xe mô tô hai bánh chạy quá tốc độ tối đa cho phép trên 80 km/giờ và dưới 100 km/giờ?",
+  "answer1": " Phạt tiền hình sự tối đa 300.000 Won hoặc tạm giam",
+  "answer2": " Phạt tiền hình sự tối đa 1 triệu Won hoặc tạm giam",
+  "answer3": " Phạt tiền hình sự tối đa 2 triệu Won hoặc phạt tù tối đa 6 tháng",
+  "answer4": " Phạt tiền hình sự tối đa 5 triệu Won hoặc phạt tù tối đa 1 năm",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 104,
+  "question": "Làn đường nào dưới đây là làn đường lưu thông của xe mô tô hai bánh trên đường thông thường có 4 lànxe một chiều?",
+  "answer1": " Làn số 1",
+  "answer2": " Làn bên trái",
+  "answer3": " Làn bên phải",
+  "answer4": " Tất cả các làn",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 105,
+  "question": "Khi đang lái xe lên dốc cao của đường có 2 làn ở mỗi chiều thì phương pháp lái xe nào là an toàn nhất?",
+  "answer1": " Trong trường hợp tầm nhìn bị che bởi xe tải chở hàng hóa ở phía trước thì phải nhanh chóng thay đổi lànđường.",
+  "answer2": " Cài cần số cao và đi lên dốc.",
+  "answer3": " Trường hợp tốc độ xe cao thì đi ở làn số 2.",
+  "answer4": " Với xe có tốc độ cao thì tiếp tục tăng tốc và đi tiếp.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 106,
+  "question": "Theo Luật Giao thông đường bộ, đèn xe mô tô hai bánh nào phải được bật khi dừng hoặc đỗ xe trênđường vào ban đêm do xe bị hỏng?",
+  "answer1": " Đèn trước",
+  "answer2": " Đèn bên hông",
+  "answer3": " Đèn hậu",
+  "answer4": " Đèn biển số",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 107,
+  "question": "Xe mô tô hai bánh đi trên đường như sau. Theo Luật Giao thông đường bộ, trường hợp nào không vi phạmtốc độ? (Ngoại trừ các khu dân cư, thương mại và công nghiệp)",
+  "answer1": " Đi với tốc độ 70km/giờ trên đường thông thường có 2 làn xe một chiều mà mặt đường bị đóng băng.",
+  "answer2": " Đi với tốc độ 50km/giờ trên đường thông thường có 2 làn xe một chiều mà có tuyết rơi phủ dày dưới 20mm.",
+  "answer3": " Đi với tốc độ 80km/giờ trên đường thông thường có 2 làn xe một chiều và mặt đường ướt vì mưa.",
+  "answer4": " Đi với tốc độ 50km/giờ trên đường thông thường có 2 làn xe một chiều mà có sương mù bao phủ và tầmnhìn xa trong phạm vi 100m.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 108,
+  "question": "Phương pháp nào đúng nhất khi lái xe mô tô hai bánh đi qua gờ giảm tốc?",
+  "answer1": " Tránh gờ giảm tốc và đi sang khu vực lề đường.",
+  "answer2": " Tăng tốc để đi qua.",
+  "answer3": " Phanh gấp để đi qua.",
+  "answer4": " Đi từ từ qua.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 109,
+  "question": "Vượt lên xe phía trước như thế nào bị coi là vi phạm?",
+  "answer1": " Lấn vạch đứt quãng màu trắng rồi vượt lên trước ở đường dốc có 2 làn ở mỗi chiều.",
+  "answer2": " Chú ý quan sát hướng đối diện, lấn qua vạch phân cách liền màu vàng rồi vượt lên trước.",
+  "answer3": " Vượt lên trước theo hướng bên trái của xe phía trước ở đường không rải nhựa.",
+  "answer4": " Chú ý quan sát an toàn rồi vượt lên trước ở đường có vạch phân cách đứt quãng màu vàng.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 110,
+  "question": "Trong những địa điểm sau, địa điểm nào được vượt lên trước?",
+  "answer1": " Giao lộ",
+  "answer2": " Đường quốc lộ có ký hiệu vạch liền màu vàng",
+  "answer3": " Trong đường hầm",
+  "answer4": " Đường địa phương có ký hiệu vạch đứt quãng màu vàng",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 111,
+  "question": "Câu nào giải thích đúng về phương pháp vượt lên trước của xe mô tô hai bánh?",
+  "answer1": " Có thể vượt lên trước trong đường hầm vào ban ngày.",
+  "answer2": " Có thể vượt lên trước không liên quan là bên trái hay bên phải của xe phía trước.",
+  "answer3": " Không thể vượt lên trước ở giao lộ vì đây là địa điểm cấm vượt trước.",
+  "answer4": " Vượt lên phía bên phải của xe đi trước một cách an toàn.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 112,
+  "question": "Câu nào giải thích đúng về tốc độ của xe ô tô đang định vượt khi vượt lên trước xe khác?",
+  "answer1": " Khi vượt xe khác thì không giới hạn tốc độ.",
+  "answer2": " Có thể tăng tốc đến hơn 50% tốc độ cho phép trên đường đó.",
+  "answer3": " Không có giới hạn mà tùy theo năng lực của người lái xe.",
+  "answer4": " Khi vượt lên thì cũng chỉ có thể tăng đến tốc độ tối đa quy định ở đường đang đi.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 113,
+  "question": "Người lái xe đã chạy qua bên trái xe đang chạy phía trước rồi vượt lên trước ở đường giao nhau. Vậy ngườilái đã vi phạm nội dung gì?",
+  "answer1": " Không nhường đường theo quyền ưu tiên",
+  "answer2": " Vi phạm chỗ cấm vượt lên trước",
+  "answer3": " Vi phạm lấn sang vạch phân cách",
+  "answer4": " Vi phạm cách vượt lên trước",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 114,
+  "question": "Trong trường hợp sau, đoạn đường nào có thể thay đổi làn đường?",
+  "answer1": " Đoạn đường có vạch đứt quãng màu trắng.",
+  "answer2": " Đoạn đường có vạch liền màu vàng.",
+  "answer3": " Đoạn đường trên cầu có vạch liền màu trắng.",
+  "answer4": " Đoạn đường trong hầm có vạch liền màu trắng.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 115,
+  "question": "Giải thích nào đúng về cách vượt lên trước trong đường hầm?",
+  "answer1": " Phải vượt lên trước về bên trái.",
+  "answer2": " Phải bật đèn pha rồi vượt lên trước.",
+  "answer3": " Phải vượt lên trước trong phạm vi tốc độ tối đa theo quy định của Luật.",
+  "answer4": " Không được vượt lên trước.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 116,
+  "question": "Trong trường hợp nào có thể vượt lên trước?",
+  "answer1": " Khi xe phía trước đang vượt lên trước xe khác",
+  "answer2": " Khi xe phía trước dừng lại hoặc đi chậm để phòng tránh nguy hiểm",
+  "answer3": " Khi có một chiếc xe khác ở bên trái và đang chạy song song với xe phía trước",
+  "answer4": " Khi xe phía trước chạy chậm và đang giữ khoảng cách an toàn với xe khác",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 117,
+  "question": "Khi có xe ô tô con đang đi chậm trên đường có 1 làn xe mỗi chiều, cách phù hợp nhất để xe mô tô haibánh vượt lên phía trước là cách nào?",
+  "answer1": " Vượt bằng lề bên phải của làn đường.",
+  "answer2": " Vượt khi không có xe nào đang chạy ngược chiều tới ở nơi có vạch chấm màu vàng ở giữa đường.",
+  "answer3": " Nếu có thể đi dàn hàng với xe ô tô để vượt.",
+  "answer4": " Vượt khi không có xe nào đang chạy ngược chiều tới ở nơi có vạch liền màu vàng ở giữa đường.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 118,
+  "question": "Câu nào giải thích đúng về việc vượt lên trước khi dải phân cách giữa đường là vạch đôi gồm cả vạch đứtmàu vàng và vạch liền màu vàng?",
+  "answer1": " Không thể lấn vạch phân cách rồi vượt lên trước dù cho đang ở bên vạch liền màu vàng hay vạch đứt quãngmàu vàng.",
+  "answer2": " Có thể lấn vạch phân cách rồi vượt lên trước ở bên có vạch đứt quãng màu vàng.",
+  "answer3": " Nếu chắc chắn an toàn rồi thì có thể vượt lên trước mà không bận tâm đến vạch liền màu vàng hay vạch đứtmàu vàng.",
+  "answer4": " Có thể lấn vạch phân cách rồi vượt lên trước ở bên có vạch liền màu vàng.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 119,
+  "question": "Theo Luật Giao thông đường bộ, khi xe cứu hộ khẩn cấp đang lưu thông với mục đích khẩn cấp tiến đếngần thì người lái xe phải tuân thủ nội dung nào dưới đây?",
+  "answer1": " Phải tạm dừng ở lề trái trong giao lộ khi xe cứu hộ khẩn cấp tới gần giao lộ.",
+  "answer2": " Phải tạm dừng tránh giao lộ trong trường hợp xe cứu hộ khẩn cấp tới gần giao lộ.",
+  "answer3": " Tăng tốc độ nhanh hơn xe cứu hộ khẩn cấp và nhanh chóng vượt qua.",
+  "answer4": " Tạm dừng ngay tại chỗ và chờ đến khi xe cứu hộ khẩn cấp đi qua.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 120,
+  "question": "Nội dung nào là cách lái xe an toàn nhất khi đang rẽ phải ở giao lộ trong trường hợp xe cứu hỏa đang bậtđèn tín hiệu và hú còi đang tiến đến gần?",
+  "answer1": " Tạm dừng xe tránh giao lộ.",
+  "answer2": " Dừng xe ngay ở vị trí đang đứng.",
+  "answer3": " Đi chậm và rẽ phải.",
+  "answer4": " Nhanh chóng vượt qua giao lộ sau đó đi tiếp.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 121,
+  "question": "Khi đang chạy trên đường thì có một chiếc xe cấp cứu đến gần. Biện pháp nào sau đây là đúng nhất vớingười lái xe?",
+  "answer1": " Lái xe quá tốc độ quy định để tránh xe cấp cứu.",
+  "answer2": " Nhường đường để xe cấp cứu có thể vượt qua trước.",
+  "answer3": " Tiếp tục lái xe trên đường và không cần biện pháp nào đặc biệt.",
+  "answer4": " Về nguyên tắc phải tránh vào mép trái của đường để nhường đường.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 122,
+  "question": "Xe nào dưới đây được xem là xe khẩn cấp?",
+  "answer1": " Xe cứu hỏa đang đi tới xưởng bảo dưỡng ô tô để sửa chữa hỏng hóc",
+  "answer2": " Xe cấp cứu đã chuyển bệnh nhân và đang trên đường về",
+  "answer3": " Tất cả ô tô đang thi hành công vụ",
+  "answer4": " Xe đang được sử dụng để kiểm tra sóng điện từ theo chỉ thị của Giám đốc Sở Cảnh sát tỉnh - thành phố",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 123,
+  "question": "Trong trường hợp xe mô tô hai bánh chở bệnh nhân trong tình trạng tính mạng đang nguy kịch thì phải làmgì để được công nhận là xe khẩn cấp?",
+  "answer1": " Phải nhận được sự cho phép của Giám đốc Sở Cảnh sát có thẩm quyền.",
+  "answer2": " Bật đèn pha hoặc đèn báo khẩn cấp trong lúc lái xe.",
+  "answer3": " Vì đang chở bệnh nhân nguy cấp nên không cần có biện pháp nào đặc biệt cả.",
+  "answer4": " Nhất định phải có xe khác hộ tống trong khi lưu thông.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 124,
+  "question": "Xe cứu hộ khẩn cấp nào được miễn giảm hình phạt trong trường hợp gây ra tai nạn giao thông khi đanglưu thông với mục đích khẩn cấp?",
+  "answer1": " Xe ô tô sử dụng trong trường hợp khẩn cấp để phòng ngừa rủi ro ở công ty điện lực",
+  "answer2": " Xe ô tô được sử dụng cho công việc kiểm tra sóng điện từ",
+  "answer3": " Xe tù được sử dụng để vận chuyển tù nhân",
+  "answer4": " Xe chở máu",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 125,
+  "question": "Mức tiền phạt cho người lái xe mô tô hai bánh vi phạm nghĩa vụ nhường đường cho xe cứu hộ khẩn cấp làbao nhiêu?",
+  "answer1": " 30.000 Won",
+  "answer2": " 40.000 Won",
+  "answer3": " 60.000 Won",
+  "answer4": " 70.000 Won",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 126,
+  "question": "Trường hợp nào người lái xe khẩn cấp không được sử dụng đèn cảnh báo ngoại trừ mục đích khẩn cấp?",
+  "answer1": " Trường hợp xe cảnh sát tuần tra để kiểm soát giao thông.",
+  "answer2": " Trường hợp xe ô tô được huy động cho công tác huấn luyện dân phòng tham gia tập huấn với mục đích sửdụng làm xe khẩn cấp như vốn có.",
+  "answer3": " Trường hợp xe ô tô được sử dụng trong cơ quan sửa chữa điện thoại đi tuần tra để phòng ngừa sự cố.",
+  "answer4": " Trường hợp xe chữa cháy đi tuần tra để ngăn ngừa hoả hoạn.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 127,
+  "question": "Xe nào được xem là xe khẩn cấp dù không bật đèn cảnh báo trong lúc đang làm nhiệm vụ khẩn cấp?",
+  "answer1": " Xe ô tô được sử dụng để vận chuyển bưu kiện khẩn cấp",
+  "answer2": " Xe chữa cháy",
+  "answer3": " Xe ô tô công vụ đang thực hiện công việc hộ tống",
+  "answer4": " Xe cấp cứu",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 128,
+  "question": "Xe nào không được coi là xe khẩn cấp trong các loại các xe dưới đây?",
+  "answer1": " Xe ô tô được dẫn đường bởi xe ô tô khác nhằm quản lý đường",
+  "answer2": " Xe ô tô được dẫn đường bởi xe khẩn cấp của cảnh sát",
+  "answer3": " Xe ô tô của lực lượng quân đội Hàn Quốc được dẫn đường bởi xe khẩn cấp của lực lượng quân đội HànQuốc",
+  "answer4": " Xe ô tô đang vận chuyển bệnh nhân nguy hiểm tính mạng",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 129,
+  "question": "Người điều khiển xe mô tô hai bánh vi phạm đèn tín hiệu trên đường không phải là khu vực bảo hộ và gâytai nạn giao thông khiến 2 người bị thương nặng thì bị xử phạt bao nhiêu điểm?",
+  "answer1": " 15 điểm",
+  "answer2": " 30 điểm",
+  "answer3": " 45 điểm",
+  "answer4": " 60 điểm",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 130,
+  "question": "Cách lái xe nào đúng khi đi ngược chiều với xe buýt đưa đón học sinh trên đường không có vạch phâncách?",
+  "answer1": " Lái xe đi qua bình thường khi xe đang bật đèn nháy báo hiệu trẻ em đang lên xuống xe.",
+  "answer2": " Lái xe chậm lại khi xe đang bật đèn nháy báo hiệu trẻ em đang lên xuống xe.",
+  "answer3": " Tạm dừng, kiểm tra an toàn và lái xe chậm lại trong trường hợp xe đang bật đèn nháy báo hiệu trẻ em đanglên xuống xe.",
+  "answer4": " Tăng tốc và đi qua trong trường hợp xe đang bật đèn nháy báo hiệu trẻ em đang lên xuống xe.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 131,
+  "question": "Xe buýt trường mẫu giáo ra tín hiệu đang chở trẻ em hoặc trẻ nhỏ trên xe và đang di chuyển từ làn số 2sang làn số 1 của đường 1 chiều. Phương pháp lái xe an toàn nhất ở đây là gì?",
+  "answer1": " Không được vượt lên trước kể cả khi làn số 2 đang trống.",
+  "answer2": " Vượt lên làn số 2 để chạy.",
+  "answer3": " Bấm còi và ra tín hiệu để yêu cầu nhường đường phía trước.",
+  "answer4": " Quan sát tình hình ở làn đường đối diện rồi đi qua dải phân cách để vượt lên trước.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 132,
+  "question": "Nội dung nào đúng với giải thích về khu vực bảo vệ trẻ em?",
+  "answer1": " Có thể bố trí trước nhà trẻ hoặc trường trung học cơ sở.",
+  "answer2": " Thị trưởng có thể đặt giới hạn tốc độ lưu thông của xe.",
+  "answer3": " Có nghĩa là trẻ em trong khu vực bảo vệ trẻ em là trẻ dưới 12 tuổi.",
+  "answer4": " Không thể hạn chế tốc độ lưu thông của xe dưới 30 km/giờ.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 133,
+  "question": "Đáp án nào giải thích đúng về khu vực bảo vệ trẻ em?",
+  "answer1": " Là một đoạn đường nhất định trên đường trong phạm vi 100m từ cổng ra vào của trường tiểu học.",
+  "answer2": " Có thể hạn chế tốc độ lái xe ô tô dưới 40km/giờ.",
+  "answer3": " Thời gian của đèn tín hiệu dành cho người đi bộ được lắp đặt trong khu vực bảo vệ trẻ em tuân theo tiêu chuẩn tốc độ đibộ nhanh nhất của trẻ em.",
+  "answer4": " Có thể hạn chế xe ô tô qua lại trong khu vực bảo vệ trẻ em.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 134,
+  "question": "Ai không có quyền quy định khu vực bảo vệ trẻ em?",
+  "answer1": " Thị trưởng thành phố thủ đô",
+  "answer2": " Thị trưởng thành phố trực thuộc trung ương",
+  "answer3": " Chủ tịch huyện không thuộc các thành phố trực thuộc trung ương",
+  "answer4": " Giám đốc Sở Cảnh sát",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 135,
+  "question": "Công trình nào không phải là công trình an toàn có thể được lắp đặt ở khu vực bảo vệ trẻ em?",
+  "answer1": " Rào chắn bảo vệ",
+  "answer2": " Mô hình vạch sang đường",
+  "answer3": " Thiết bị phòng chống quá tốc độ",
+  "answer4": " Biển báo khu vực bảo vệ trẻ em",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 136,
+  "question": "Theo Luật Giao thông đường bộ, hành vi vi phạm nào không bị xử phạt tăng nặng bằng tiền phạt hay bằngđiểm phạt khi vi phạm trong khu vực bảo vệ trẻ em từ 8 giờ sáng đến 8 giờ tối?",
+  "answer1": " Vi phạm vượt lên trước",
+  "answer2": " Vi phạm đèn tín hiệu - hướng dẫn",
+  "answer3": " Vi phạm tốc độ",
+  "answer4": " Cản trở người đi bộ lưu thông",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 137,
+  "question": "Sau đây là giải thích về các điều kiện, tổ chức và vận hành xe buýt đưa đón học sinh. Nội dung nào sai?",
+  "answer1": " Xe buýt đưa đón học sinh là xe ô tô được sử dụng vào việc đưa đón trẻ em đến trường và về nhà tại các cơsở có đối tượng giáo dục là trẻ em.",
+  "answer2": " Chỉ khi có trẻ em trên xe thì người lái xe buýt đưa đón học sinh mới phải để giấy chứng nhận đã được đàotạo do Sở trưởng Sở Cảnh sát cấp trong xe",
+  "answer3": " Người lái xe của tất cả các xe dù nhận thấy đảm bảo an toàn thì cũng không được vượt lên trước xe buýtđưa đón học sinh đang đi trên đường và đang ra tín hiệu báo có trẻ em hoặc trẻ sơ sinh trên xe.",
+  "answer4": " Người điều khiển xe buýt đưa đón trẻ em khi chở trẻ em hoặc trẻ sơ sinh trên xe chỉ được điều khiển xe khicó người giám hộ của trẻ đi cùng.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 138,
+  "question": "Mức phạt và điểm phạt đối với người điều khiển xe mô tô hai bánh lái xe với tốc độ 72km\/giờ trong khuvực bảo vệ trẻ em có giới hạn tốc độ là 30km/giờ vào khoảng 9 sáng?",
+  "answer1": " 80.000 Won, 60 điểm",
+  "answer2": " 60.000 Won, 40 điểm",
+  "answer3": " 40.000 Won, 30 điểm",
+  "answer4": " 20.000 Won, 15 điểm",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 139,
+  "question": "Mức phạt và điểm phạt đối với người điều khiển xe mô tô hai bánh vượt lên trước xe buýt chở trẻ em tớitrường đang phát tín hiệu báo có trẻ em trên xe?",
+  "answer1": " 90.000 Won, 40 điểm",
+  "answer2": " 60.000 Won, 30 điểm",
+  "answer3": " 30.000 Won, 15 điểm",
+  "answer4": " 20.000 Won, 10 điểm",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 140,
+  "question": "Người điều khiển xe mô tô hai bánh trong khu vực bảo vệ trẻ em vào khoảng 10 giờ sáng vi phạm điềunào dưới đây thì có thể phải chịu mức phạt tăng nặng?",
+  "answer1": " Lấn sang vạch phân cách chính giữa",
+  "answer2": " Sử dụng điện thoại di động khi đang lái xe",
+  "answer3": " Vi phạm cấm dừng, đỗ xe",
+  "answer4": " Vi phạm cách chuyển làn đường",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 141,
+  "question": "Theo Luật Giao thông đường bộ, người điều khiển xe gắn máy có động cơ dưới 125cc (ngoại trừ thiết bị dichuyển cá nhân) khi vi phạm nội dung hạn chế - cấm lưu thông trong khu vực bảo vệ trẻ em vào khoảng 3giờ chiều sẽ bị phạt bao nhiêu tiền?",
+  "answer1": " 80.000 Won",
+  "answer2": " 60.000 Won",
+  "answer3": " 20.000 Won",
+  "answer4": " 10.000 Won",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 142,
+  "question": "Khi người lái xe gắn máy có động cơ dưới 125cc gây cản trở cho người đi bộ sang đường ở vạch sangđường trong khu vực bảo vệ trẻ em từ ( ) tới ( ) thì mức phạt sẽ bị tăng nặng hơn. Đáp án đúng theo thứtự là gì?",
+  "answer1": " 6 giờ sáng, 6 giờ chiều",
+  "answer2": " 7 giờ sáng, 7 giờ tối",
+  "answer3": " 8 giờ sáng, 8 giờ tối",
+  "answer4": " 9 giờ sáng, 9 giờ tối",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 143,
+  "question": "Người điều khiển xe mô tô hai bánh sẽ bị xử phạt như thế nào trong trường hợp gây thương tích cho trẻem do không tuân thủ lái xe an toàn trong khu vực bảo vệ trẻ em?",
+  "answer1": " Không bị xử phạt nếu thoả thuận được với phụ huynh của trẻ em đó.",
+  "answer2": " Bị xử phạt hình sự.",
+  "answer3": " Không bị xử phạt nếu tham gia bảo hiểm toàn diện.",
+  "answer4": " Không bị xử phạt nếu tham gia bảo hiểm người lái xe.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 144,
+  "question": "Theo Luật Giao thông đường bộ, khu vực quy định nhằm bảo hộ và bảo đảm an toàn cho người cao tuổitránh khỏi nguy hiểm do tai nạn giao thông có tên là gì?",
+  "answer1": " Khu vực bảo vệ người cao tuổi",
+  "answer2": " Khu vực phúc lợi người già",
+  "answer3": " Khu vực bảo vệ người già",
+  "answer4": " Khu vực an toàn cho người già",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 145,
+  "question": "Phương pháp phát tín hiệu bằng tay nào đúng nhất khi đi chậm là gì?",
+  "answer1": " Người lái xe mô tô hai bánh không thể thực hiện tín hiệu bằng tay.",
+  "answer2": " Đưa cánh tay ra khỏi thân xe và duỗi xuống phía dưới ở góc 45 độ.",
+  "answer3": " Đưa cánh tay ra khỏi thân xe, duỗi xuống phía dưới ở góc 45 độ và vẫy tay lên xuống.",
+  "answer4": " Đưa tay trái hoặc tay phải ra phía bên trái hoặc bên phải rồi dang ngang cánh tay ra và vẫy tay về phía trướcvà phía sau.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 146,
+  "question": "Biện pháp xử lý nào dưới đây mà Cảnh sát trưởng hay Giám đốc Sở Cảnh sát tỉnh - thành phố không thểthực hiện vì người cao tuổi ở Khu vực bảo vệ người già?",
+  "answer1": " Giới hạn hay cấm xe ô tô lưu thông.",
+  "answer2": " Quy định và điều hành các đường nhánh bên trong khu dân cư thành đường một chiều.",
+  "answer3": " Giới hạn tốc độ điều khiển xe là 30 km/giờ.",
+  "answer4": " Xây dựng bãi đỗ xe trên đường dành cho người cao tuổi tại các đường liên kết với cổng ra vào.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 147,
+  "question": "Ai là người có quyền quy định khu vực bảo vệ người già?",
+  "answer1": " Hiệu trưởng Trường đại học cho người cao tuổi* (*Trực thuộc các Chi hội người cao tuổi)",
+  "answer2": " Chủ tịch Hiệp hội người cao tuổi Hàn Quốc",
+  "answer3": " Chủ tịch huyện không thuộc các thành phố trực thuộc trung ương",
+  "answer4": " Giám đốc Sở Cảnh sát địa phương",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 148,
+  "question": "Người cao tuổi nào sau đây không vi phạm Luật Giao thông đường bộ?",
+  "answer1": " Đi sang đường không có vạch sang đường bằng lối đi ngắn nhất.",
+  "answer2": " Vì đường không có xe cộ lưu thông nên đi tắt qua đường mà không cần đi qua lối vạch sang đường.",
+  "answer3": " Băng qua đoạn đường ngay phía đằng sau của chiếc xe tải đang dừng.",
+  "answer4": " Đi về phía bên trái của vỉa hè.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 149,
+  "question": "Theo Luật Giao thông đường bộ, người điều khiển xe gắn máy có động cơ dưới 125cc (ngoại trừ thiết bị dichuyển cá nhân) khi vi phạm đèn tín hiệu trong khu vực bảo vệ người cao tuổi vào khoảng 5 giờ chiều sẽbị phạt bao nhiêu tiền và trừ bao nhiêu điểm?",
+  "answer1": " 100.000 Won, 40 điểm",
+  "answer2": " 80.000 Won, 30 điểm",
+  "answer3": " 60.000 Won, 15 điểm",
+  "answer4": " 40.000 Won, 10 điểm",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 150,
+  "question": "Theo Luật Giao thông đường bộ, nơi nào không phải là khu vực bảo vệ?",
+  "answer1": " Khu vực bảo vệ trẻ em",
+  "answer2": " Khu vực bảo vệ người cao tuổi",
+  "answer3": " Khu vực bảo vệ người khuyết tật",
+  "answer4": " Khu vực bảo vệ thanh thiếu niên",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 151,
+  "question": "Người lái xe gắn máy có động cơ dưới 125cc sẽ bị xử phạt như thế nào trong trường hợp gây thương tíchchẩn đoán điều trị trong 2 tuần cho người cao tuổi do hành vi không tuân thủ lái xe an toàn khi lái xetrong khu vực bảo vệ người cao tuổi?",
+  "answer1": " Không bị xử phạt nếu đã tham gia bảo hiểm tổng hợp.",
+  "answer2": " Luôn bị xử phạt hình sự.",
+  "answer3": " Phải thoả thuận với người cao tuổi thì mới không bị xử phạt.",
+  "answer4": " Không bị xử phạt chỉ cần đã tham gia bảo hiểm lái xe.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 152,
+  "question": "Chủ xe phải chịu mức phạt bao nhiêu trong trường hợp người điều khiển xe mô tô hai bánh dùng để giaohàng đã lái xe với tốc độ 51km/giờ trong khu vực bảo vệ người cao tuổi có giới hạn tốc độ là 30 km/giờvào khoảng 3 giờ chiều?",
+  "answer1": " 110.000 Won",
+  "answer2": " 90.000 Won",
+  "answer3": " 70.000 Won",
+  "answer4": " 50.000 Won",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 153,
+  "question": "Người lái xe gắn máy có động cơ dưới 125cc đã phát hiện muộn có người cao tuổi đang qua đường trênvạch sang đường không có đèn tín hiệu dành cho người đi bộ và phanh gấp nhưng gây thương tích chongười cao tuổi chẩn đoán điều trị trong 2 tuần. Giải thích nào dưới đây là đúng?",
+  "answer1": " Người lái xe hoàn toàn không có lỗi do không có đèn tín hiệu dành cho người đi bộ.",
+  "answer2": " Người lái xe phải chịu trách nhiệm hình sự và dân sự.",
+  "answer3": " Chỉ người cao tuổi đang sang đường bị xử lý hình sự.",
+  "answer4": " Không có trách nhiệm hình sự nếu người lái xe đã tham gia bảo hiểm tổng hợp.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 154,
+  "question": "Trường hợp muốn rẽ phải tại đoạn đường giao nhau không có đèn tín hiệu hỗ trợ xe và có tín hiệu đèngiao thông. Đáp án nào không đúng theo Luật Giao thông đường bộ?",
+  "answer1": " Trường hợp đèn tín hiệu hỗ trợ xe là đèn đỏ, có thể rẽ phải nếu không cản trở lưu thông của các xe khácđang lưu thông theo đèn giao thông.",
+  "answer2": " Trường hợp đèn tín hiệu hỗ trợ xe là đèn xanh, không dừng ngay trước vạch dừng xe và rẽ phải.",
+  "answer3": " Trường hợp đèn tín hiệu hỗ trợ xe là đèn vàng, rẽ phải khi không cản trở người đi bộ qua đường.",
+  "answer4": " Không tạm dừng và rẽ phải khi không cản trở lưu thông của xe khác bất kể đèn tín hiệu hỗ trợ xe.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 155,
+  "question": "Cách xử lý nào là đúng khi định rẽ phải ở đường giao nhau không có đèn giao thông?",
+  "answer1": " Nhanh chóng rẽ phải với tốc độ cao nếu có thể.",
+  "answer2": " Rẽ phải sau khi xe đã tiến vào đường giao nhau trước đi qua.",
+  "answer3": " Nếu có xe trước phía đối diện đang rẽ trái thì chú ý đến sự an toàn rồi cùng rẽ phải.",
+  "answer4": " Khi rẽ phải từ đường rộng sang đường hẹp thì không cần chú ý đến xe khác.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 156,
+  "question": "Hành động nào là an toàn nhất khi rẽ phải ở đường giao nhau?",
+  "answer1": " Đến gần đường giao nhau rồi bật đèn xi nhan báo hướng rẽ.",
+  "answer2": " Nếu có vạch liền màu trắng thì chú ý rồi chuyển làn đường sang bên phải.",
+  "answer3": " Rẽ phải nhưng không gây ảnh hưởng đến xe đi từ phía bên trái.",
+  "answer4": " Chú ý đến phương tiện giao thông khác rồi nhanh chóng rẽ phải.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 157,
+  "question": "Giải thích nào là đúng nhất về cách rẽ trái và rẽ phải ở đường giao nhau?",
+  "answer1": " Khi định rẽ phải thì phải chú ý đến xe đạp và người đi bộ đang đi hay dừng theo tín hiệu giao thông và điqua một cách nhanh chóng.",
+  "answer2": " Khi định rẽ trái thì luôn luôn phải đi qua phía ngoài của phần trung tâm giữa đường giao nhau.",
+  "answer3": " Khi định rẽ phải, phải đi chậm lại dọc theo mép đường bên phải trước.",
+  "answer4": " Trong trường hợp định rẽ trái ở đường giao nhau không có đèn tín hiệu, nếu có người đi bộ đang đi qua thìnhanh chóng đi qua trước người đó.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 158,
+  "question": "Cách nào là chính xác nhất để rẽ trái tại giao lộ không có phân luồng giao thông?",
+  "answer1": " Trên đường thông thường, bật đèn xi nhan ngay phía trước giao lộ muốn rẽ trái rồi sau đó rẽ trái.",
+  "answer2": " Đi từ từ theo vạch phân cách giữa đường rồi rẽ trái sang phía ngoài của khu vực chính giữa giao lộ.",
+  "answer3": " Không thể sử dụng phía bên ngoài của khu vực chính giữa giao lộ để rẽ trái ngay cả khi Giám đốc Sở Cảnhsát tỉnh - thành phố quy định.",
+  "answer4": " Bắt buộc phải đi từ từ, còn việc có dừng tạm thời được hay không thì người lái xe sẽ phán đoán và thực hiệntuỳ theo từng tình huống.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 159,
+  "question": "Cách lái xe nào an toàn nhất khi lấn làn để rẽ trái ở đường giao nhau chưa được phân luồng?",
+  "answer1": " Dù có xe khác lấn làn trước thì vẫn đi chậm và cẩn thận rẽ trái.",
+  "answer2": " Nhường đường cho xe ở đường rộng hơn.",
+  "answer3": " Xe đi thẳng không cần nhường đường cho xe rẽ phải hoặc nhường đường phía trước.",
+  "answer4": " Đi chậm theo vạch phân cách giữa đường rồi đi vào phần phía ngoài của khu vực trung tâm giao nhau để rẽtrái.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 160,
+  "question": "Giải thích nào dưới đây về phương pháp đi vòng xuyến là sai?",
+  "answer1": " Khi tới vòng xuyến, giảm tốc độ và đi từ từ.",
+  "answer2": " Chờ ở vạch nhường đường, dừng tạm thời và từ từ đi vào trong vòng xuyến.",
+  "answer3": " Xe định rẽ phải nhường đường cho xe đang tiến vào vòng xuyến.",
+  "answer4": " Vòng theo chiều ngược chiều kim đồng hồ.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 161,
+  "question": "Cách lưu thông nào là đúng ở đường giao nhau?",
+  "answer1": " Trong trường hợp đèn tín hiệu nhấp nháy màu đỏ thì đi chầm chậm.",
+  "answer2": " Trong trường hợp đèn tín hiệu nhấp nháy màu vàng thì đi qua thật nhanh.",
+  "answer3": " Không vượt lên trước ở đường giao nhau.",
+  "answer4": " Khi tiến vào đoạn đường giao nhau thì luôn bật đèn pha hướng lên và tiến vào.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 162,
+  "question": "Giải thích nào đúng về cách đi qua giao lộ?",
+  "answer1": " Lái xe thu hẹp khoảng cách với xe phía trước khi tiến vào giao lộ.",
+  "answer2": " Bấm còi xe và đi từ từ khi tiến vào giao lộ.",
+  "answer3": " Dù đèn xanh đang bật nhưng nếu giao lộ bị ùn tắc thì lái xe phải cho xe dừng lại ngay trước vạch dừng xe.",
+  "answer4": " Khi hiệu lệnh của cảnh sát giao thông không thống nhất với đèn tín hiệu thì lái xe phải chấp hành tín hiệuđèn giao thông.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 163,
+  "question": "Nội dung nào là phương pháp di chuyển đúng tại đoạn đường giao nhau không có điều khiển giao thông?",
+  "answer1": " Phải chạy chậm lại nếu không thể nhìn được bên trái, phải.",
+  "answer2": " Xe định rẽ trái phải được ưu tiên lưu thông hơn xe đang chạy thẳng.",
+  "answer3": " Xe định rẽ phải phải được ưu tiên lưu thông hơn xe đang chạy thẳng.",
+  "answer4": " Phải chạy chậm lại nếu đoạn đường giao nhau rộng hơn đoạn đường đang lưu thông.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 164,
+  "question": "Cách lái xe nào là thích hợp nhất khi rẽ trái ở đường giao nhau?",
+  "answer1": " Đi chậm theo vạch phân cách và rẽ trái sang hướng bên trong trung tâm giao lộ.",
+  "answer2": " Lái xe nhanh theo vạch phân cách và rẽ trái sang hướng bên trong trung tâm giao lộ.",
+  "answer3": " Lái xe nhanh theo vạch phân cách và rẽ trái sang hướng bên ngoài trung tâm giao lộ.",
+  "answer4": " Đi chậm theo vạch phân cách và rẽ trái theo sự thuận tiện của người lái xe.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 165,
+  "question": "Bạn đang chờ đèn tín hiệu trên giao lộ và phía trước xe bạn có một chiếc xe đạp. Phương pháp lái xe nàolà an toàn khi đèn chuyển sang màu xanh?",
+  "answer1": " Xuất phát trước xe đạp.",
+  "answer2": " Nhường đủ thời gian và không gian cho xe đạp.",
+  "answer3": " Rút ngắn khoảng cách với xe đạp và cứ thế tiến vào.",
+  "answer4": " Bấm còi tín hiệu thông báo rồi vượt qua trước.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 166,
+  "question": "Người lái xe mô tô hai bánh lấn sang vạch dừng và dừng xe lại khi đèn đỏ bật lên ở đường giao nhau. Quyđịnh nào có thể áp dụng xử phạt?",
+  "answer1": " Vi phạm rẽ",
+  "answer2": " Vi phạm làn đường",
+  "answer3": " Vi phạm cách lưu thông ở giao lộ",
+  "answer4": " Vi phạm tín hiệu giao thông",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 167,
+  "question": "Phương pháp nào đúng khi người điều khiển xe mô tô hai bánh định rẽ trái ở giao lộ?",
+  "answer1": " Chạy xe mô tô hai bánh lên vạch sang đường để sang đường.",
+  "answer2": " Bám sát lề đường bên phải của làn đường trước đó, vừa đi từ từ vừa sử dụng phần lề đường giao lộ để rẽtrái.",
+  "answer3": " Đi theo vạch phân cách của làn đường trước và sử dụng phía bên trong của trung tâm giao lộ để rẽ trái.",
+  "answer4": " Có thể rẽ trái bất kể làn đường nào.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 168,
+  "question": "Theo Pháp lệnh về Giao thông đường bộ, vạch chỉ dẫn hướng cần lưu thông trên giao lộ được gọi là gì?",
+  "answer1": " Vạch chính giữa",
+  "answer2": " Vạch hướng dẫn",
+  "answer3": " Vạch hạn chế",
+  "answer4": " Vạch chỉ thị",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 169,
+  "question": "Theo Luật Giao thông đường bộ, hành vi nào không bị cấm tại giao lộ?",
+  "answer1": " Vượt lên trước",
+  "answer2": " Đỗ xe",
+  "answer3": " Dừng xe",
+  "answer4": " Đi từ từ",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 170,
+  "question": "Phương pháp lái xe nào là an toàn cho người lái xe gắn máy có động cơ dưới 125cc khi đi qua vòng xuyến?",
+  "answer1": " Tạm thời dừng lại trước khi đi vào giao lộ, nếu không có xe tiến tới gần tới phía bên trái của mình thì có thểđi vào.",
+  "answer2": " Khi rẽ tại vòng xuyến cần phải rẽ theo hướng cùng chiều kim đồng hồ.",
+  "answer3": " Phải đi băng ngang qua khu vực trung tâm của vòng xuyến.",
+  "answer4": " Thường xuyên chen ngang sau khi đã tiến vào trong vòng xuyến.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 171,
+  "question": "Khi người điều khiển xe máy hai bánh muốn rẽ phải theo xe chở hàng tại đường giao nhau có đường dànhriêng cho xe đạp, cách điều khiển xe an toàn nhất là?",
+  "answer1": " Dừng lại, kiểm tra an toàn sau đó nhanh chóng rẽ phải.",
+  "answer2": " Bắt buộc phải kiểm tra an toàn phía trước và sau, chú ý các điểm mù rồi rẽ phải.",
+  "answer3": " Vì có đủ không gian nên bám sát bên phải xe chở hàng rồi rẽ phải song song nhau.",
+  "answer4": " Đổi qua đường dành riêng cho xe đạp rồi rẽ phải.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 172,
+  "question": "Theo Luật Giao thông đường bộ, trong các làn đường sau, làn đường nào không phải là làn đường dànhriêng?",
+  "answer1": " Làn đường dành riêng cho xe buýt",
+  "answer2": " Làn đường dành riêng cho xe nhiều chỗ ngồi",
+  "answer3": " Làn đường dành riêng cho mô tô 2 bánh",
+  "answer4": " Làn đường dành riêng cho xe đạp",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 173,
+  "question": "Theo Luật Giao thông đường bộ, người điều khiển xe mô tô hai bánh sẽ bị xử phạt như thế nào khi lái xesang làn đường dành cho xe đạp? (Không có biển cấm xe mô tô hai bánh lưu thông)",
+  "answer1": " Gửi thông báo phạt tiền vi phạm giao thông với mức 40.000 Won.",
+  "answer2": " Gửi thông báo phạt tiền vi phạm giao thông với mức 30.000 Won.",
+  "answer3": " Phạt hành chính với mức 20.000 Won.",
+  "answer4": " Không bị xử phạt.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 174,
+  "question": "Khi đèn tín hiệu hiển thị màu xanh lá cây mà người điều khiển phương tiện vẫn cố chen vào giao lộ đang bịtắc nghẽn và gây cản trở lưu thông cho các xe khác do phải dừng lại tại giao lộ. Người đó đã vi phạm điềugì?",
+  "answer1": " Chen ngang",
+  "answer2": " Vi phạm phương pháp lưu thông trên giao lộ",
+  "answer3": " Vi phạm cách chuyển làn đường",
+  "answer4": " Vi phạm tín hiệu",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 175,
+  "question": "Trước khi đi vào giao lộ thì đèn tín hiệu chuyển sang màu vàng. Phương pháp lái xe nào là an toàn nhất?",
+  "answer1": " Tăng tốc để đi qua thật nhanh.",
+  "answer2": " Dừng lại ngay trước vạch dừng xe.",
+  "answer3": " Sau khi chuyển sang làn đường không có xe thì đi vào luôn.",
+  "answer4": " Liên tục bấm còi khi chạy vì có thể có xe đang đi từ hướng khác.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 176,
+  "question": "Sau khi đi vào giao lộ thì đèn tín hiệu chuyển sang màu vàng. Phương pháp lái xe nào là an toàn nhất?",
+  "answer1": " Nếu có xe dừng phía trước thì chuyển sang làn đường bên trái và đi qua.",
+  "answer2": " Dừng ngay tại bên trong giao lộ.",
+  "answer3": " Đi thật nhanh qua giao lộ.",
+  "answer4": " Bấm còi để xe đạp gây cản trở phía trước tránh ra.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 177,
+  "question": "Phương pháp lái xe trên đoạn đường giao nhau nào đúng khi đèn tín hiệu nhấp nháy màu đỏ?",
+  "answer1": " Đi từ từ.",
+  "answer2": " Tạm thời dừng lại ngay trước giao lộ, kiểm tra an toàn rồi mới đi.",
+  "answer3": " Tiếp tục đi.",
+  "answer4": " Bấm còi và đi với tốc độ thật nhanh.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 178,
+  "question": "Dưới đây là các câu giải thích về tín hiệu đèn giao thông. Câu nào đúng nhất?",
+  "answer1": " Đèn vàng nhấp nháy - Xe phải dừng lại trước vạch chỉ đường và không được tiến về phía trước.",
+  "answer2": " Đèn đỏ bật lên- Người đi bộ có thể vừa chú ý vạch sang đường vừa sang đường.",
+  "answer3": " Đèn mũi tên màu xanh lục bật lên - Xe có thể đi theo hướng của mũi tên.",
+  "answer4": " Đèn vàng bật lên - Khi phương tiện giao thông đã tiến vào bên trong giao lộ thì phải dừng lại ở giao lộ đó.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 179,
+  "question": "Cách lái xe nào an toàn nhất khi tiến vào đường giao nhau có tín hiệu đèn giao thông?",
+  "answer1": " Vừa tăng tốc vừa tiến vào nhanh",
+  "answer2": " Vừa duy trì khoảng cách với xe phía trước vừa tiến vào",
+  "answer3": " Vừa rút ngắn khoảng cách với xe phía trước vừa tiến vào",
+  "answer4": " Vừa chú ý xe đang đến từ phía sau vừa tiến vào",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 180,
+  "question": "Theo Luật Giao thông đường bộ, ai không có nghĩa vụ phải tuân theo đèn tín hiệu hoặc điều khiển giaothông?",
+  "answer1": " Người đi bộ đi qua vạch đi bộ sang đường có đèn tín hiệu giao thông",
+  "answer2": " Người lái máy cày đang lái máy cày trên đường",
+  "answer3": " Nông dân cưỡi xe ngựa trên đường đất",
+  "answer4": " Hành khách ngồi cạnh ghế lái của xe ô tô con đang đi trên đường",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 181,
+  "question": "Nơi có thể dừng xe theo Luật Giao thông đường bộ?",
+  "answer1": " 7 mét từ khu vực an toàn",
+  "answer2": " 7 mét từ trạm xe buýt",
+  "answer3": " 7 mét từ góc đường",
+  "answer4": " 7 mét từ lối qua đường dành cho người đi bộ",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 182,
+  "question": "Dưới đây là các câu giải thích về phương pháp lưu thông của xe đạp. Câu nào sai?",
+  "answer1": " Xe đạp cũng thuộc nhóm xe cộ.",
+  "answer2": " Theo nguyên tắc thì không được đi xe đạp trên vỉa hè.",
+  "answer3": " Trong trường hợp bất đắc dĩ phải đi qua vạch sang đường thì phải dắt xe đi qua.",
+  "answer4": " Xe đạp vi phạm tín hiệu giao thông ở giao lộ cũng không sao.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 183,
+  "question": "Cách xử lý nào đúng khi đèn hiệu phanh của xe phía trước được bật lên?",
+  "answer1": " Bóp còi xe.",
+  "answer2": " Giảm tốc độ.",
+  "answer3": " Đổi làn đường.",
+  "answer4": " Vượt lên trước.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 184,
+  "question": "Theo Luật Giao thông đường bộ, nơi nào phải lái xe chậm?",
+  "answer1": " Chỗ đường giao nhau đang được điều khiển phân luồng",
+  "answer2": " Gần đoạn đường khúc khuỷu",
+  "answer3": " Trên dốc của đường dốc",
+  "answer4": " Trong đường hầm có giao thông phức tạp",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 185,
+  "question": "Người lái xe đi ngang qua đường dành cho người đi bộ để đi vào tòa nhà. Cách lái xe nào là an toàn nhất?",
+  "answer1": " Nếu không có người đi bộ đi qua đường thì nhanh chóng tiến vào.",
+  "answer2": " Bật đèn xi nhan và tiến vào ngay.",
+  "answer3": " Tạm thời dừng lại, sau khi quan sát cẩn thận cả hai bên trái và phải rồi mới đi qua và tránh không gây trởngại đến việc lưu thông của người đi bộ.",
+  "answer4": " Bấm còi thông báo cho biết và nhanh chóng tiến vào.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 186,
+  "question": "Trường hợp nào xe mô tô hai bánh có thể đi vào bên trong của lối giao cắt đường sắt?",
+  "answer1": " Trường hợp thanh chắn tàu không hạ xuống.",
+  "answer2": " Trường hợp thanh chắn tàu đang chuẩn bị hạ xuống.",
+  "answer3": " Trường hợp còi báo của thanh chắn đang vang lên.",
+  "answer4": " Trường hợp tuân theo tín hiệu như thiết bị báo hiệu.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 187,
+  "question": "Người lái xe ô tô phải ( ) trong trường hợp xe cấp cứu đang tiến đến. Hãy chọn đáp án đúng điền vàophần ( ) dưới đây.",
+  "answer1": " Đi chậm",
+  "answer2": " Nhường đường",
+  "answer3": " Lái xe thật nhanh",
+  "answer4": " Dừng ngay lập tức ở giữa đường",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 188,
+  "question": "Cách lái xe nào an toàn nhất khi xuất phát sau khi đã dừng xe ở mép đường?",
+  "answer1": " Tiến vào giữa đường mà không bật tín hiệu xi nhan",
+  "answer2": " Bật tín hiệu xi nhan rồi tắt tín hiệu ngay trước khi chuyển làn đường",
+  "answer3": " Bật tín hiệu xi nhan rồi tiến vào từ từ",
+  "answer4": " Bật tín hiệu xi nhan rồi tiến vào ngay",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 189,
+  "question": "Dưới đây là nội dung giải thích về ý nghĩa của các ký hiệu trên mặt đường. Đáp án nào đúng nhất?",
+  "answer1": " Vạch đứt màu trắng là vạch mà xe có thể thay đổi làn đường.",
+  "answer2": " Vạch liền màu trắng là vạch mà xe vừa chú ý vừa có thể thay đổi làn đường khi an toàn.",
+  "answer3": " Vạch đứt màu vàng (vạch phân cách) là vạch mà xe không thể vượt lên trước nhưng có thể thay đổi lànđường.",
+  "answer4": " Vạch liền màu vàng (vạch phân cách) là vạch giới hạn đổi làn đường.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 190,
+  "question": "Nội dung nào giải thích đúng nhất về tín hiệu khi thay đổi làn đường?",
+  "answer1": " Nếu thay đổi làn đường mà không có tín hiệu nhưng vẫn không gây cản trở đến các phương tiện giao thôngkhác thì không thể xem là vi phạm luật giao thông.",
+  "answer2": " Sau khi đổi làn đường xong thì phải liên tục phát tín hiệu để báo cho các phương tiện giao thông khác biết.",
+  "answer3": " Chỉ phát tín hiệu khi đổi làn đường, trong lúc đang đổi làn đường thì phải dừng tín hiệu lại.",
+  "answer4": " Phát tín hiệu cho đến khi đã đổi làn đường xong, sau khi đổi làn đường xong phải dừng tín hiệu ngay.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 191,
+  "question": "Giải thích nào sau đây là đúng?",
+  "answer1": " Làn đường có vạch chấm màu trắng là làn đường cấm chen vào.",
+  "answer2": " Làn đường có vạch liền màu trắng biểu thị đoạn đường có thể thay đổi làn xe.",
+  "answer3": " Làn đường có vạch liền màu trắng là làn đường dành riêng cho xe buýt.",
+  "answer4": " Làn đường có vạch liền màu trắng là vạch hạn chế thay đổi làn đường.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 192,
+  "question": "Cách dừng xe nào đúng trên đường có phân rõ vỉa hè và đường dành riêng cho xe?",
+  "answer1": " Phải dừng xe ở rìa phải của đường dành cho xe.",
+  "answer2": " Phải dừng xe trên vỉa hè.",
+  "answer3": " Phải dừng xe ở rìa trái của đường dành cho xe.",
+  "answer4": " Phải dừng xe ở nơi tiện lợi trên đường dành cho xe.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 193,
+  "question": "Câu nào giải thích đúng về ý nghĩa của vạch đứt quãng màu vàng ở lề đường?",
+  "answer1": " Có thể vừa dừng xe vừa đỗ xe.",
+  "answer2": " Cấm đỗ xe nhưng có thể dừng xe.",
+  "answer3": " Có thể đỗ xe nhưng không được dừng xe.",
+  "answer4": " Cấm cả đỗ xe và dừng xe.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 194,
+  "question": "Địa điểm nào dưới đây xe mô tô hai bánh có thể quay đầu khi đi trên đường?",
+  "answer1": " Đường có vạch phân cách là vạch liền màu vàng",
+  "answer2": " Đường có vạch phân cách là vạch liền màu trắng",
+  "answer3": " Đường có vạch phân cách là vạch đứt quãng màu trắng",
+  "answer4": " Đường có vạch phân cách là vạch liền màu xanh",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 195,
+  "question": "Phương pháp nào đúng khi đi qua lối giao cắt đường sắt?",
+  "answer1": " Tạm dừng trước đường giao, quan sát có an toàn hay không rồi mới đi qua.",
+  "answer2": " Nếu không có tàu thì đi qua thật nhanh.",
+  "answer3": " Đi qua thật nhanh khi thanh chắn đường sắt chuẩn bị hạ xuống.",
+  "answer4": " Trước hết, phải dừng lại kể cả khi đang lái xe tuân theo tín hiệu giao thông.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 196,
+  "question": "Nội dung nào là giải thích đúng nhất về hành động điều khiển xe theo tín hiệu giao thông?",
+  "answer1": " Rút ngắn khoảng cách với xe trước và đi theo xe trước.",
+  "answer2": " Người điều khiển xe đi theo tín hiệu đèn ở hướng đối diện.",
+  "answer3": " Xe máy hai bánh không cần phải tuân theo tín hiệu biến đổi của làn đường có thể biến đổi.",
+  "answer4": " Người điều khiển xe phải đi theo tín hiệu của đèn giao thông.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 197,
+  "question": "Cách lái xe đúng nhất trong trường hợp đèn tín hiệu ngay trước khi vào giao lộ đang có màu vàng?",
+  "answer1": " Đi chậm rồi rẽ trái.",
+  "answer2": " Đi chậm rồi quay đầu.",
+  "answer3": " Tăng tốc và nhanh chóng đi qua vạch dừng.",
+  "answer4": " Dừng ngay trước vạch dừng.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 198,
+  "question": "Cách lái xe nào an toàn nhất khi rẽ trái ở đường giao nhau?",
+  "answer1": " Không cần chú ý đến xe ở hướng đối diện đang tiến lên.",
+  "answer2": " Chỉ cần chú ý đến xe rẽ phải ở hướng đối diện.",
+  "answer3": " Phải chú ý đến xe cùng hướng đang rẽ phải.",
+  "answer4": " Phải chú ý đến cả xe bên cạnh cũng đang cùng rẽ trái.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 199,
+  "question": "Câu nào giải thích không đúng về vạch phân cách trên đường?",
+  "answer1": " Là vạch được tạo ra để phân biệt một cách rõ ràng phương pháp lưu thông của các phương tiện.",
+  "answer2": " Có thể biểu thị an toàn bằng các dấu hiệu an toàn như vạch liền màu vàng hay vạch đứt màu vàng.",
+  "answer3": " Có thể lắp đặt dải phân cách hoặc rào chắn.",
+  "answer4": " Không thể lắp đặt tại những tuyến đường có thể đảo chiều tạm thời.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 200,
+  "question": "Theo Pháp lệnh về Giao thông đường bộ, giải thích nào về khu vực an toàn là sai?",
+  "answer1": " Là một phần đường biểu thị bằng biển báo nhằm đảm bảo an toàn cho người đi bộ sang đường hoặc xe vàgia súc đi trên đường.",
+  "answer2": " Màu của khu vực an toàn là màu vàng hoặc màu trắng.",
+  "answer3": " Được lắp đặt tại địa điểm có chướng ngại vật trên đường.",
+  "answer4": " Là một phần đường biểu thị bằng biển báo an toàn để người đi bộ có thể sang đường.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 201,
+  "question": "Khi người điều khiển xe mô tô hai bánh đang đi trên đường có thể đảo chiều tạm thời và nhìn thấytín hiệu nhấp nháy của đèn biểu thị dấu X màu đỏ trên làn đường mình đang đi. Phương pháp lái xenào an toàn nhất?",
+  "answer1": " Đi từ từ và cứ thế đi qua.",
+  "answer2": " Tạm thời dừng lại, sau đó vừa chú ý các phương tiện giao thông khác vừa đi.",
+  "answer3": " Nhanh chóng thay đổi đường đi ra khỏi làn đường đó.",
+  "answer4": " Tạm thời chuyển sang làn đường khác sau đó quay trở lại làn đường đó.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 202,
+  "question": "Đèn nào sau đây không phải là tín hiệu theo Pháp lệnh về Giao thông đường bộ?",
+  "answer1": " Đèn tín hiệu xe mô tô hai bánh",
+  "answer2": " Đèn tín hiệu xe ô tô",
+  "answer3": " Đèn tín hiệu xe đạp",
+  "answer4": " Đèn tín hiệu xe buýt",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 203,
+  "question": "Điều nào không phải là điều có thể xử lý phạt tiền đối với chủ xe trong trường hợp có chứng cứ bằngphương tiện ghi hình?",
+  "answer1": " Không tuân thủ bảo vệ người đi bộ",
+  "answer2": " Vi phạm phương pháp lưu thông trên giao lộ",
+  "answer3": " Vi phạm làn đường dành riêng cho xe buýt",
+  "answer4": " Sử dụng thiết bị hiển thị hình ảnh khi đang lái xe",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 204,
+  "question": "Nội dung nào phù hợp nhất với giải thích về nguyên nhân và cách phòng tránh hiện tượng trượt nước?",
+  "answer1": " Dù có xảy ra hiện tượng trượt nước thì kết quả điều khiển vô lăng lái cũng không có gì khác biệt so với ngàythường.",
+  "answer2": " Lốp xe càng mới thì khả năng xảy ra hiện tượng trượt nước càng thấp.",
+  "answer3": " Bề mặt tiếp xúc giữa mặt đường với lốp xe càng hẹp thì khả năng xảy ra hiện tượng trượt nước càng cao.",
+  "answer4": " Điều quan trọng nhất để phòng tránh hiện tượng trượt nước là duy trì tốc độ như bình thường khi đi trênđường mưa.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 205,
+  "question": "Nội dung nào sau đây mô tả chính xác nhất về lái xe an toàn đối với xe mô tô?",
+  "answer1": " Nếu đoạn đường bị tắc nghẽn giao thông thì điều khiển xe đi lên vỉa hè.",
+  "answer2": " Giữ nguyên tốc độ khi qua gờ giảm tốc và lái xe sang khu vực bên cạnh không có gờ giảm tốc.",
+  "answer3": " Đi chậm lại khi trời mưa.",
+  "answer4": " Chạy với tốc độ cao trên đường uốn lượn.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 206,
+  "question": "Cách lái xe nào là an toàn khi xảy ra động đất?",
+  "answer1": " Nếu xảy ra động đất thì lái xe thật nhanh đi ra khỏi khu vực động đất.",
+  "answer2": " Sau khi bảo đảm có khoảng cách an toàn giữa các xe rồi thì dừng xe lại ở bên phải đường.",
+  "answer3": " Khi cần xuống xe để tránh động đất thì vẫn để xe nổ máy.",
+  "answer4": " Tiếp tục đi không quan tâm đến động đất.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 207,
+  "question": "Trường hợp nào dưới đây phải giảm 20% so với tốc độ tối đa cho phép của đường đó?",
+  "answer1": " Khi tầm nhìn hạn chế trong vòng 100m do mưa, bão tuyết...",
+  "answer2": " Khi đường ướt do mưa",
+  "answer3": " Khi đường đóng băng do tuyết",
+  "answer4": " Khi đường tuyết phủ dày 20mm trở lên",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 208,
+  "question": "Cách lái xe nào an toàn nhất khi đi qua khu vực sương mù đột ngột không nhìn rõ 70m phía trước?",
+  "answer1": " Bật đèn trước và đi nhanh qua khu vực sương mù.",
+  "answer2": " Bật đèn pha và đèn nháy khẩn cấp rồi đi chậm lại.",
+  "answer3": " Chỉ bật đèn nháy khẩn cấp và tăng tốc độ.",
+  "answer4": " Đi theo liền ngay sau xe đang đi phía trước.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 209,
+  "question": "Phương pháp lái xe nào là đúng nhất khi đi qua giao lộ phức tạp không có tín hiệu giao thông?",
+  "answer1": " Vừa bấm còi vừa đi qua thật nhanh",
+  "answer2": " Bật đèn khẩn cấp và đi qua giao lộ theo mép đường của giao lộ",
+  "answer3": " Đi vào trước vì xe vào trước sẽ có quyền ưu tiên",
+  "answer4": " Trước khi đi vào giao lộ, phải tạm dừng, sau đó vừa chú ý an toàn vừa đi qua",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 210,
+  "question": "Phương pháp lái xe nào là an toàn nhất khi xe mô tô hai bánh đi phía sau xe máy cày trên đường có 1 lànở mỗi chiều có kẻ vạch phân cách là vạch liền màu vàng?",
+  "answer1": " Nhanh chóng sử dụng khoảng trống bên tay phải để đi qua do xe máy cày đi với tốc độ chậm.",
+  "answer2": " Xe mô tô hai bánh nhanh hơn xe máy cày nên vượt qua vạch phân cách và nhanh chóng đi qua.",
+  "answer3": " Bấm còi và lái xe về phía vạch phân cách.",
+  "answer4": " Giữ khoảng cách an toàn và đi sau xe máy cày.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 211,
+  "question": "Người lái xe gương mẫu đang giải thích về cách lái xe an toàn cho người mới lái xe. Giải thích nào là đúng?",
+  "answer1": " Nên đi chậm khi đi qua giao lộ có giao thông đông đúc không có điều khiển giao thông.",
+  "answer2": " Trước khi vào đoạn đường giao nhau, nếu đang bật đèn vàng thì cứ thế đi qua.",
+  "answer3": " Chỉ cần không đi quá tốc độ trên cầu có vạch liền màu trắng là được.",
+  "answer4": " Không được vượt lên trước xe đang đi chậm theo hướng dẫn của cảnh sát.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 212,
+  "question": "Bạn đang lưu thông trên đường thông thường có 2 làn xe một chiều với mặt đường bị ướt mưa. Nội dungnào đúng nhất với cách điều khiển xe an toàn theo Luật Giao thông đường bộ? (Trừ khu vực dân cư, thươngmại, công nghiệp)",
+  "answer1": " Vì khoảng cách an toàn trước khi đạp phanh do phát hiện nguy hiểm ngắn lại nên có thể chạy với vận tốc70km/giờ.",
+  "answer2": " Vì khoảng cách phanh ngắn lại nên chạy với vận tốc 80km/giờ như ngày thường.",
+  "answer3": " Vì không gây trở ngại cho lái xe an toàn nên chạy với vận tốc 90km/giờ.",
+  "answer4": " Giảm tốc và chạy với vận tốc 60km/giờ.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 213,
+  "question": "Cách điều khiển xe đúng trong trường hợp đang lưu thông trên đường có 2 làn xe một chiều, tốc độ giớihạn tối đa là 80km/giờ và có tuyết dày dưới 10mm, tầm nhìn xa trong 50m do sương mù?",
+  "answer1": " Chạy với tốc độ giảm 20% so với tốc độ tối đa.",
+  "answer2": " Chạy với tốc độ giảm 30% so với tốc độ tối đa.",
+  "answer3": " Chạy với tốc độ giảm 40% so với tốc độ tối đa.",
+  "answer4": " Chạy với tốc độ giảm 50% so với tốc độ tối đa.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 214,
+  "question": "Theo Luật Giao thông đường bộ, nội dung nào sau đây giải thích đúng về việc thay đổi làn đường đi thẳng?",
+  "answer1": " Do trên cầu là khu vực nguy hiểm nên có nhiều trường hợp hạn chế thay đổi làn đường đi thẳng bằng vạchliền màu trắng.",
+  "answer2": " Nơi hạn chế thay đổi làn đường đi thẳng được biểu thị bằng vạch chấm màu trắng.",
+  "answer3": " Tại nơi cấm thay đổi làn đường đi thẳng thì không được đổi làn đường phía trước kể cả trong trường hợpkhông thể lưu thông do có chướng ngại vật như công trình thi công đường.",
+  "answer4": " Dù là khu vực cấm thay đổi làn đường đi thẳng nhưng nếu đổi làn an toàn thì cũng không vi phạm pháp luật.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 215,
+  "question": "Lý do nào đúng nhất để sử dụng phanh động cơ khi xuống dốc dài?",
+  "answer1": " Để tránh làm hỏng động cơ",
+  "answer2": " Để tiết kiệm nhiên liệu",
+  "answer3": " Để ngăn ngừa hiện tượng mất phanh của bàn đạp phanh",
+  "answer4": " Để ngăn ngừa việc giảm tuổi thọ của xe.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 216,
+  "question": "Khi đi qua gần đỉnh dốc của đường dốc, cách điều khiển xe an toàn nhất là?",
+  "answer1": " Nhanh chóng đi qua theo xe trước.",
+  "answer2": " Không cần quan tâm đến đường đối diện, chỉ cần chú ý đến làn đường mình đang đi và đi qua.",
+  "answer3": " Vì không thể nhìn rõ tình hình của phía đối diện nên phải chú ý và đi chậm qua.",
+  "answer4": " Điều khiển xe ở số cao tốt hơn là số thấp.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 217,
+  "question": "Cách nào là cách lái xe an toàn nhất khi lái xe trên đoạn đường có khúc cua gấp?",
+  "answer1": " Nhanh chóng bẻ tay lái và đạp phanh để giảm tốc độ và vượt qua khúc cua gấp.",
+  "answer2": " Giảm tốc độ vừa đủ trên đường thẳng trước khúc cua.",
+  "answer3": " Đoạn đường cua gấp là đoạn đường nguy hiểm nên tăng tốc nhanh chóng vượt qua.",
+  "answer4": " Vượt xe khác để nhanh qua khúc quanh nếu không có biển cấm vượt.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 218,
+  "question": "Hãy chọn cách lái xe đúng nhất khi điều khiển xe trong điều kiện thời tiết gió thổi mạnh hoặc lốc.",
+  "answer1": " Dùng hai tay nắm chặt tay lái và duy trì làn xe.",
+  "answer2": " Tăng tốc không cần chú ý tới gió.",
+  "answer3": " Đỗ xe gần biển báo, đèn giao thông hoặc cây cao.",
+  "answer4": " Gió lớn không nguy hiểm ở các khu vực như vùng núi, trên cầu hay lối ra vào đường hầm.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 219,
+  "question": "Phương pháp lái xe nào an toàn nhất khi đi theo sau xe phía trước lên đến gần đỉnh dốc của đường đồi có1 làn ở mỗi chiều?",
+  "answer1": " Bám sát vạch chính giữa và đi theo sau xe phía trước do không nhìn rõ phía trước.",
+  "answer2": " Lưu ý quan sát và đi từ từ theo sau do không thể thấy được tình hình phía trước hoặc phía đối diện.",
+  "answer3": " Nhanh chóng vượt lên xe phía trước do không thể nắm được tình hình phía trước nếu cứ đi theo đằng sau.",
+  "answer4": " Coi xe phía trước là vật phòng ngự, thu hẹp khoảng cách sát với xe phía trước và đi theo sau.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 220,
+  "question": "Cách điều khiển xe đúng khi lưu thông trong đường hầm của đường thông thường 2 làn xe một chiều?",
+  "answer1": " Dù đang ở trong đường hầm nhưng nếu các làn xe được phân cách bằng vạch chấm màu trắng thì có thể đổilàn.",
+  "answer2": " Vì trong đường hầm không cấm vượt nên nếu xe trước đi chậm thì có thể vượt lên trước.",
+  "answer3": " Vì trong đường hầm, tầm nhìn trước không sáng nên phải bám sát và đi theo xe trước.",
+  "answer4": " Nếu xe trước đi chậm và lượng xe lưu thông trong đường hầm ít thì có thể vượt lên trước.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 221,
+  "question": "Trường hợp Sở trưởng Sở cảnh sát tỉnh, thành phố hoặc Trưởng đồn cảnh sát nhận thấy cần thiết để bảo vệngười đi bộ trên đường ưu tiên người đi bộ theo Luật Giao thông đường bộ, thì có thể giới hạn tốc độ lưuthông của xe ngựa là ( ) km/giờ. Nội dung đúng với mức trong ( ) là?",
+  "answer1": " 20km/giờ",
+  "answer2": " 30km/giờ",
+  "answer3": " 40km/giờ",
+  "answer4": " 50km/giờ",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 222,
+  "question": "Nội dung nào đúng nhất khi giải thích về đặc điểm vào mùa đông của 'Khu vực đường hầm' trên đườngthông thường?",
+  "answer1": " Chỉ bị đóng băng khi thời tiết giá lạnh.",
+  "answer2": " Điểm đầu và điểm cuối đường hầm không bị đóng băng do tiếp giáp với mặt đất.",
+  "answer3": " Không bị đóng băng do nhiệt độ bên trong đường hầm cao hơn bên ngoài đường hầm nhờ vào nguồn nhiệttrong lòng đất.",
+  "answer4": " Khu vực lối vào và lối ra đường hầm đặc biệt nguy hiểm.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 223,
+  "question": "Cách điều khiển xe đúng trong tình huống xe chở hàng đang đi chậm trên đường đồi núi của đường có 1làn xe một chiều và phía sau đang có xe hai bánh đi theo?",
+  "answer1": " Phải duy trì khoảng cách an toàn với xe chở hàng và đi theo.",
+  "answer2": " Vì xe hai bánh có tốc độ nhanh nên vượt lên trước bên phải của xe chở hàng.",
+  "answer3": " Vì không nhìn thấy tình hình ở phía trước nên lấn qua vạch trung tâm và chạy theo xe chở hàng.",
+  "answer4": " Vì xe chở hàng đang đi chậm nên nhanh chóng vượt lên trước.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 224,
+  "question": "Giải thích nào hợp lý nhất cho hiện tượng chói mắt mất thị lực nhất thời xảy ra trong lúc lái xe vào banđêm?",
+  "answer1": " Hiện tượng chói mắt mất thị lực nhất thời chủ yếu xảy ra đối với những lái xe có thị lực yếu.",
+  "answer2": " Hiện tượng chói mắt mất thị lực nhất thời chỉ xảy ra trên đường cao tốc.",
+  "answer3": " Thường xảy ra do xe đi cùng chiều.",
+  "answer4": " Việc phát sinh hiện tượng chói mắt mất thị lực nhất thời thường xuyên trong khi lái xe là yếu tố làm tăngnguy cơ xảy ra tai nạn.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 225,
+  "question": "Cách nào tốt nhất để tránh bị chói mắt do đèn trước của xe ngược chiều chiếu lên khi đi trong đêm?",
+  "answer1": " Không nhìn thẳng vào đèn trước mà nhìn vào phía dưới làn xe mình đang đi.",
+  "answer2": " Không nhìn thẳng vào đèn trước mà nhìn về hướng lề đường bên phải.",
+  "answer3": " Mở hé mắt và nhìn xuống phía dưới đường xe mình đang đi.",
+  "answer4": " Mở hé mắt và nhìn sang lề đường bên trái.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 226,
+  "question": "Đâu là cách lái xe an toàn nhất khi lái xe vào ban đêm?",
+  "answer1": " Lái xe không nhất thiết phải bật đèn trước khi mặt trời lặn và trời tối dần nếu tầm nhìn vẫn được đảm bảo.",
+  "answer2": " Thị lực buổi tối yếu hơn so với ban ngày khiến tầm nhìn bị hạn chế nên lái xe cần chú ý giảm tốc độ.",
+  "answer3": " Điều khiển xe giữ khoảng cách sao cho đèn trước chiếu được đến đuôi xe phía trước.",
+  "answer4": " Đi sát xe phía trước để quan sát được rõ nếu có chướng ngại vật.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 227,
+  "question": "Nội dung nào là giải thích không đúng về biển báo an toàn dạng phát quang?",
+  "answer1": " Được gắn ở nơi tai nạn giao thông vào ban đêm xảy ra nhiều hoặc có khả năng xảy ra cao.",
+  "answer2": " Màu nền của biển báo có thể thay đổi thành màu đen không bóng.",
+  "answer3": " Chữ và ký hiệu của biển báo nguy hiểm có thể thay đổi thành màu xanh dương.",
+  "answer4": " Chữ và ký hiệu của biển báo cấm (giới hạn) và biển hiệu lệnh có thể thay đổi thành màu trắng.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 228,
+  "question": "Vị trí nào dễ xảy ra 'hiện tượng biến mất' nhất thời không nhìn thấy chướng ngại vật hay người đi bộ trênđường vào ban đêm?",
+  "answer1": " Bên lề của làn đường đối diện",
+  "answer2": " Bên phải làn đường xe đi",
+  "answer3": " Chỗ gần dải phân cách giữa đường",
+  "answer4": " Lề bên phải đường",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 229,
+  "question": "Giải thích nào dưới đây không đúng về phương pháp lái xe vào ban đêm đối với xe mô tô hai bánh?",
+  "answer1": " Có thể phán đoán khoảng cách chính xác hơn ban ngày.",
+  "answer2": " Lái xe với tốc độ thật chậm so với ban ngày vì khó phát hiện vật cản ở phía trước.",
+  "answer3": " Trên đường núi vắng vẻ, bật đèn pha để người điều khiển xe khác dễ nhận biết xe mình đang chạy.",
+  "answer4": " Nếu đèn của xe đi phía trước chuyển động lên xuống có nghĩa là tình trạng đường xấu và cần phải lưu ý.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 230,
+  "question": "Đặc điểm nào không phải là đặc điểm khi lái xe vào ban đêm?",
+  "answer1": " Không nhìn rõ người đi bộ đi bên mép đường.",
+  "answer2": " Dễ phát hiện ra xe đạp đang đi bên mép đường chậm.",
+  "answer3": " Dễ xuất hiện hiện tượng ảo giác do đèn pha của xe ô tô cỡ lớn đi ngược chiều.",
+  "answer4": " Ít có khả năng xảy ra tai nạn giao thông do khả năng quan sát vào ban đêm thấp.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 231,
+  "question": "Nội dung nào không đúng với cách điều khiển xe phòng tránh tai nạn “thú chết dọc đường (road kill)” trênđường vào ban đêm và cách xử lý khi xảy ra tai nạn?",
+  "answer1": " Giảm tốc khi đi trên đường có khả năng xuất hiện động vật cao.",
+  "answer2": " Trường hợp có nai sừng tấm trên đường, bật đèn pha để nai bỏ chạy.",
+  "answer3": " Xác động vật có thể có bệnh truyền nhiễm nên không tự ý đụng vào.",
+  "answer4": " Khi xảy ra tai nạn với động vật, phải khai báo lên Sở Quản lý đường bộ.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 232,
+  "question": "Phương pháp lái xe nào đúng trong trường hợp xe mô tô hai bánh đi trên đường thông thường có 4 làn ởmỗi chiều vào ban đêm?",
+  "answer1": " Lái xe trên làn thứ 2 do không có xe lưu thông.",
+  "answer2": " Lái xe trên làn thứ nhất để có thể nhận biết xe lưu thông vào ban đêm.",
+  "answer3": " Lái xe ra phía ngoài khu vực lề đường do nguy cơ xảy ra tai nạn va chạm vào ban đêm cao.",
+  "answer4": " Lái xe trên làn thứ 4 ở đường dành cho xe và duy trì khoảng cách an toàn với xe phía trước.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 233,
+  "question": "Phương pháp lái xe nào đúng trong trường hợp xe mô tô hai bánh đi trong đường hẻm vào ban đêm?",
+  "answer1": " Đi nhanh qua đường hẻm vào ban đêm do đường hẻm thường xuyên xảy ra tai nạn va chạm.",
+  "answer2": " Chuyển sang đèn pha và nhanh chóng đi qua khi đường giao nhau trong hẻm vắng vẻ.",
+  "answer3": " Có thể biết được có xe lưu thông hay không nhờ vào ánh đèn của xe đi ngược chiều nên khi không thấy cóđèn xe thì nhanh chóng đi qua.",
+  "answer4": " Đi từ từ qua do có thể đột ngột xuất hiện người đi bộ trong đường hẻm.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 234,
+  "question": "Nội dung nào đúng là loại đèn bắt buộc phải bật khi xe máy hai bánh dừng hoặc đỗ trên đường vào banđêm?",
+  "answer1": " Đèn pha trước",
+  "answer2": " Đèn rìa đầu xe",
+  "answer3": " Đèn biển số xe",
+  "answer4": " Đèn hậu",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 235,
+  "question": "Người lái xe cần làm gì khi có hỏa hoạn xảy ra do tai nạn giao thông?",
+  "answer1": " Khi đội cứu trợ bắt đầu hành động thì nhất định phải hoạt động cùng với đội cứu trợ.",
+  "answer2": " Hút thuốc để giảm sự căng thẳng cũng không sao.",
+  "answer3": " Nếu là va chạm với xe có chở những vật dễ cháy nổ thì cần nhanh chóng thoát ra khỏi vị trí tai nạn.",
+  "answer4": " Dù có xảy ra hỏa hoạn thì cũng tuyệt đối không được động vào người bị thương.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 236,
+  "question": "Cách xử lý nào phù hợp khi đang điều khiển xe mô tô hai bánh gây tai nạn với xe đang đỗ mà không cóngười ngồi trên xe?",
+  "answer1": " Không cần để lại thông tin liên lạc trong trường hợp đã thực hiện các biện pháp cần thiết để liên lạc dễdàng ngay trên đường.",
+  "answer2": " Phải cung cấp tên và số điện thoại, v.v cho chủ xe là đối tượng đã xảy ra tai nạn.",
+  "answer3": " Trong trường hợp xảy ra tai nạn trong khu chung cư, không cần cung cấp thông tin liên lạc cho chủ xe vì đâykhông phải là đường.",
+  "answer4": " Không cần thực hiện các biện pháp xử lý để phòng ngừa nguy hiểm ở những nơi không phải là đường.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 237,
+  "question": "Cách xử lý nào không phù hợp nhất trong trường hợp xe mô tô hai bánh đột ngột chết máy khi đang lưuthông?",
+  "answer1": " Nhanh chóng di chuyển đến một nơi an toàn bên lề đường để kiểm tra.",
+  "answer2": " Đặt biển cảnh báo xe hỏng để phòng ngừa va chạm với xe từ sau đến.",
+  "answer3": " Sau khi bật đèn nháy khẩn cấp sẽ thử khởi động lại xe ngay tại vị trí đó.",
+  "answer4": " Trong đường hầm thì dừng lại tại khu đỗ xe khẩn cấp và gọi đến số điện thoại cứu hộ khẩn cấp.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 238,
+  "question": "Cách xử lý cấp cứu phải thực hiện trước tiên khi xảy ra tai nạn giao thông là gì?",
+  "answer1": " Di chuyển đến vị trí an toàn trước khi kiểm tra tình trạng của người bị thương.",
+  "answer2": " Khi xử lý cấp cứu cho người bị thương, trước tiên nên thực hiện hô hấp nhân tạo.",
+  "answer3": " Kiểm tra xem xe có bị hư hỏng không trước khi xử lý cấp cứu cho người bị thương.",
+  "answer4": " Kiểm tra xem người bị thương còn tỉnh táo hay không và trường hợp đã bất tỉnh thì trước tiên phải thực hiệnép tim.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 239,
+  "question": "Việc phải xử lý cấp cứu đầu tiên đối với người bị thương đã bất tỉnh khi xảy ra tai nạn giao thông có ngườibị thương là gì?",
+  "answer1": " Báo cho công ty bảo hiểm về tai nạn giao thông",
+  "answer2": " Ép tim",
+  "answer3": " Di chuyển nhanh chóng đến nơi an toàn",
+  "answer4": " Cầm máu ở chỗ bị chảy máu",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 240,
+  "question": "Phương pháp giải quyết nào phù hợp nhất trong trường hợp phanh xe không hoạt động khi xe mô tô haibánh đang đi với tốc độ cao?",
+  "answer1": " Tắt máy ngay lập tức để giảm tốc độ.",
+  "answer2": " Thay đổi tốc độ bằng cách đổi sang số thấp và nhảy xuống xe.",
+  "answer3": " Vừa đánh gấp tay lái sang một bên vừa giảm tốc độ.",
+  "answer4": " Nhả tay ga, đạp thắng rồi lần lượt chuyển sang từng số để giảm tốc độ.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 241,
+  "question": "Nội dung nào là giải thích không đúng về hiện tượng lớp băng mỏng trên mặt đường và đường đóng băngvào mùa đông?",
+  "answer1": " Lớp băng mỏng trên mặt đường là hiện tượng phát sinh một màng băng mỏng như tráng lên mặt đường.",
+  "answer2": " Lớp băng mỏng trên mặt đường chủ yếu phát sinh vào mùa đông ở những nơi có nhiệt độ thấp như trên cầu,lối vào đường hầm, đường nhiều bóng râm, v.v.",
+  "answer3": " Đường tráng bê tông dễ bị đóng băng hơn đường tráng nhựa.",
+  "answer4": " Đường tráng bê tông chậm tan băng hơn đường tráng nhựa.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 242,
+  "question": "Biện pháp xử lý nào đúng nhất khi xe mô tô hai bánh đang đi trên đường bị chết máy và dừng lại?",
+  "answer1": " Để xe ở đó còn người lái xe nhanh chóng sơ tán ra nơi khác.",
+  "answer2": " Người lái xe bật đèn khẩn cấp để báo cho xe khác biết nguy hiểm ngay tại vị trí đó.",
+  "answer3": " Thực hiện các biện pháp cần thiết để ngăn ngừa các tai nạn thứ cấp và di chuyển đến nơi an toàn.",
+  "answer4": " Cố gắng lặp lại liên tục để khởi động xe.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 243,
+  "question": "Nội dung nào là giải thích không đúng về ổ gà (pothole, lỗ trũng xuống trên đường)?",
+  "answer1": " Tai nạn giao thông do ổ gà dễ xảy ra đối với xe 4 bánh hơn xe 2 bánh.",
+  "answer2": " Để phòng tránh tai nạn giao thông, khi đến xung quanh ổ gà cần giảm tốc rồi đi qua.",
+  "answer3": " Nếu xe bị va chạm mạnh do ổ gà thì cần đến trung tâm sửa chữa gần nhất.",
+  "answer4": " Ổ gà xuất hiện trên đường tráng nhựa nhiều hơn đường tráng bê tông.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 244,
+  "question": "Sau đây là mô tả về việc dùng phanh của xe mô tô hai bánh. Nội dung nào sau đây không đúng?",
+  "answer1": " Nếu đạp mạnh phanh trước thì dễ bị lộn ngược.",
+  "answer2": " Nếu đạp mạnh phanh sau thì dễ bị trượt sang bên cạnh.",
+  "answer3": " Nếu đạp đồng thời cả phanh trước và phanh sau thì sẽ nguy hiểm.",
+  "answer4": " Khi sử dụng phanh sau nên đạp từ từ bằng mũi ngoài chân phải vào giữa bàn đạp phanh.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 245,
+  "question": "Nội dung nào tương ứng với định nghĩa 'lái xe' trong Luật Giao thông đường bộ?",
+  "answer1": " Khi xe ô tô không có người lái tự di chuyển đỗ sai ở đoạn đường dốc",
+  "answer2": " Khi đỗ xe trong bãi đỗ xe dưới tầng hầm chung cư không cho phép người không có bằng lái ra vào",
+  "answer3": " Khi đỗ xe ở bãi đỗ xe nhà nghỉ trong trạng thái khó có thể lái xe bình thường do say ma túy",
+  "answer4": " Khi dắt xe mô tô 125cc bằng hai tay ở trạng thái tắt động cơ trên đường nội thành",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 246,
+  "question": "Theo Pháp lệnh về Giao thông đường bộ, ở địa điểm nào dưới đây phải tạm dừng?",
+  "answer1": " Gần khúc cua của đường",
+  "answer2": " Chỗ xuống dốc của đường dốc thẳng đứng",
+  "answer3": " Gần đỉnh dốc của đường dốc",
+  "answer4": " Giao lộ đông xe đang không có phân luồng giao thông",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 247,
+  "question": "Địa điểm nào sau đây nhất định phải tạm dừng theo Luật Giao thông đường bộ?",
+  "answer1": " Giao lộ không thể quan sát phải trái và không có phân luồng giao thông",
+  "answer2": " Giao lộ có đèn tín hiệu màu xanh đang bật",
+  "answer3": " Trong đường hầm hoặc trên cầu có giao thông đông đúc",
+  "answer4": " Gần đường gấp khúc hay gần đỉnh dốc của đường dốc",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 248,
+  "question": "Địa điểm phải tạm dừng được quy định tại Luật Giao thông đường bộ?",
+  "answer1": " Trong đường hầm và trên cầu",
+  "answer2": " Đoạn đường giao nhau thường xuyên có xe qua lại và không có đèn tín hiệu giao thông",
+  "answer3": " Đoạn dốc xuống của con đường có độ dốc lớn",
+  "answer4": " Khu vực gần khúc cua",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 249,
+  "question": "Nội dung nào sau đây phù hợp nhất làm nội dung cần phải khai báo ngay lập tức với Sở Cảnh sát khi xảyra tai nạn giao thông?",
+  "answer1": " Tất cả đồ đạc có trong xe bị tai nạn và mức độ hư hại",
+  "answer2": " Lưu lượng xe qua lại và bản đồ xung quanh nơi xảy ra tai nạn",
+  "answer3": " Số người bị thương và mức độ chấn thương",
+  "answer4": " Nghề nghiệp và quan hệ gia đình của người bị thương",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 250,
+  "question": "Trường hợp nào dưới đây được phép vượt lên trước?",
+  "answer1": " Vượt lên trước xe chở hàng đi với tốc độ chậm ở trong đường hầm có kẻ vạch liền màu trắng.",
+  "answer2": " Vượt lên trước xe máy cày ở trong giao lộ.",
+  "answer3": " Vượt lên trước xe bò, xe ngựa kéo ở trên cầu có kẻ vạch liền màu trắng.",
+  "answer4": " Vượt lên trước xe nâng trên đường có vạch phân cách là vạch đứt quãng màu vàng.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 251,
+  "question": "Giải thích nào sau đây đúng với 'Làn đường có vạch liền màu trắng' được vẽ trên mặt đường?",
+  "answer1": " Tất cả các xe không được chuyển làn vì đó là vạch hạn chế thay đổi làn đường.",
+  "answer2": " Tất cả các xe có thể chuyển làn vì đó là vạch cấm đỗ xe.",
+  "answer3": " Xe buýt có thể chuyển làn vì đó là vạch biểu thị làn đường dành riêng cho xe buýt.",
+  "answer4": " Xe mô tô hai bánh hoặc xe đạp có thể chuyển làn.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 252,
+  "question": "Mức xử phạt đối với người điều khiển xe máy hai bánh chạy quá tốc độ tối đa 100km/giờ là? (Vi phạm 1lần)",
+  "answer1": " Phạt tù lên đến 1 năm hoặc phạt tiền hình sự lên đến 3 triệu won.",
+  "answer2": " Phạt tù lên đến 6 tháng hoặc phạt tiền lên đến 2 triệu won hoặc tạm giam.",
+  "answer3": " Phạt tiền hình sự lên đến 1 triệu won hoặc tạm giam.",
+  "answer4": " Phạt tiền hình sự lên đến 300 nghìn won hoặc tạm giam.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 253,
+  "question": "Theo “Luật Giao thông đường bộ”, mục nào không phải là mục mà người điều khiển xe mô tô hai bánh phảituân thủ?",
+  "answer1": " Không bấm còi liên tục khi không có lý do chính đáng.",
+  "answer2": " Tạm thời dừng lại khi trẻ chơi trên đường.",
+  "answer3": " Không đột ngột tăng tốc độ khi không có lý do chính đáng.",
+  "answer4": " Không được chở người đi cùng ở ghế sau.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 254,
+  "question": "Nội dung nào dưới đây đúng với quy định xử phạt khi người điều khiển xe mô tô hai bánh không đeo dụngcụ bảo hộ tính mạng cho người đi cùng trên xe?",
+  "answer1": " Phạt tiền vi phạm giao thông 20.000 Won",
+  "answer2": " Phạt tiền vi phạm giao thông 30.000 Won",
+  "answer3": " Phạt tiền hành chính 20.000 Won",
+  "answer4": " Phạt tiền hành chính 30.000 Won",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 255,
+  "question": "Hành vi nào không phải là hành vi của người điều khiển xe mô tô hai bánh và xe gắn máy dưới 125cc làđối tượng bị xử phạt theo Luật Giao thông đường bộ?",
+  "answer1": " Đỗ xe mô tô hai bánh trên vạch sang đường.",
+  "answer2": " Người điều khiển xe gắn máy dưới 125cc không bật đèn trước và đèn chiếu hậu khi lái xe vào ban đêm.",
+  "answer3": " Người điều khiển xe mô tô hai bánh không mang trang bị bảo hộ trong khi lái xe.",
+  "answer4": " Điều khiển xe gắn máy dưới 125cc với giấy phép lái xe phổ thông hạng 2.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 256,
+  "question": "Sau đây là các hành vi của người lái xe mô tô và xe gắn máy dưới 125cc sẽ bị kiểm tra và xử phạt theoLuật Giao thông đường bộ. Trường hợp nào có thể bị xử phạt bằng gửi giấy phạt về nhà?",
+  "answer1": " Trường hợp lái xe mô tô khi nồng độ cồn trong máu là 0,1%",
+  "answer2": " Trường hợp lái xe mô tô sau khi đã bị tước giấy phép lái xe",
+  "answer3": " Trường hợp lái xe gắn máy dưới 125cc trên đường dành riêng cho ô tô",
+  "answer4": " Trường hợp vi phạm nghĩa vụ bảo vệ người đi bộ khi lái xe gắn máy dưới 125cc",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 257,
+  "question": "Nơi bắt buộc người điều khiển xe máy hai bánh phải tạm dừng ở vạch sang đường dành cho người đi bộkhông gắn đèn giao thông, bất kể có người đi bộ băng qua đường hay không?",
+  "answer1": " Vạch sang đường dành cho người đi bộ trong khu vực bảo vệ trẻ em",
+  "answer2": " Vạch sang đường dành cho người đi bộ trong khu vực bảo vệ người khuyết tật",
+  "answer3": " Vạch sang đường dành cho người đi bộ trong khu vực bảo vệ người cao tuổi",
+  "answer4": " Vạch sang đường dành cho người đi bộ trong khu vực trường đại học",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 258,
+  "question": "Nội dung nào không đúng với ý thức tuân thủ pháp luật của người điều khiển xe mô tô hai bánh?",
+  "answer1": " Khi đi với tốc độ chậm, cần tránh sang rìa đường bên phải và nhường làn đường.",
+  "answer2": " Nhanh chóng nhường làn đường cho xe khẩn cấp đi phía sau.",
+  "answer3": " Nên đi vào đường giao nhau trước do xe vào trước được ưu tiên hơn tại đường giao nhau.",
+  "answer4": " Khi lái xe trên đường có biển báo nhường, luôn nhường làn đường cho xe đi trên đường khác.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 259,
+  "question": "Dưới đây là ý thức hoặc thói quen mà người điều khiển xe cần từ bỏ để đảm bảo lái xe an toàn. Điều nàokhông đúng?",
+  "answer1": " Thường bám sát sau xe phía trước để xe khác không thể chen ngang.",
+  "answer2": " Điều khiển xe với suy nghĩ rằng mình phải đi trước thì lưu thông mới dễ dàng.",
+  "answer3": " Điều khiển xe với suy nghĩ rằng chỉ cần nhường người khác một chút sẽ khiến mình tụt lại phía sau.",
+  "answer4": " Dù đèn tín hiệu dành cho người đi bộ đã bật lên, cứ quan sát trái, phải rồi đi qua.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 260,
+  "question": "Khi xảy ra tai nạn giao thông, lái xe phải hành động theo trình tự như thế nào?",
+  "answer1": " Đảm bảo chứng cứ hiện trường → Khai báo cảnh sát→ Cứu giúp nạn nhân",
+  "answer2": " Khai báo cảnh sát→ Cứu giúp nạn nhân → Đảm bảo chứng cứ hiện trường",
+  "answer3": " Dừng xe ngay lập tức → Cứu giúp nạn nhân → Khai báo cảnh sát",
+  "answer4": " Dừng xe ngay lập tức → Khai báo cảnh sát→ Cứu giúp nạn nhân",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 261,
+  "question": "Phương pháp xử lý nào đúng nhất khi xảy ra tai nạn giao thông?",
+  "answer1": " Đối với tai nạn nhẹ, cứ thế điều khiển xe chạy qua, không cần quan tâm đến người bị thương.",
+  "answer2": " Dừng xe lại và tranh cãi đúng sai ngay tại đường giao nhau có đông xe.",
+  "answer3": " Ngay lập tức dừng xe, tiến hành các biện pháp cứu hộ nếu có người bị thương.",
+  "answer4": " Nếu không thể di chuyển xe, dừng xe ở trên đường và không bất cứ điều gì.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 262,
+  "question": "Khi xảy ra tai nạn giao thông, người bị thương nào cần nhanh chóng đưa đến nơi an toàn?",
+  "answer1": " Người bị gãy xương chân.",
+  "answer2": " Người bị nạn trong phương tiện có nguy cơ cháy do tai nạn giao thông gây ra.",
+  "answer3": " Người bị nạn đã mất ý thức khi va chạm với xe ô tô trên đường giao nhau.",
+  "answer4": " Người bị nạn không muốn được di chuyển do cơ thể bị đau.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 263,
+  "question": "Khi xảy ra tai nạn giao thông, hành động nào phải làm trước tiên để kiểm tra trạng thái tỉnh táo của ngườibị thương?",
+  "answer1": " Bắt mạch của người bị thương để kiểm tra.",
+  "answer2": " Nói chuyện hoặc lay nhẹ vai của người bị thương.",
+  "answer3": " Quan sát xem có chỗ nào bị chảy máu nhiều không.",
+  "answer4": " Kiểm tra miệng xem có dị vật trong đường thở hay không.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 264,
+  "question": "Cách cấp cứu nào thích hợp nhất với người bị thương nặng ở cổ do tai nạn giao thông?",
+  "answer1": " Trực tiếp thực hiện cứu hộ cho người bị thương.",
+  "answer2": " Chuyển người bị thương sang ven đường để kiểm tra tình trạng bị thương.",
+  "answer3": " Nhanh chóng chuyển xe sang làn đường 1 đề phòng tai nạn xảy ra tiếp theo.",
+  "answer4": " Không tuỳ tiện di chuyển người bị thương mà báo cho 119.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 265,
+  "question": "Biện pháp khẩn cấp nào phải làm trước tiên khi xe mô tô hai bánh bất cẩn đâm vào người đi bộ khiếnngười đi bộ bất tỉnh?",
+  "answer1": " Vỗ vào vai và hỏi lớn xem người bị thương còn ý thức hay không.",
+  "answer2": " Lập tức tiến hành hô hấp nhân tạo cho người bị thương.",
+  "answer3": " Đảm bảo đường thở cho người bị thương.",
+  "answer4": " Cầm máu nếu thấy chân người bị thương chảy máu.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 266,
+  "question": "Xử phạt như thế nào đối với người điều khiển xe mô tô hai bánh đi xe trên đường dành riêng cho người đibộ và gây thương tích cho người đi bộ?",
+  "answer1": " Không bị xử phạt hình sự nếu thoả thuận được với người bị hại.",
+  "answer2": " Bị xử phạt hình sự dù có tham gia bảo hiểm tổng hợp.",
+  "answer3": " Không bị xử phạt hình sự nếu đã tham gia bảo hiểm tổng hợp.",
+  "answer4": " Không bị xử phạt hình sự nếu đã tham gia bảo hiểm trách nhiệm và bảo hiểm cho người lái xe.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 267,
+  "question": "Xử phạt như thế nào đối với người điều khiển xe mô tô hai bánh vi phạm tốc độ giới hạn và gây thươngtích cho trẻ em trong khu vực bảo vệ trẻ em?",
+  "answer1": " Chỉ bị xử phạt hình sự khi người bị nạn yêu cầu xử phạt hình sự.",
+  "answer2": " Bị xử phạt hình sự bất kể có yêu cầu xử phạt từ người bị nạn hay không.",
+  "answer3": " Không bị xử phạt hình sự nếu đã tham gia bảo hiểm tổng hợp.",
+  "answer4": " Không bị xử phạt hình sự nếu thoả thuận được với người bị nạn.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 268,
+  "question": "Cách lái xe nào đúng nhất khi đang lái xe mô tô hai bánh trên đoạn đường ngập nước do mưa bão?",
+  "answer1": " Nắm chắc tay lái và tăng tốc vượt qua với tốc độ thật nhanh.",
+  "answer2": " Nắm chắc tay lái và từ từ đi qua.",
+  "answer3": " Đi đường vòng nếu có thể.",
+  "answer4": " Nếu đi vào đoạn đường ngập nước và bị tắt máy, khởi động lại xe và thoát ra.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 269,
+  "question": "Biện pháp xử lý nào của người lái xe mô tô hai bánh đi trong ngõ và đâm phải trẻ em đang đi bộ là đúng?",
+  "answer1": " Có vẻ như trẻ chỉ bị đâm sượt nhẹ nên cứ tiếp tục đi, không tiến hành biện pháp xử lý nào.",
+  "answer2": " Hỏi trẻ có sao không, nếu trẻ bảo không sao thì có thể đi.",
+  "answer3": " Cho rằng trẻ đã sai và tiếp tục đi.",
+  "answer4": " Liên hệ với phụ huynh của trẻ và khai báo lên 112.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 270,
+  "question": "Trường hợp nào sau đây sẽ bị xử lý chấm dứt hiệu lực của giấy phép lái xe? (Không có điểm phạt xử lýhiện tại)",
+  "answer1": " Khi gây ra tai nạn giao thông và bị phạt 40 điểm",
+  "answer2": " Khi vi phạm Luật giao thông và bị phạt 30 điểm",
+  "answer3": " Khi vi phạm Luật giao thông và bị phạt 20 điểm",
+  "answer4": " Khi uống rượu và lái xe gây ra tai nạn về người",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 271,
+  "question": "Trường hợp nào người lái xe sử dụng điện thoại di động khi đang lái xe (chẳng hạn như xe ô tô) bị xửphạt?",
+  "answer1": " Trường hợp cần dùng khẩn cấp để khai báo có thiên tai, thảm họa, v.v",
+  "answer2": " Xe ô tô đang trong trạng thái dừng",
+  "answer3": " Dùng tay cầm điện thoại và sử dụng khi đang lái xe ô tô",
+  "answer4": " Trường hợp lái xe cấp cứu",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 272,
+  "question": "Nội dung nào dưới đây tương ứng với lý do bị hủy giấy phép lái xe loại nhỏ hạng 2?",
+  "answer1": " Trường hợp không thi sát hạch sau khi quá 6 tháng kể từ ngày kế tiếp của ngày hết hạn kiểm tra sát hạchđịnh kỳ",
+  "answer2": " Trường hợp lái xe mô tô hai bánh trong thời gian xử phạt hành chính liên quan đến giấy phép lái xe",
+  "answer3": " Trường hợp bị cáo buộc hình sự do lái xe ẩu",
+  "answer4": " Trường hợp bị cáo buộc hình sự do hành vi gây nguy hiểm cho mọi người",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 273,
+  "question": "Điểm phạt vượt quá bao nhiêu thì bị hủy giấy phép lái xe?",
+  "answer1": " Từ 100 điểm phạt trở lên trong 1 năm",
+  "answer2": " Từ 191 điểm phạt trở lên trong 2 năm",
+  "answer3": " Từ 271 điểm phạt trở lên trong 3 năm",
+  "answer4": " Từ 301 điểm phạt trở lên trong 5 năm",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 274,
+  "question": "Cách xử lý đúng khi xảy ra tai nạn giao thông là cách nào?",
+  "answer1": " Phải có sự thỏa thuận của hai bên thì mới có thể khai báo cảnh sát.",
+  "answer2": " Khai báo với công ty bảo hiểm cũng có hiệu lực như khai báo với cảnh sát.",
+  "answer3": " Lập tức di chuyển xe thoát khỏi hiện trường vụ tai nạn.",
+  "answer4": " Nếu thiệt hại không đáng kể về vật chất, hai bên có thể trao đổi nội dung và số liên lạc để giải quyết sau.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 275,
+  "question": "Nội dung nào đúng với giải thích về người cản trở tài xế lái xe gây ra tai nạn giao thông khai báo?",
+  "answer1": " Trường hợp là người chứng kiến sẽ không bị xử phạt.",
+  "answer2": " Trường hợp là người bị nạn sẽ không bị xử phạt.",
+  "answer3": " Bất cứ ai cũng bị xử phạt.",
+  "answer4": " Không có điều khoản xử phạt.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 276,
+  "question": "Nội dung nào sau đây đúng với trường hợp người điều khiển xe gắn máy dưới 125cc (ngoại trừ thiết bị dichuyển cá nhân) không được lưu thông?",
+  "answer1": " Trường hợp đi ở làn xe số 2 trong số 3 làn xe một chiều trên đường thông thường",
+  "answer2": " Trường hợp đi ở làn xe số 2 trong số 2 làn xe một chiều trên đường thông thường",
+  "answer3": " Trường hợp đi ở làn xe rẽ trái trên đường chỉ có 1 làn",
+  "answer4": " Trường hợp đi ở khu vực lề đường của làn xe",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 277,
+  "question": "Tiêu chuẩn nào là tiêu chuẩn xử phạt lái xe trong trường hợp người đi cùng trên phương tiện di chuyển cánhân không trang bị dụng cụ bảo hộ cá nhân theo Luật Giao thông đường bộ?",
+  "answer1": " Phạt tiền tối đa 100.000 Won",
+  "answer2": " Phạt tiền tối đa 200.000 Won",
+  "answer3": " Phạt tiền tối đa 300.000 Won",
+  "answer4": " Phạt tiền tối đa 400.000 Won",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 278,
+  "question": "Giải thích nào không đúng với việc xử lý để ngăn ngừa nguy hiểm đối với phương tiện di chuyển cá nhâncủa cán bộ cảnh sát theo Luật Giao thông đường bộ?",
+  "answer1": " Có thể ra lệnh cấm lái xe nếu lái xe có nồng độ cồn trong máu từ 0,03% trở lên.",
+  "answer2": " Có thể tịch thu phương tiện di chuyển cá nhân nếu lái xe có nồng độ cồn trong máu từ 0,03% trở lên.",
+  "answer3": " Có thể yêu cầu xuất trình Giấy phép lái xe trong trường hợp nhận thấy lái xe đã uống rượu trước khi lái xe.",
+  "answer4": " Có thể yêu cầu xuất trình Giấy phép lái xe trong trường hợp nhận thấy lái xe đang lái xe không có giấy phép.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 279,
+  "question": "Trường hợp người lái xe mô tô hai bánh đi vào làn đường dành riêng cho xe đạp sẽ bị phạt bao nhiêuđiểm?",
+  "answer1": " Không có điểm phạt",
+  "answer2": " 10 điểm",
+  "answer3": " 15 điểm",
+  "answer4": " 30 điểm",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 280,
+  "question": "Nội dung nào dưới đây đúng với phân loại giấy phép lái xe hạng 2?",
+  "answer1": " Giấy phép lái xe đầu kéo cỡ lớn",
+  "answer2": " Giấy phép lái xe đầu kéo cỡ nhỏ",
+  "answer3": " Giấy phép lái xe cứu hộ cứu nạn",
+  "answer4": " Giấy phép lái xe gắn máy dưới 125cc",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 281,
+  "question": "Mức điểm phạt nào không đúng đối với hậu quả gây tai nạn giao thông khi điều khiển xe mô tô hai bánh?",
+  "answer1": " Tai nạn mà bác sỹ chẩn đoán yêu cầu điều trị dưới 5 ngày",
+  "answer2": " Tai nạn mà bác sỹ chẩn đoán yêu cầu điều trị từ 5 ngày đến dưới 3 tuần",
+  "answer3": " Tai nạn mà bác sỹ chẩn đoán yêu cầu điều trị từ 3 tuần trở lên",
+  "answer4": " Khi nạn nhân tử vong trong 72 giờ từ khi xảy ra tai nạn",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 282,
+  "question": "Theo Luật giao thông đường bộ, mức phạt và điểm phạt nào đối với người lái xe mô tô hai bánh có gắnthiết bị định vị?",
+  "answer1": " Mức tiền phạt",
+  "answer2": " Mức tiền phạt",
+  "answer3": " Mức tiền phạt",
+  "answer4": " Mức tiền phạt",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 283,
+  "question": "Theo Luật Giao thông đường bộ, người điều khiển xe mô tô hai bánh phải chịu bao nhiêu điểm phạt khi viphạm tín hiệu khiến cho 2 người bị thương nhẹ, 2 người bị thương nặng?",
+  "answer1": " 35 điểm",
+  "answer2": " 50 điểm",
+  "answer3": " 55 điểm",
+  "answer4": " 70 điểm",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 284,
+  "question": "Theo Luật Giao thông đường bộ, trường hợp nào không đúng về xử phạt hành chính đối với người điềukhiển xe mô tô hai bánh gây tai nạn giao thông?",
+  "answer1": " Không bị điểm phạt đối với tai nạn gây thiệt hại cho bản thân.",
+  "answer2": " Bị điểm phạt đối với tai nạn gây thiệt hại cho người đi cùng.",
+  "answer3": " Không bị điểm phạt khi người đi cùng là họ hàng, người thân.",
+  "answer4": " Giảm điểm phạt xuống ½ đối với trường hợp tai nạn gây ra là do lỗi lớn từ phía người đi bộ.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 285,
+  "question": "Theo Luật Giao thông đường bộ, đối với xe mô tô hai bánh, trường hợp nào không bị hủy giấy phép lái xe?",
+  "answer1": " Bị bắt do hành vi gây nguy hiểm cho cộng đồng.",
+  "answer2": " Bị bắt do lái xe kiểu gây hấn.",
+  "answer3": " Bị bắt do phóng nhanh vượt ẩu.",
+  "answer4": " Bỏ chạy sau khi làm hỏng xe đang đỗ.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 286,
+  "question": "Bên A đang điều khiển xe mô tô hai bánh thì làm xước nhẹ xe không có người ngồi bên trong đang đỗ xe,nhưng không để lại thông tin cá nhân mà rời khỏi hiện trường. Biện pháp xử phạt hành chính nào áp dụngđối với bên A?",
+  "answer1": " Hủy giấy phép lái xe.",
+  "answer2": " Phạt 15 điểm do không để lại thông tin cá nhân.",
+  "answer3": " Không phạt điểm đối với nguyên nhân tai nạn.",
+  "answer4": " Phạt điểm dù xảy ra ở nơi không phải là đường bộ.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 287,
+  "question": "Theo Luật Giao thông đường bộ, mục vi phạm nào bị phạt điểm cao nhất?",
+  "answer1": " Vi phạm tín hiệu giao thông",
+  "answer2": " Vi phạm lấn vạch phân cách giữa đường",
+  "answer3": " Vi phạm lưu thông trên làn đường quy định",
+  "answer4": " Lưu thông trên đường dành riêng cho xe buýt ở đường thông thường.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 288,
+  "question": "Sau đây là các mô tả về khoảng thời gian không được nhận giấy phép lái xe theo Luật Giao thông đườngbộ. Mô tả nào không đúng?",
+  "answer1": " Lái xe không có giấy phép từ 3 lần trở lên",
+  "answer2": " Lái xe trong tình trạng có nồng độ cồn trong máu từ 0,03% trở lên và gây tai nạn giao thông 2 lần trở lên",
+  "answer3": " Lái xe không có giấy phép lái xe, làm người khác bị thương và bỏ trốn",
+  "answer4": " Lái xe trong tình trạng có nồng độ cồn trong máu từ 0,03% trở lên làm người khác bị thương và bỏ trốn",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 289,
+  "question": "Hành vi nào không thể truy cứu trách nhiệm vi phạm tín hiệu đối với người điều khiển xe mô tô hai bánh?",
+  "answer1": " Không dừng xe lại khi đèn tín hiệu đã chuyển sang vàng ngay trước khi tiến vào giao lộ.",
+  "answer2": " Từ từ xuất phát ở vạch dừng xe để đi thẳng khi đèn hiệu đã chuyển sang màu đỏ.",
+  "answer3": " Rẽ phải khi đèn hiệu đã chuyển sang màu đỏ dù có gây cản trở phương tiện giao thông khác.",
+  "answer4": " Rẽ phải do không có cản trở cho giao thông khác khi đèn tín hiệu hiện màu xanh.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 290,
+  "question": "Theo Luật Giao thông đường bộ, khu vực nào đúng là khu vực cấm dừng - đỗ xe?",
+  "answer1": " Điểm cách bốn phía của khu vực an toàn 7m.",
+  "answer2": " Điểm cách mép rìa giao lộ 7m.",
+  "answer3": " Điểm cách góc đường 7m.",
+  "answer4": " Điểm cách nơi lắp thiết bị cứu hỏa khẩn cấp 7m.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 291,
+  "question": "Giải thích nào sau đây không đúng về phương pháp điều khiển xe mô tô hai bánh (ngoại trừ xe ô tô cứutrợ khẩn cấp)?",
+  "answer1": " Có thể lưu thông trên làn đường dành riêng cho xe ô tô.",
+  "answer2": " Có thể đi 2 xe song song nếu làn đường rộng.",
+  "answer3": " Có thể đi trên làn thứ 2, thứ 3 của đường thông thường có 3 làn xe một chiều.",
+  "answer4": " Duy trì hàng lối để xe khác không thể chen ngang trong trường hợp đi theo đoàn.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 292,
+  "question": "Hình thức xử phạt hành chính với giấy phép lái xe nào dưới đây được áp dụng trong trường hợp người láixe mô tô hai bánh bị bắt giam do lái xe trả đũa?",
+  "answer1": " Đình chỉ giấy phép 40 ngày",
+  "answer2": " Đình chỉ giấy phép 60 ngày",
+  "answer3": " Đình chỉ giấy phép 100 ngày",
+  "answer4": " Hủy giấy phép",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 293,
+  "question": "Trường hợp nào bị xếp vào khoảng thời gian không đủ tư cách nhận giấy phép lái xe khi đã bị cáo buộchình sự do lái xe gắn máy dưới 125cc trong tình trạng không giấy phép lái xe?",
+  "answer1": " Trường hợp đã ấn định hình thức phạt tiền",
+  "answer2": " Trường hợp có quyết định đình chỉ truy tố",
+  "answer3": " Trường hợp đã thông qua phán quyết được hưởng án treo",
+  "answer4": " Trường hợp có quyết định xử lý bảo vệ theo Điều 32 của Luật về vị thành niên",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 294,
+  "question": "Trong các hành vi vi phạm Luật Giao thông đường bộ của người lái xe mô tô dưới đây, hành vi nào tươngứng lý do bị hủy giấy phép lái xe?",
+  "answer1": " Trường hợp lần đầu tiên lái xe khi nồng độ cồn trong máu là 0,07%",
+  "answer2": " Trường hợp nhận giấy phép lái xe trong thời gian không đủ tư cách nhận giấy phép lái xe",
+  "answer3": " Trường hợp bị cáo buộc hình sự do lái xe ẩu",
+  "answer4": " Trường hợp bỏ trốn sau khi gây ra tai nạn giao thông có phát sinh thiệt hại vật chất",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 295,
+  "question": "Giải thích nào đúng về trường hợp được giảm điểm phạt (điểm lái xe tốt tích lũy) khi có cam kết không viphạm, không gây tai nạn?",
+  "answer1": " Phải thực hiện cam kết không vi phạm, không gây tai nạn trong vòng 2 năm.",
+  "answer2": " Tặng 10 điểm ưu đãi đặc biệt.",
+  "answer3": " Trừ điểm ưu đãi đặc biệt trong tổng điểm tích lũy khi bị phạt hủy bằng lái do vượt quá điểm phạt.",
+  "answer4": " Điểm ưu đãi đặc biệt được tặng sẽ hết hiệu lực sau 5 năm nếu không sử dụng đến.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 296,
+  "question": "Người điều khiển xe mô tô hai bánh lần đầu tiên lái xe ở nơi bên ngoài đường bộ với nồng độ cồn trongmáu là 0,11% sẽ bị xử phạt như thế nào?",
+  "answer1": " Hủy giấy phép lái xe.",
+  "answer2": " Đình chỉ giấy phép lái xe.",
+  "answer3": " Không xử phạt hình sự.",
+  "answer4": " Xử phạt hình sự.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 297,
+  "question": "Dưới đây là các hành vi vi phạm của người điều khiển xe gắn máy dưới 125cc (ngoại trừ phương tiện dichuyển cá nhân), hành vi nào vẫn bị xử lý hình sự kể cả ở khu vực bên ngoài đường bộ?",
+  "answer1": " Lái xe không có giấy phép",
+  "answer2": " Lái xe có sử dụng thuốc",
+  "answer3": " Hành vi nguy hiểm cho cộng đồng",
+  "answer4": " Phóng nhanh vượt ẩu",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 298,
+  "question": "Người điều khiển mô tô hai bánh lái xe khi uống rượu bia bị khởi tố hình sự và huỷ giấy phép lái xe.Trường hợp nào phải hủy việc xử phạt hành chính đối với giấy phép lái xe?",
+  "answer1": " Khi nhận quyết định tạm hoãn khởi tố",
+  "answer2": " Khi nhận quyết định tạm hoãn tuyên cáo",
+  "answer3": " Khi nhận phán quyết vô tội",
+  "answer4": " Khi nhận phán quyết về hình thức phạt tiền",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 299,
+  "question": "Giải thích nào không đúng về đề nghị kháng cáo đối với việc xử phạt hành chính giấy phép lái xe?",
+  "answer1": " Phải yêu cầu kháng cáo trong vòng 60 ngày kể từ ngày bị xử phạt hành chính.",
+  "answer2": " Phải đề nghị kháng cáo đến Giám đốc Sở Cảnh sát tỉnh - thành phố nơi cư trú.",
+  "answer3": " Nếu đề nghị kháng cáo được chấp thuận thì sẽ hủy lệnh xử phạt hành chính và điểm phạt sẽ thay đổi thành100 điểm.",
+  "answer4": " Phân xử hành chính có thể được đề xuất riêng không liên quan đến đề nghị kháng cáo.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 300,
+  "question": "Theo Luật Giao thông đường bộ, trường hợp nào người điều khiển xe mô tô hai bánh vi phạm không bịnhận 40 điểm phạt?",
+  "answer1": " Phóng nhanh vượt ẩu và bị khởi tố hình sự",
+  "answer2": " Có hành vi gây nguy hiểm đến cộng đồng và bị khởi tố hình sự",
+  "answer3": " Vi phạm tốc độ (Trên 40 km/giờ đến 60 km/giờ)",
+  "answer4": " Khi không nhận phán quyết rút gọn sau 60 ngày tính từ ngày hết hạn nộp tiền phạt",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 301,
+  "question": "Mức xử phạt nào không đúng với lỗi vi phạm pháp luật của người điều khiển xe mô tô hai bánh theo Pháplệnh về Giao thông đường bộ?",
+  "answer1": " Phạt tiền vi phạm giao thông 20.000 Won trong trường hợp không đeo dụng cụ bảo vệ cá nhân như mũ bảohiểm",
+  "answer2": " Phạt tiền hình sự tối đa 5 triệu Won hoặc phạt tù tối đa 1 năm trong trường hợp lái xe ẩu",
+  "answer3": " Phạt tiền vi phạm giao thông 40.000 Won trong trường hợp vi phạm khu vực lưu thông như đi trên vỉa hè",
+  "answer4": " Phạt tiền vi phạm giao thông 20.000 Won trong trường hợp sử dụng điện thoại di động khi đang lái xe",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 302,
+  "question": "Giải thích nào đúng về việc xử phạt đối với xe vi phạm tốc độ cho phép, bị camera bắn tốc độ phát hiện?",
+  "answer1": " Người vi phạm phải nộp phạt tiền vi phạm giao thông hoặc phạt hành chính cố định bất kể loại xe hay tốcđộ vi phạm.",
+  "answer2": " Ngoài tiền phạt, người vi phạm phải nhận mức điểm phạt khác.",
+  "answer3": " Khi bị phát hiện vi phạm, lái xe vi phạm phải nộp tiền phạt hành chính.",
+  "answer4": " Nếu không nộp phạt trong thời hạn nộp phạt, lái xe phải nộp thêm tối đa 75% mức tiền phạt.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 303,
+  "question": "Mức vi phạm tốc độ được áp dụng ngoại lệ đặc biệt theo Luật đặc biệt về xử lý tai nạn giao thông là mứcnào? (Ngoại trừ khu vực bảo vệ trẻ em)",
+  "answer1": " Quá 20 km/giờ",
+  "answer2": " Quá 15 km/giờ",
+  "answer3": " Quá 10 km/giờ",
+  "answer4": " Quá 5 km/giờ",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 304,
+  "question": "Trong các vụ tai nạn giao thông sau đây, trường hợp nào bị xử phạt về tội lái xe gây nguy hiểm chết ngườitheo Luật Tăng nặng đối với tội phạm đặc biệt?",
+  "answer1": " Trường hợp người điều khiển xe gắn máy dưới 125cc làm người khác bị thương do ảnh hưởng của thuốc",
+  "answer2": " Trường hợp người điều khiển xe đạp làm người khác bị thương do ảnh hưởng của rượu",
+  "answer3": " Trường hợp người điều khiển xe đạp điện làm người khác bị thương do ảnh hưởng của rượu",
+  "answer4": " Trường hợp người điều khiển xe đạp điện làm cho người khác bị thương do ảnh hưởng của thuốc",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 305,
+  "question": "Nội dung nào không phải là quy định cấm phương tiện di chuyển cá nhân theo Pháp lệnh về Giao thôngđường bộ?",
+  "answer1": " Cấm trẻ em dưới 13 tuổi sử dụng",
+  "answer2": " Cấm lưu thông trên vỉa hè, vạch đi bộ qua đường",
+  "answer3": " Cấm lưu thông vào ban đêm",
+  "answer4": " Cấm uống rượu khi lái xe",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 306,
+  "question": "Nội dung nào sau đây không thuộc đối tượng xử phạt trong trường hợp lái xe mô tô tạo ra tiếng ồn gâyảnh hưởng đến người khác mà không có lý do chính đáng?",
+  "answer1": " Trường hợp phát ra tiếng ồn do xuất phát đột ngột hoặc tăng tốc đột ngột",
+  "answer2": " Hành vi tăng số vòng quay của động cơ chính mà không truyền động lực cho bánh xe",
+  "answer3": " Hành vi bấm còi liên tục hoặc lặp đi lặp lại",
+  "answer4": " Hành vi bấm còi khi phát hiện có trẻ em đang băng qua đường trái phép",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 307,
+  "question": "Theo Luật Giao thông đường bộ, hành vi nào gây nguy hiểm cho cộng đồng?",
+  "answer1": " 2 học sinh cấp ba phóng như bay trên 1 chiếc xe mô tô",
+  "answer2": " Xe ô tô đi quá tốc độ",
+  "answer3": " 3 xe ô tô và 1 xe mô tô hai bánh gây cản trở lưu thông",
+  "answer4": " Hàng chục xe mô tô hai bánh đỗ ở bãi đỗ xe",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 308,
+  "question": "Xử phạt như thế nào đối với người lái xe không tạm dừng lại trước lối giao cắt đường sắt mà đi qua và vachạm với tàu hỏa gây thiệt hại về người?",
+  "answer1": " Nếu đăng ký bảo hiểm tổng hợp hoặc thỏa thuận được với người bị hại thì không xử lý hình sự.",
+  "answer2": " Phạt hành chính vì vi phạm luật khi lưu thông ngang qua đường sắt.",
+  "answer3": " Vượt qua đường sắt trái phép và gây tai nạn làm thiệt hại về người nên phải bị xử phạt hình sự.",
+  "answer4": " Việc băng qua đường sắt gây tai nạn thì không bị xử lý theo “Luật Giao thông đường bộ” hay “Luật Đặc biệtvề xử lý tai nạn giao thông”.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 309,
+  "question": "Theo Luật Đặc biệt về xử lý tai nạn giao thông đường bộ, nội dung nào sau đây là tai nạn giao thông do viphạm tốc độ có thể khởi tố ngược lại ý kiến của người bị tai nạn đã đưa ra? (Ngoại trừ khu vực bảo vệ trẻem)",
+  "answer1": " Khi gây ra tai nạn có thiệt hại về người do lái xe quá tốc độ giới hạn của đoạn đường đó 5km",
+  "answer2": " Khi gây ra tai nạn có thiệt hại về người do lái xe quá tốc độ giới hạn của đoạn đường đó 10km",
+  "answer3": " Khi gây ra tai nạn có thiệt hại về người do lái xe quá tốc độ giới hạn của đoạn đường đó 15km",
+  "answer4": " Khi gây ra tai nạn có thiệt hại về người do lái xe quá tốc độ giới hạn của đoạn đường đó 20km",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 310,
+  "question": "Theo Luật Giao thông đường bộ, nội dung nào dưới đây đúng với loại xe là đối tượng áp dụng 'Cấm lái xeẩu'?",
+  "answer1": " Phương tiện di chuyển cá nhân",
+  "answer2": " Xe mô tô hai bánh",
+  "answer3": " Xe đạp điện",
+  "answer4": " Xe đạp",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 311,
+  "question": "Nội dung nào không phải là giải thích về tốc độ lưu thông trên đường của xe ô tô (ngoại trừ Phương tiệndi chuyển cá nhân) theo Pháp lệnh về Giao thông đường bộ?",
+  "answer1": " Tốc độ tối đa trên đường dành riêng cho xe ô tô là 90 km/giờ",
+  "answer2": " Tốc độ tối đa của đường cao tốc 1 làn xe 1 chiều là 80 km/giờ",
+  "answer3": " Tối đa 70 km/giờ trên đường thông thường ở khu vực nhà dân, khu vực thương mại và khu vực công nghiệp",
+  "answer4": " Tối đa 30 km/giờ trong khu vực bảo vệ trẻ em",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 312,
+  "question": "Giải thích nào đúng nhất về trường hợp điều khiển xe gây thương tích nặng cho học sinh tiểu học đang điqua vạch sang đường- nơi không có đèn hiệu dành cho người đi bộ?",
+  "answer1": " Không thuộc mục xử lý đặc biệt theo “Luật Xử lý đặc biệt về tai nạn giao thông” nên phải chịu xử lý hình sự.",
+  "answer2": " Không bị xử lý hình sự nếu có tham gia bảo hiểm tổng hợp.",
+  "answer3": " Do nạn nhân còn nhỏ tuổi, chỉ cần liên hệ với phụ huynh là được.",
+  "answer4": " Không cần phải cho nạn nhân biết về các thông tin cá nhân.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 313,
+  "question": "Theo Luật Giao thông đường bộ, nội dung nào giải thích sai về tiêu chuẩn của xe lưu thông theo lànđường?",
+  "answer1": " Loại phương tiện được xác định bằng cách phân chia thành đường cao tốc có hai làn xe trở lên, đường dànhriêng cho xe ô tô và các loại đường khác.",
+  "answer2": " Xe mô tô hai bánh phải lưu thông trên làn đường bên phải ngoại trừ đường cao tốc.",
+  "answer3": " Trên đường cao tốc, xe tải phải lưu thông trên làn đường ở bên phải.",
+  "answer4": " Xe gắn máy dưới 125cc phải lưu thông trên làn đường bên phải nếu định rẽ trái tại nơi đường giao nhau có2 làn đường rẽ trái.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 314,
+  "question": "Xe nào không được coi là xe ô tô theo Luật Giao thông đường bộ?",
+  "answer1": " Xe ô tô chở hàng",
+  "answer2": " Xe ô tô chuyên dụng",
+  "answer3": " Xe mô tô hai bánh",
+  "answer4": " Xe gắn máy dưới 125cc",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 315,
+  "question": "Mức tiền phạt trong trường hợp không tuân thủ hiệu lệnh đo nồng độ cồn của cảnh sát khi điều khiển xeđạp sau khi uống rượu theo Pháp lệnh về Giao thông đường bộ là bao nhiêu?",
+  "answer1": " 100.000 Won",
+  "answer2": " 50.000 Won",
+  "answer3": " 30.000 Won",
+  "answer4": " Không bị phạt.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 316,
+  "question": "Ai không có quyền điều khiển tín hiệu hoặc chỉ đạo giao thông theo Luật Giao thông đường bộ?",
+  "answer1": " Cảnh sát đang thực hiện nhiệm vụ",
+  "answer2": " Người lái xe gương mẫu",
+  "answer3": " Thành viên Hội những người mẹ Xanh",
+  "answer4": " Nhân viên cứu hoả điều tiết giao thông để xe chữa cháy lưu thông với mục đích khẩn cấp",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 317,
+  "question": "Phương pháp lưu thông nào không đúng trên đường giao nhau khi đèn hiệu chuyển sang vàng?",
+  "answer1": " Phải dừng ngay trước vạch dừng xe.",
+  "answer2": " Phải đi nhanh ra khỏi giao lộ nếu đã đi vào giao lộ.",
+  "answer3": " Có thể rẽ sang phải nếu không gây cản trở phương tiện giao thông khác.",
+  "answer4": " Ngay cả khi đã đi vào giao lộ nhưng nếu vẫn đi tiếp thì vẫn là vi phạm cách lưu thông ở nơi đường giaonhau.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 318,
+  "question": "Xe mô tô hai bánh không thể đi giữa đường hoặc phần đường bên trái trong trường hợp nào?",
+  "answer1": " Đường lưu thông một chiều",
+  "answer2": " Làn đường khó lưu thông bên phải do có công trình thi công",
+  "answer3": " Đường bị tắc nghẽn giao thông",
+  "answer4": " Điều khiển xe theo tín hiệu tay của cảnh sát",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 319,
+  "question": "Cách lái xe nào của xe mô tô hai bánh khi lưu thông qua phần đường phân chia giữa đường xe chạy vàđường đi bộ là không đúng?",
+  "answer1": " Phải đi trên làn đường dành cho xe chạy.",
+  "answer2": " Có thể đi qua đường đi bộ khi ra vào nơi bên ngoài đường.",
+  "answer3": " Có thể lưu thông trên đường đi bộ để chở bưu kiện.",
+  "answer4": " Không được đi trên đường đi bộ kể cả đối với người cao tuổi lái xe.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 320,
+  "question": "Nội dung nào không đúng với việc lưu thông trên làn đường dành riêng cho xe buýt ở đường thôngthường?",
+  "answer1": " Xe khách trên 36 chỗ có thể lưu thông trên làn đường dành riêng cho xe buýt.",
+  "answer2": " Tất cả các xe có thể lưu thông trên làn đường chuyên dụng nếu có hư hỏng trên đường không phải lànđường chuyên dụng.",
+  "answer3": " Xe khách 25 chỗ chuyên chở du khách trong nước có thể lưu thông trên làn đường chuyên dụng.",
+  "answer4": " Xe taxi có thể tạm thời đi vào làn đường chuyên dụng để trả khách.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 321,
+  "question": "Hành vi gây nguy hiểm cho cộng đồng theo Luật Giao thông đường bộ là hành vi có ( ) trở lên đang cùnglưu thông trên từ 2 xe ô tô trở lên (ngoại trừ phương tiện di chuyển cá nhân) xếp thành hàng trước sau màkhông có lý do chính đáng và gây nguy hiểm cho người khác. Đáp án nào thích hợp điền vào ( )?",
+  "answer1": " 1 người",
+  "answer2": " 2 người",
+  "answer3": " 3 người",
+  "answer4": " 4 người",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 322,
+  "question": "Giải thích nào dưới đây không đúng về cách đổi làn đường đi thẳng của xe mô tô hai bánh?",
+  "answer1": " Thay đổi làn đường đi thẳng một cách an toàn tại nơi có vạch chấm màu trắng.",
+  "answer2": " Nếu không cản trở lưu thông của các xe khác thì có thể thay đổi làn đường đi thẳng cả ở nơi có vạch liềnmàu trắng.",
+  "answer3": " Bật đèn xi nhan về hướng muốn thay đổi làn đường đi thẳng.",
+  "answer4": " Phải bật đèn xi nhan kể cả khi không có người đi bộ hoặc xe cộ xung quanh.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 323,
+  "question": "Trường hợp nào không bắt buộc giảm 50% tốc độ tối đa theo Luật Giao thông đường bộ?",
+  "answer1": " Mặt đường ẩm ướt do mưa",
+  "answer2": " Mặt đường bị đóng băng",
+  "answer3": " Tầm nhìn dưới 100m do sương mù",
+  "answer4": " Đường có tuyết phủ trên 20mm",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 324,
+  "question": "Phương pháp lái xe nào đúng khi vượt lên trước xe khác?",
+  "answer1": " Vượt sang bên trái của xe phía trước.",
+  "answer2": " Vượt khi xe phía trước đang dừng lại để đề phòng nguy hiểm.",
+  "answer3": " Vượt ở trên cầu.",
+  "answer4": " Vượt trước khi xe phía trước có xe đang đi song song ở bên trái.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 325,
+  "question": "Giải thích nào đúng về việc nhường đường tại đường giao nhau không có phân luồng giao thông?",
+  "answer1": " Xe ô tô định vào giao lộ cùng một lúc phải nhường làn đường cho xe ô tô trên đường bên trái.",
+  "answer2": " Xe ô tô vào giao lộ sau phải nhường làn đường cho xe ô tô đã đi vào giao lộ.",
+  "answer3": " Xe ô tô định rẽ phải phải nhường làn đường cho xe ô tô định rẽ trái.",
+  "answer4": " Xe ô tô đi vào đường rộng phải nhường làn đường cho xe ô tô đi vào đường hẹp.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 326,
+  "question": "Theo Luật Giao thông đường bộ, xe gắn máy dưới 125cc khi lưu thông trên đường có sương mù dày đặcphải bật đèn nào?",
+  "answer1": " Đèn thân xe và đèn biển số",
+  "answer2": " Đèn thân xe và đèn hậu",
+  "answer3": " Đèn pha và đèn hậu",
+  "answer4": " Đèn biển số và đèn pha",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 327,
+  "question": "Giải thích nào không đúng về phương pháp điều khiển đèn của xe mô tô hai bánh?",
+  "answer1": " Hướng ánh đèn trước xuống dưới khi lái xe ngược chiều nhau.",
+  "answer2": " Hướng ánh đèn trước xuống dưới khi đi ngay sau xe phía trước.",
+  "answer3": " Chiếu đèn trước lên xuống liên tục khi xe phía trước không nhường đường.",
+  "answer4": " Duy trì đèn trước hướng xuống dưới ở nơi giao thông đông đúc trừ khu vực được Giám đốc Sở Cảnh sát tỉnh- thành phố quy định.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 328,
+  "question": "Theo Luật Giao thông đường bộ, giải thích nào dưới đây không đúng với quy định cấm các hành vi gâynguy hiểm cho cộng đồng? (Ngoại trừ phương tiện di chuyển cá nhân)",
+  "answer1": " Đối tượng chỉ là xe ô tô và xe gắn máy dưới 125cc.",
+  "answer2": " Là việc lưu thông dàn hàng phía trước, phía sau gây nguy hiểm về mặt giao thông.",
+  "answer3": " Áp dụng cho cả các xe đang chạy trong sự kiện quốc gia theo Luật.",
+  "answer4": " Đối tượng xử lý là cả người gây ra hành vi nguy hiểm cho cộng đồng.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 329,
+  "question": "Giải thích nào đúng về việc cấm lái xe khi quá sức (bao gồm cả lái xe khi buồn ngủ)?",
+  "answer1": " Không bao gồm lái xe khi đang mắc bệnh.",
+  "answer2": " Bị nhận lệnh phạt tiền vi phạm giao thông (gửi giấy phạt) do vi phạm nghĩa vụ lái xe an toàn.",
+  "answer3": " Bị phạt tiền hình sự tối đa 300.000 Won hoặc bị bắt giam.",
+  "answer4": " Bị 30 điểm phạt.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 330,
+  "question": "Cảnh sát có thể tháo bỏ các thiết bị bất hợp pháp tại chỗ nhằm đảm bảo lái xe an toàn cho xe mô tô haibánh. Những thiết bị nào không thuộc phạm vi có thể tháo bỏ?",
+  "answer1": " Thiết bị gây cản trở các thiết bị giám sát giao thông",
+  "answer2": " Lốp khổ rộng không đúng quy định",
+  "answer3": " Bộ đàm có tần số trùng với bộ đàm sử dụng ở Sở Cảnh sát",
+  "answer4": " Đèn cảnh báo, còi báo động hoặc đèn khẩn cấp gắn vào xe không phải là xe cấp cứu",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 331,
+  "question": "Theo Luật Đặc biệt về xử lý tai nạn giao thông, trong tai nạn nào dưới đây người lái xe mô tô hai bánh đãtham gia bảo hiểm tổng hợp không phải là đối tượng xử lý hình sự?",
+  "answer1": " Tai nạn do va chạm với xe chạy ngược chiều do lấn vạch phân cách giữa đường và bị thương phải điều trịtrong 2 tuần",
+  "answer2": " Tai nạn do va chạm với xe phía trước khi lái xe quá tốc độ quy định 25km và bị thương phải điều trị trong 2tuần",
+  "answer3": " Tai nạn do va chạm với người cao tuổi đang đi bộ trong ngõ và bị thương phải điều trị trong 3 tuần",
+  "answer4": " Tai nạn do va chạm với người đi bộ ở phần đường đi bộ sang đường không có đèn tín hiệu và bị thươngphải điều trị trong 3 tuần",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 332,
+  "question": "Biện pháp xử lý nào của người lái xe mô tô hai bánh khi xảy ra tai nạn giao thông là không đúng?",
+  "answer1": " Cứu hộ người bị thương.",
+  "answer2": " Không gây cản trở phương tiện giao thông khác.",
+  "answer3": " Ngay cả khi không phải tình huống khẩn cấp vẫn để người đi cùng thực hiện biện pháp xử lý hoặc khai báocần thiết, rồi mới lái xe đi.",
+  "answer4": " Cung cấp thông tin cá nhân cho người chịu thiệt hại kể cả khi gây hư hỏng cho xe đang dừng hoặc đỗ.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 333,
+  "question": "Hình thức xử phạt hành chính đối với giấy phép lái xe nào dưới đây đúng với trường hợp người lái xe môtô hai bánh có hành vi gây nguy hiểm cho cộng đồng và bị truy cứu trách nhiệm hình sự?",
+  "answer1": " Đình chỉ giấy phép 40 ngày",
+  "answer2": " Đình chỉ giấy phép 60 ngày",
+  "answer3": " Đình chỉ giấy phép 100 ngày",
+  "answer4": " Hủy giấy phép",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 334,
+  "question": "Lái xe mô tô hai bánh phanh gấp trước xe ô tô con với mục đích trả thù bị xử lý như thế nào?",
+  "answer1": " Phạt tiền đối với vi phạm cấm phanh gấp.",
+  "answer2": " Khởi tố hình sự với hành vi uy hiếp theo Luật Hình sự.",
+  "answer3": " Phạt 40 điểm nếu bị khởi tố hình sự.",
+  "answer4": " Phạt 100 điểm nếu bị bắt giam.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 335,
+  "question": "Theo Luật Giao thông đường bộ, nội dung nào dưới đây không đúng với giải thích về quy định cấm phóngnhanh vượt ẩu? (Ngoại trừ phương tiện di chuyển cá nhân)",
+  "answer1": " Đối tượng là người lái xe ô tô hoặc xe gắn máy dưới 125cc.",
+  "answer2": " Liên tiếp, lặp đi lặp lại một hoặc hai hành vi trở lên trong các hành vi vi phạm quy định của Luật.",
+  "answer3": " Góp phần làm tăng nguy cơ hay đe dọa hoặc gây ra các yếu tố nguy hiểm về mặt giao thông.",
+  "answer4": " Bị giam tối đa 1 năm hoặc chịu mức phạt tiền hình sự tối đa 5 triệu Won.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 336,
+  "question": "Giải thích nào không đúng về nghĩa vụ đội mũ bảo hiểm khi đi xe mô tô hai bánh?",
+  "answer1": " Người điều khiển xe không đội mũ bảo hiểm chịu mức phạt vi phạm giao thông 20.000 Won.",
+  "answer2": " Người điều khiển xe bị phạt tiền hành chính 20.000 Won nếu người đi cùng không đội mũ bảo hiểm.",
+  "answer3": " Về nguyên tắc, đội mũ bảo hiểm không đạt tiêu chuẩn an toàn cũng là hành vi bị cấm.",
+  "answer4": " Không đội mũ bảo hiểm và dắt xe mô tô hai bánh cũng là hành vi bị cấm.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 337,
+  "question": "Theo Luật Giao thông đường bộ, giải thích nào dưới đây không đúng với việc cấm lái xe trong trạng thái sayrượu?",
+  "answer1": " Đối tượng là xe ô tô, xe gắn máy dưới 125cc, và tất cả các phương tiện máy móc xây dựng.",
+  "answer2": " Là đối tượng bị cấm điều khiển xe ở cả những nơi không phải là đường.",
+  "answer3": " Là đối tượng bị cấm kể cả khi lái xe trên một đoạn đường ngắn để đỗ xe.",
+  "answer4": " Tiêu chuẩn xử lý hình sự là có nồng độ cồn trong máu từ 0,02% trở lên.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 338,
+  "question": "Theo Pháp lệnh về thu phí đường bộ, đáp án nào sau đây không phải là lý do thu phí đường bộ phụ thêmgấp 10 lần phí đường bộ đã được giảm ngoài phí đường bộ đó?",
+  "answer1": " Trường hợp làm giả hoặc tẩy sửa vé giao thông để được giảm giá",
+  "answer2": " Trường hợp đổi vé giao thông của mình lấy vé của người khác để được giảm giá",
+  "answer3": " Trường hợp được giảm giá do dùng giấy tờ chứng minh là đối tượng được miễn giảm phí đường bộ củangười khác",
+  "answer4": " Trường hợp lưu thông trên làn đường dành riêng cho Hi-pass mà không có thiết bị Hi-pass",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 339,
+  "question": "Nội dung nào dưới đây không đúng khi mô tả về cách quay đầu xe?",
+  "answer1": " Nếu quay đầu xe mà cản trở các xe khác đang lưu thông bình thường ở điểm quay đầu là vi phạm quy địnhquay đầu xe.",
+  "answer2": " Ở những nơi không có biển báo phụ và chỉ có biển báo quay đầu xe thì có thể quay đầu xe bất kể tín hiệuđèn nếu không gây cản trở cho các phương tiện khác.",
+  "answer3": " Quay đầu xe trên đường có vạch phân cách giữa mà không có biển báo quay đầu xe là vi phạm quy địnhquay đầu xe.",
+  "answer4": " Nếu vi phạm biển báo cấm quay đầu xe để quay đầu xe là vi phạm chỉ thị.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 340,
+  "question": "Giải thích nào không đúng về việc xe mô tô hai bánh lưu thông trên vỉa hè?",
+  "answer1": " Phải đi trên đường dành cho xe ở nơi phân chia đường dành cho xe và vỉa hè.",
+  "answer2": " Có thể đi qua vỉa hè khi đi bên ngoài đường.",
+  "answer3": " Không được cản trở việc đi lại của người đi bộ khi đi qua vỉa hè.",
+  "answer4": " Người yếu thế trong giao thông như người cao tuổi điều khiển xe mô tô hai bánh có thể đi trên vỉa hè.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 341,
+  "question": "Giải thích nào không đúng về phương pháp lưu thông của xe mô tô hai bánh trên đường giao nhau?",
+  "answer1": " Khi muốn rẽ phải, đi từ từ sang rìa đường bên phải rồi mới rẽ phải.",
+  "answer2": " Khi muốn rẽ trái, đi vào phía trong chính giữa đường giao nhau.",
+  "answer3": " Không đi vào giao lộ khi xảy ra tắc nghẽn xe gây cản trở lưu thông của phương tiện khác.",
+  "answer4": " Có thể vượt trước về bên phải giao lộ nếu không cản trở lưu thông của phương tiện khác.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 342,
+  "question": "Liệt kê nào đúng về “xe” theo Luật Giao thông đường bộ?",
+  "answer1": " Xe đạp, xe gắn máy dưới 125cc, xe kéo tay",
+  "answer2": " Xe lửa, xe đạp ba bánh cho trẻ em, ván trượt điện",
+  "answer3": " Xe đẩy trẻ em, xe dạng ghế hỗ trợ đi lại, xe hai bánh điện",
+  "answer4": " Xe cáp treo, xe máy cày, xe đạp điện",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 343,
+  "question": "Đường nào không phải là đường xe đạp theo Luật Đẩy mạnh sử dụng xe đạp?",
+  "answer1": " Đường dành riêng cho xe đạp",
+  "answer2": " Làn đường dành riêng cho xe đạp",
+  "answer3": " Đường ưu tiên xe đạp",
+  "answer4": " Làn đường ưu tiên xe đạp",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 344,
+  "question": "Phương tiện không thể lưu thông trên đường dành riêng cho xe đạp?",
+  "answer1": " Kickboard điện",
+  "answer2": " Xe đạp điện",
+  "answer3": " Xe máy hai bánh",
+  "answer4": " Xe điện hai bánh",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 345,
+  "question": "Cách lái xe nào an toàn nhất khi người điều khiển xe mô tô hai bánh phát hiện xe đạp đi ngay phía trước ởđoạn đường vòng?",
+  "answer1": " Đi nhanh, vượt lên trước do xe đạp đi tốc độ chậm.",
+  "answer2": " Bấm còi để gây chú ý, bám vạch chính giữa và đi thật nhanh.",
+  "answer3": " Giữ khoảng cách an toàn và đi đằng sau xe đạp cho đến khi ra khỏi đường vòng.",
+  "answer4": " Sử dụng khoảng trống bên rìa đường để đi thật nhanh.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 346,
+  "question": "Cách lái xe nào an toàn nhất khi người điều khiển xe mô tô hai bánh phát hiện người dắt xe đạp đi sangđường?",
+  "answer1": " Hét to để gây chú ý và giảm tốc độ khi đi qua.",
+  "answer2": " Giữ khoảng cách an toàn và tạm thời dừng lại.",
+  "answer3": " Bấm còi không cho người đi bộ sang đường, rồi nhanh chóng đi qua.",
+  "answer4": " Sử dụng khoảng trống phía sau người đi bộ và đi từ từ.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 347,
+  "question": "Phương tiện nào không phải là phương tiện di chuyển cá nhân theo Pháp lệnh Giao thông đường bộ?",
+  "answer1": " Kickboard điện",
+  "answer2": " Xe điện hai bánh",
+  "answer3": " Bánh xe điện một bánh",
+  "answer4": " Xe đạp chỉ di chuyển bằng động cơ điện",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 348,
+  "question": "Phương tiện nào không phải là dụng cụ, thiết bị không nằm trong xe ngựa theo Pháp lệnh Giao thôngđường bộ? (Chiều rộng 1m trở xuống)",
+  "answer1": " Xe ghế ngồi hỗ trợ đi bộ",
+  "answer2": " Xe đạp người cao tuổi đang chạy",
+  "answer3": " Xe kéo không có động cơ",
+  "answer4": " Dụng cụ hỗ trợ đi bộ cho người cao tuổi & người yếu",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 349,
+  "question": "Làn xe nào là làn xe lưu thông của xe đạp trên đường thông thường có 3 làn xe một chiều?",
+  "answer1": " Làn xe số 1",
+  "answer2": " Làn xe số 2",
+  "answer3": " Làn xe số 3",
+  "answer4": " Không phân biệt",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 350,
+  "question": "Nội dung nào là giải thích không đúng về tiêu chuẩn và điều khiển thiết bị di chuyển cá nhân?",
+  "answer1": " Trường hợp điều khiển loại xe gắn động cơ với dung tích xy lanh 125cc trở xuống và đi với vận tốc 25km/giờtrở lên thì không được khởi động động cơ điện.",
+  "answer2": " Là loại xe gắn động cơ với công suất điện tối đa là 11kW, trọng lượng phần thân bao gồm cả động cơ dưới35kg.",
+  "answer3": " Điều khiển phương tiện di chuyển cá nhân không có bằng lái bị phạt tiền vi phạm giao thông 100.000 won.",
+  "answer4": " Người điều khiển phương tiện di chuyển cá nhân có lý do đủ để công nhận đang trong tình trạng say rượunếu không tuân thủ yêu cầu đo kiểm tra hơi thở của cảnh sát thì bị phạt tiền vi phạm giao thông 130.000 won.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 351,
+  "question": "Nhóm phương tiện nào có thể đi trên phần đường xe đạp sang đường?",
+  "answer1": " Xe mô tô hai bánh, xe đạp",
+  "answer2": " Xe gắn máy dưới 125cc, xe dạng ghế hỗ trợ đi lại",
+  "answer3": " Xe dạng ghế hỗ trợ đi lại, xe đạp",
+  "answer4": " Ván trượt điện, xe hai bánh điện",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 352,
+  "question": "Phương pháp nào đúng nhất để nâng cao hiệu quả tiết kiệm nhiên liệu?",
+  "answer1": " Không xuất phát hay dừng lại đột ngột nếu có thể.",
+  "answer2": " Thường xuyên để áp lực không khí của lốp xe bị thiếu.",
+  "answer3": " Tăng hết tốc độ và đi thật nhanh đến điểm đích.",
+  "answer4": " Chất đầy hành lí ở những không gian trống.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 353,
+  "question": "Nội dung nào không phải là thói quen lái xe đúng đắn để có thể lái xe thân thiện với môi trường và lái xetiết kiệm?",
+  "answer1": " Giảm tối đa việc chạy xe không tải.",
+  "answer2": " Duy trì tốc độ lái xe tiết kiệm.",
+  "answer3": " Xuất phát nhanh chóng.",
+  "answer4": " Lợi dụng quán tính xe chạy.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 354,
+  "question": "Câu nào đúng nhất trong phương pháp lái xe tiết kiệm, thân thiện với môi trường?",
+  "answer1": " Tuân thủ tốc độ tiết kiệm.",
+  "answer2": " Tăng tốc gấp và rẽ gấp.",
+  "answer3": " Chỉ kiểm tra xe mô tô hai bánh khi thay đổi phụ tùng nhỏ.",
+  "answer4": " Chạy theo ngoại lực và theo quán tính ở đường lên và xuống dốc.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 355,
+  "question": "Giải thích nào đúng nhất về lái xe tiết kiệm và thân thiện với môi trường?",
+  "answer1": " Tạo thói quen lái xe đúng đắn.",
+  "answer2": " Tiết kiệm nhiên liệu bằng việc sử dụng nhiên liệu tương tự.",
+  "answer3": " Chất đầy hành lí nếu có thể.",
+  "answer4": " Chỉ kiểm tra lốp xe khi chạy đường dài hay vào các dịp lễ Tết.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 356,
+  "question": "Người điều khiển xe nào không thực hiện tốt việc lái xe thân thiện với môi trường?",
+  "answer1": " Người điều khiển xe luôn duy trì áp suất không khí của lốp phù hợp",
+  "answer2": " Người điều khiển xe đi tốc độ đều và không tăng tốc đột ngột",
+  "answer3": " Người điều khiển xe không xuất phát hay phanh đột ngột",
+  "answer4": " Người điều khiển xe luôn bật điều hoà khi lái xe",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 357,
+  "question": "Thuật ngữ nào chỉ tốc độ có thể tiết kiệm nhiên liệu nhất khi lái xe?",
+  "answer1": " Tốc độ tối thiểu",
+  "answer2": " Tốc độ tối đa",
+  "answer3": " Tốc độ kinh tế",
+  "answer4": " Tốc độ luật định",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 358,
+  "question": "Phương pháp lái xe nào tốt nhất để nâng cao hiệu quả tiết kiệm nhiên liệu?",
+  "answer1": " Giảm áp suất không khí của lốp xe.",
+  "answer2": " Thường xuyên đổ đầy nhiên liệu.",
+  "answer3": " Chủ yếu sử dụng bộ số thấp khi lái xe.",
+  "answer4": " Không chất hành lý không cần thiết vào cốp xe.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 359,
+  "question": "Người lái xe nào có thói quen lái xe phù hợp nhất để nâng cao hiệu quả tiết kiệm nhiên liệu?",
+  "answer1": " Người lái xe luôn xuất phát gấp khi khởi hành",
+  "answer2": " Người lái xe thường đi với vận tốc đều đều khi lái xe",
+  "answer3": " Người lái xe luôn phanh gấp khi dừng xe",
+  "answer4": " Người lái xe đi với bộ số thấp",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 360,
+  "question": "Phương pháp lái xe nào đúng nhất để có thể tiết kiệm nhiên liệu?",
+  "answer1": " Luôn chạy vượt quá tốc độ quy định.",
+  "answer2": " Tắt động cơ và đi xuống khi ở đoạn đường dốc.",
+  "answer3": " Giảm bớt hơi của lốp xe.",
+  "answer4": " Không xuất phát gấp hay phanh gấp.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 361,
+  "question": "Nội dung nào sau đây phù hợp với nội dung lái xe thân thiện với môi trường?",
+  "answer1": " Không cần duy trì áp suất thích hợp cho lốp xe.",
+  "answer2": " Thói quen lái xe đúng tốc độ quy định và không đạp phanh thường xuyên.",
+  "answer3": " Đổ đầy xăng đề phòng khi hết nhiên liệu.",
+  "answer4": " Thói quen nổ máy để xe chạy không nhằm bảo vệ động cơ.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 362,
+  "question": "Trường hợp nào dưới đây là lái xe tiết kiệm, thân thiện với môi trường nhất?",
+  "answer1": " Lưu thông với tốc độ mang tính kinh tế ngay cả khi giao thông không bị ùn tắc.",
+  "answer2": " Cho máy khởi động chạy không 5 phút trước khi xuất phát và sau khi dừng lại để kéo dài tuổi thọ của xe.",
+  "answer3": " Duy trì áp suất lốp thấp đi khoảng 5% để tăng diện tích tiếp đất cho bánh xe.",
+  "answer4": " Luôn để khoảng 10kg hành lý trong cốp để lưu thông ổn định.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 363,
+  "question": "Trên đoạn đường không phân biệt đường đi bộ và đường dành cho xe, vì sao khi đỗ xe phải chú ý giữkhoảng cách 50cm từ lề đường bên phải ra hướng giữa đường?",
+  "answer1": " Để xe đạp đi lại.",
+  "answer2": " Để xe mô tô hai bánh qua lại.",
+  "answer3": " Để người đi bộ qua lại.",
+  "answer4": " Để xe ô tô qua lại.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 364,
+  "question": "Khi một tình huống phát sinh trong khi lái xe, cần nhận thức tình huống đó, ( ) phải hành động nhưthế nào, sau đó điều khiển hệ thống vô lăng và đèn của xe. Nội dung nào thích hợp để điền vào ( )?",
+  "answer1": " Nhận thức",
+  "answer2": " Phán đoán",
+  "answer3": " Điều khiển",
+  "answer4": " Hoạt động",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 365,
+  "question": "Nội dung đúng nhất về điều khiển xe trong đường hầm?",
+  "answer1": " Không được đổi làn đường trong đường hầm.",
+  "answer2": " Trong đường hầm là nơi cấm vượt.",
+  "answer3": " Tình trạng lóa mắt thường xảy ra khi tiến vào đường hầm.",
+  "answer4": " Tình trạng tối mắt thường xảy ra khi ra khỏi đường hầm.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 366,
+  "question": "Nội dung nào là hành vi bị tăng tiền phạt khi người điều khiển xe máy hai bánh vi phạm luật giao thông (11giờ sáng) trong khu vực bảo vệ người khuyết tật?",
+  "answer1": " Vi phạm cấm/hạn chế lưu thông",
+  "answer2": " Lấn vạch trung tâm",
+  "answer3": " Sử dụng điện thoại di động khi đang lái xe",
+  "answer4": " Vi phạm cách đổi làn đường",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 367,
+  "question": "Điều nào không phù hợp nhất về đặc trưng hành động của trẻ nhỏ được ví là 'đèn đỏ di động'?",
+  "answer1": " Trẻ nhỏ có xu hướng hành động ngay theo suy nghĩ của mình.",
+  "answer2": " Trẻ nhỏ có xu hướng chạy ra đường mà không kiểm tra trái phải nếu được mẹ gọi từ phía bên kia đường.",
+  "answer3": " Trẻ nhỏ có xu hướng nhìn phía trước và đi vào vạch sang đường ngay khi đèn tín hiệu bật lên.",
+  "answer4": " Trẻ nhỏ có xu hướng hành động rất chậm và chần chừ.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 368,
+  "question": "Giải thích nào không đúng về đặc trưng của xe mô tô hai bánh?",
+  "answer1": " Xe mô tô hai bánh không có tấm bảo vệ và khó có thể duy trì thăng bằng.",
+  "answer2": " Xe mô tô hai bánh nhìn không được rõ vào ban đêm.",
+  "answer3": " Không nằm ngoài tầm nhìn của người lái xe ô tô.",
+  "answer4": " Nếu phanh gấp ở đường gấp khúc sẽ bị trơn trượt.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 369,
+  "question": "Dưới đây là các nội dung cần chú ý khi 2 người cùng đi trên xe mô tô hai bánh. Câu nào sai?",
+  "answer1": " 2 người đi chung xe sẽ khó giữ thăng bằng, nguy cơ tai nạn cao.",
+  "answer2": " Tốc độ chậm hơn so với lúc đi một mình và không phanh gấp.",
+  "answer3": " Người ngồi sau ngồi sang một bên giúp việc giữ thăng bằng dễ hơn.",
+  "answer4": " Không nên đi 2 người trên một xe khi đường trơn do mưa hay tuyết.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 370,
+  "question": "Dưới đây là giải thích về phương pháp vượt trước của xe mô tô hai bánh. Câu nào đúng?",
+  "answer1": " Xe mô tô hai bánh có thể vượt lên trước từ phía bên trái của xe phía trước.",
+  "answer2": " Khi hướng xe đang điều khiển bị tắc nghẽn lưu thông, xe mô tô hai bánh có thể vượt lên khoảng tắc nghẽnđó.",
+  "answer3": " Khi có xe khác tiến vào hướng đang định vượt lên, xe mô tô hai bánh vẫn có thể vượt trước.",
+  "answer4": " Trong trường hợp tắc đường có thể vượt lên trước ở khu vực mép đường.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 371,
+  "question": "Dưới đây là những nội dung mà người lái xe mô tô hai bánh cần chú ý. Câu nào sai?",
+  "answer1": " Cần chú ý hơn vì xe mô tô hai bánh thường không nằm trong tầm quan sát của người lái xe ô tô.",
+  "answer2": " Phải chú ý hơn đến việc duy trì thăng bằng của thân xe.",
+  "answer3": " Xe chỉ có hai bánh nên khả năng phanh sẽ tốt hơn xe hơi.",
+  "answer4": " Phải đội mũ bảo hiểm vì sự an toàn của người lái xe.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 372,
+  "question": "Sau đây là mô tả các đặc điểm của lốp xe mô tô. Mục nào là đúng?",
+  "answer1": " Hình dạng mặt cắt ngang của lốp là hình tròn.",
+  "answer2": " Cấu tạo không có Ta-lông.",
+  "answer3": " Kích thước của bánh trước và bánh sau giống nhau.",
+  "answer4": " Khoảng cách phanh ngắn hơn so với lốp xe ô tô.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 373,
+  "question": "Phương pháp lái xe nào an toàn nhất khi xe mô tô hai bánh đổi làn xe?",
+  "answer1": " Giữ nguyên tốc độ và đổi làn xe khi có khoảng cách với xe phía sau.",
+  "answer2": " Tăng tốc và đổi làn khi có khoảng cách với xe sau.",
+  "answer3": " Giảm tốc và đổi làn khi xe phía sau đang áp sát.",
+  "answer4": " Đổi làn gấp khi xe phía sau đang áp sát.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 374,
+  "question": "Dưới đây là nội dung người lái xe mô tô hai bánh phải tuân thủ. Câu nào sai?",
+  "answer1": " Không xuất phát hay tăng tốc gấp.",
+  "answer2": " Không truyền lực của động cơ đến bánh xe và không tăng số lần rẽ.",
+  "answer3": " Không đội mũ bảo hiểm vào ban đêm để mở rộng tầm nhìn.",
+  "answer4": " Điều khiển xe theo hai hàng trái phải vẫn không phát sinh nguy hiểm về mặt giao thông.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 375,
+  "question": "Dưới đây là cách phanh khi lưu thông của xe mô tô hai bánh. Cách nào an toàn nhất?",
+  "answer1": " An toàn khi chỉ dùng phanh trước.",
+  "answer2": " An toàn khi chỉ dùng phanh sau.",
+  "answer3": " An toàn khi dùng đồng thời phanh trước và phanh sau.",
+  "answer4": " An toàn khi dùng phanh sau trước, rồi sau đó mới dùng phanh trước.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 376,
+  "question": "Dưới đây là các hạng mục kiểm tra trước khi điều khiển xe mô tô hai bánh. Câu nào sai?",
+  "answer1": " Không điều khiển xe khi cấu trúc và thiết bị của xe mô tô hai bánh không phù hợp với tiêu chuẩn an toàn.",
+  "answer2": " Xe mô tô hai bánh nổ máy để chạy không tải trong một thời gian lâu thì khi xuất phát mới nhẹ máy và tiếtkiệm nguyên liệu hơn.",
+  "answer3": " Trước khi điều khiển xe mô tô hai bánh, kiểm tra áp suất và trạng thái mài mòn của bánh xe.",
+  "answer4": " Trước khi điều khiển xe mô tô hai bánh, điều chỉnh gương chiếu hậu để có thể nhìn thấy các xe phía sau.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 377,
+  "question": "Dưới đây là giải thích về thay đổi hướng khi điều khiển xe mô tô hai bánh. Câu nào đúng?",
+  "answer1": " Vẫn có thể thay đổi hướng kể cả trong khu vực cấm thay đổi hướng.",
+  "answer2": " Xe mô tô hai bánh chỉ được lưu thông ở làn đường sát bên phải nên không thể vượt xe phía trước từ phíabên trái.",
+  "answer3": " Có thể vượt lên từ bên phải của xe phía trước trên đường gấp khúc.",
+  "answer4": " Khi thay đổi hướng người lái xe mô tô hai bánh cần kiểm tra an toàn của không gian không nhìn thấy bằngkính chiếu hậu.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 378,
+  "question": "Dưới đây là các nội dung cần chú ý khi điều khiển xe mô tô hai bánh tại góc đường hay ở đường quanhco. Nội dung nào sai?",
+  "answer1": " Giảm tốc độ ở đường ngay phía trước, rồi đi chậm qua.",
+  "answer2": " Quay tay lái hay đạp phanh gấp sẽ làm cho xe bị lật hoặc trơn trượt.",
+  "answer3": " Dự đoán xe ở chiều ngược lại có thể vượt qua vạch giữa đường nên tăng tốc vượt qua.",
+  "answer4": " Chú ý để không bị ảnh hưởng bởi xe đang lưu thông cùng chiều rẽ phải gặp phải tình trạng chênh lệch bánkính giữa vết bánh xe trước và sau khi rẽ.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 379,
+  "question": "Yếu tố nào nguy hiểm nhất khi xe mô tô hai bánh chuẩn bị rẽ phải ở đường giao nhau?",
+  "answer1": " Xe đi thẳng ở chiều ngược lại",
+  "answer2": " Xe đi thẳng ở làn đường bên phải",
+  "answer3": " Xe rẽ trái ở chiều ngược lại",
+  "answer4": " Xe rẽ phải ở chiều ngược lại",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 380,
+  "question": "Yếu tố nào nguy hiểm nhất khi xe mô tô hai bánh rẽ trái ở đường giao nhau không có biển ưu tiên rẽ trái?",
+  "answer1": " Xe ben đang dừng ở hướng đường ngược chiều",
+  "answer2": " Xe mô tô hai bánh đi thẳng ở hướng đường ngược chiều",
+  "answer3": " Xe buýt đợi tín hiệu giao thông ở đường bên phải",
+  "answer4": " Xe khách đang rẽ trái ở hướng đường ngược chiều",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 381,
+  "question": "Câu nào giải thích đúng về các ảnh hưởng đến khoảng cách phản xạ phanh khi dừng xe mô tô hai bánh?",
+  "answer1": " Lái xe vào ngày mưa",
+  "answer2": " Lái xe vào ngày tuyết rơi",
+  "answer3": " Lái xe khi thiết bị phanh ở trạng thái hỏng",
+  "answer4": " Lái xe ở trạng thái mệt mỏi",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 382,
+  "question": "Loại đèn nào phải bật lên khi điều khiển xe mô tô hai bánh trên đường vào ban đêm?",
+  "answer1": " Đèn pha, đèn bên hông",
+  "answer2": " Đèn pha, đèn hậu",
+  "answer3": " Đèn pha, đèn biển số",
+  "answer4": " Đèn pha, đèn sương mù",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 383,
+  "question": "Theo Luật Giao thông đường bộ, trọng lượng chở hàng của xe mô tô hai bánh phải không được vượt quátiêu chuẩn an toàn. Nội dung nào dưới đây không đúng?",
+  "answer1": " Chiều cao của hàng hóa là 3m tính từ mặt đất",
+  "answer2": " Chiều dài của thiết bị trên xe hoặc chiều dài của thiết bị vận chuyển không được dài hơn chiều dài thân xe30cm",
+  "answer3": " Trường hợp hàng hóa chất trên xe thấp hơn chiều cao của kính chiếu hậu thì chiều rộng phải trong phạm vicó thể quan sát được hàng hóa đó",
+  "answer4": " Trường hợp hàng hóa chất trên xe cao hơn chiều cao của kính chiếu hậu thì chiều rộng phải trong phạm vicó thể quan sát được phía sau hàng hóa đó",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 384,
+  "question": "Theo Luật Giao thông đường bộ, tốc độ quy định của xe mô tô hai bánh trên đường thông thường có 2 lànxe một chiều là bao nhiêu? (Ngoại trừ các khu dân cư, thương mại và công nghiệp)",
+  "answer1": " Dưới 60km/giờ",
+  "answer2": " Dưới 70km/giờ",
+  "answer3": " Dưới 80km/giờ",
+  "answer4": " Dưới 90km/giờ",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 385,
+  "question": "Người thiểu năng trí tuệ, không sử dụng được các hệ thống sang đường như đường hầm hay cầu vượt,đang đi sang đường; phương pháp lái xe an toàn của xe mô tô hai bánh là phương pháp nào?",
+  "answer1": " Điều khiển xe thật chậm rồi đi qua",
+  "answer2": " Phải tạm thời dừng lại",
+  "answer3": " Phải tránh thật nhanh rồi đi qua",
+  "answer4": " Bấm còi gây chú ý rồi thông qua",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 386,
+  "question": "Dưới đây là hành động của người lái xe mô tô hai bánh khi thấy người đi bộ sang đường ở nơi không cóvạch sang đường. Câu nào đúng?",
+  "answer1": " Giữ khoảng cách an toàn và đi chậm lại",
+  "answer2": " Giữ khoảng cách an toàn và tạm thời dừng lại",
+  "answer3": " Bấm còi và đi chậm lại",
+  "answer4": " Giảm tốc và đi chậm lại sau người đi bộ",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 387,
+  "question": "Đây là giải thích về khoảng cách phanh của xe mô tô hai bánh. Câu nào đúng?",
+  "answer1": " Khoảng cách dừng ngắn lại khi xe chở hàng hoá.",
+  "answer2": " Khoảng cách phản xạ phanh là khoảng cách khi bắt đầu phanh xe cho đến khi xe dừng hẳn.",
+  "answer3": " Khoảng cách dừng là khái niệm bao gồm khoảng cách phản xạ phanh và khoảng cách đạp phanh.",
+  "answer4": " Khoảng cách đạp phanh là khoảng cách từ lúc người lái xe đạp phanh đến khi phanh ăn trên thực tế.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 388,
+  "question": "Xe mô tô hai bánh định vượt lên xe phía trước. Lúc này tình huống nào an toàn nhất?",
+  "answer1": " Có xe tiến đến từ hướng đường ngược lại khi định vượt trước",
+  "answer2": " Xe phía trước định đổi hướng sang bên trái để rẽ trái",
+  "answer3": " Xe phía trước định vượt lên trước các xe khác",
+  "answer4": " Xe phía trước đảm bảo đủ khoảng cách với các xe khác",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 389,
+  "question": "Tiền phạt đối với chủ sở hữu đang lưu thông mà không đăng ký bảo hiểm nghĩa vụ cho xe máy hai bánh?(Vi phạm 1 lần, trừ trường hợp gây ra tai nạn giao thông)",
+  "answer1": " 50.000 won",
+  "answer2": " 70.000 won",
+  "answer3": " 100.000 won",
+  "answer4": " 200.000 won",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 390,
+  "question": "Giải thích nào đúng với việc lái xe an toàn của người điều khiển xe mô tô hai bánh?",
+  "answer1": " Phải đi chậm khi có người đi bộ ở vạch sang đường.",
+  "answer2": " Lái xe mô tô hai bánh từ 126cc trở lên phải có Giấy phép lái xe đặc biệt hạng 1.",
+  "answer3": " Phải đi chậm, giữ khoảng cách an toàn khi có người đi bộ trong khu vực an toàn.",
+  "answer4": " Chỉ những người lái xe mô tô hai bánh dung tích xi lanh trên 125cc mới cần đội mũ bảo hiểm.",
+  "answer": 3,
+  "score": 2.5
+ },
+ {
+  "id": 391,
+  "question": "Đây là giải thích về việc lái xe an toàn khi lái xe mô tô hai bánh qua vùng có sương mù. Câu nào sai?",
+  "answer1": " Bật đèn trước, đèn khẩn cấp, giảm tốc từ từ, hạn chế tăng tốc hay giảm tốc gấp.",
+  "answer2": " Lấy đèn phụ, đường xe, đèn báo hiệu của xe phía trước làm chuẩn và duy trì khoảng cách an toàn.",
+  "answer3": " Phải chú ý hơn khi đi trên đường ven sông, suối và lối vào của đường hầm.",
+  "answer4": " Khi tầm nhìn xa trong phạm vi 100m, phải giảm 20% tốc độ tối đa.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 392,
+  "question": "Phương pháp lái xe nào an toàn nhất khi đi xe 2 bánh?",
+  "answer1": " Nếu có thể, xe mô tô hai bánh đỗ trong khu vực an toàn sẽ an toàn.",
+  "answer2": " Khi định vượt trước, điều khiển xe đi về phía mép lề đường bên phải của xe phía trước.",
+  "answer3": " Khi đèn tín hiệu chuyển sang vàng, dừng xe trong đường giao nhau để tuân thủ tín hiệu giao thông.",
+  "answer4": " Đảm bảo khoảng cách tránh va chạm, phòng trường hợp xe phía trước phanh gấp.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 393,
+  "question": "Dưới đây là hiện tượng xảy ra khi xe mô tô hai bánh đi tốc độ cao trên đường ướt vì mưa thì dừng lại độtngột do nhìn thấy xe phía trước đang dừng. Hiện tượng nào đúng?",
+  "answer1": " Khi phanh gấp, ma sát giữa bánh xe và mặt đường lớn nên không bị trơn trượt.",
+  "answer2": " Lực ma sát kém trên đường ướt vì mưa nên khoảng cách đạp phanh sẽ dài hơn.",
+  "answer3": " Lực ma sát thấp trên đường ướt vì mưa nên khoảng cách trơn trượt sẽ ngắn lại.",
+  "answer4": " Lực ma sát lớn hơn so với khi mặt đường khô nên điều khiển tay lái dễ hơn.",
+  "answer": 2,
+  "score": 2.5
+ },
+ {
+  "id": 394,
+  "question": "Hành động lái xe nào an toàn nhất khi điều khiển xe mô tô hai bánh trên đường sỏi hay nhiều ổ gà?",
+  "answer1": " Quay tay lái rộng hết mức.",
+  "answer2": " Tăng tốc trước, điều khiển xe ở hộp số cao.",
+  "answer3": " Chỉ cần chú ý đến độ cân bằng của thân xe.",
+  "answer4": " Sử dụng số thấp và duy trì tốc độ nhất định.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 395,
+  "question": "Giải thích nào không đúng với cách lưu thông mà người lái xe mô tô hai bánh cần tuân thủ?",
+  "answer1": " Giảm tốc độ ngay trước khi đi qua vạch đi bộ qua đường rồi đi chậm qua vạch đi bộ qua đường.",
+  "answer2": " Phải lưu thông ở làn xe trên đường có phân biệt vỉa hè và đường xe chạy.",
+  "answer3": " Có thể lưu thông bằng cách băng qua vỉa hè khi đi vào khu vực không phải là đường.",
+  "answer4": " Phải lưu thông về phía bên phải kể từ tâm đường.",
+  "answer": 1,
+  "score": 2.5
+ },
+ {
+  "id": 396,
+  "question": "Trong các hành vi sau, hành vi nào không phải là hành vi bị cấm của người lái xe mô tô hai bánh?",
+  "answer1": " Hành vi lái xe khi say rượu.",
+  "answer2": " Hành vi lái xe không bằng lái.",
+  "answer3": " Hành vi lái xe trong trạng thái mệt mỏi.",
+  "answer4": " Hành vi bật đèn pha và lái xe.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 397,
+  "question": "Nội dung nào không phù hợp nhất về mũ bảo hiểm dùng cho người đi xe mô tô hai bánh?",
+  "answer1": " Mũ có gắn vật phản quang ở phía sau",
+  "answer2": " Mũ có thể chịu được va đập và chống xuyên thủng",
+  "answer3": " Mũ không gây trở ngại đến thính lực",
+  "answer4": " Trọng lượng của mũ trên 2kg",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 398,
+  "question": "Biện pháp lái xe nào an toàn nhất khi xe mô tô hai bánh lưu thông trên đoạn đường có tầm nhìn xa dưới100m do sương mù?",
+  "answer1": " Giảm tốc độ xe còn 20% tốc độ tối đa.",
+  "answer2": " Theo sát sau xe phía trước do khó quan sát được phía trước.",
+  "answer3": " Điều chỉnh đèn pha hướng lên trên để kiểm tra tình hình phía trước.",
+  "answer4": " Bật đèn pha hoặc đèn sương mù, tùy theo tình huống có thể bật cả đèn báo khẩn cấp.",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 399,
+  "question": "Tốc độ nào không phải là tốc độ người lái xe mô tô hai bánh khi đi trên đường thông thường phải tuânthủ?",
+  "answer1": " Tốc độ theo Luật quy định",
+  "answer2": " Tốc độ giới hạn",
+  "answer3": " Tốc độ tối đa",
+  "answer4": " Tốc độ tối thiểu",
+  "answer": 4,
+  "score": 2.5
+ },
+ {
+  "id": 400,
+  "question": "Câu nào đúng với nội dung xử phạt khi xe mô tô hai bánh chạy trên đường cao tốc hay đường dành choriêng cho xe ô tô? (Ngoại trừ xe mô tô hai bánh khẩn cấp)",
+  "answer1": " Xử lý gửi giấy phạt với mức tiền phạt là 60.000 Won.",
+  "answer2": " Là đối tượng chịu mức phạt tiền hành chính 100.000 Won",
+  "answer3": " Là đối tượng chịu mức phạt tiền hình sự tối đa 300.000 Won hoặc bị tạm giam.",
+  "answer4": " Không có quy định xử phạt.",
+  "answer": 3,
+  "score": 2.5
+ }
+]
