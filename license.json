@@ -6,7 +6,10 @@
   "address": "서울 강남구 테헤란로114길 23",
   "type": "1,2종보통,1종대형,대형견인차,구난차,소형견인차,2종소형(원동기),다륜원동기",
   "lng": 127.067298,
-  "lat": 37.508353
+  "lat": 37.508353,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/1.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=514878&eY=1113611&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EA%B0%95%EB%82%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P27008660&rtIds=,P27008660",
+  "naver": "https://map.naver.com/p/directions/-/14145068.869060155,4510215.383064104,%EA%B0%95%EB%82%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785296,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 2,
@@ -15,7 +18,10 @@
   "address": "서울 강서구 남부순환로 171 ",
   "type": "1,2종보통,2종소형(원동기)",
   "lng": 126.821009,
-  "lat": 37.5502381
+  "lat": 37.5502381,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/2.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=460678&eY=1125035&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EA%B0%95%EC%84%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8174104&rtIds=,P8174104",
+  "naver": "https://map.naver.com/p/directions/-/14117763.478142712,4515984.660546351,%EA%B0%95%EC%84%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785311,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 3,
@@ -24,7 +30,10 @@
   "address": "서울 노원구 동일로 1449",
   "type": "1,2종보통,1종대형,소형견인차,2종소형(원동기),다륜원동기",
   "lng": 127.058806,
-  "lat": 37.6579485
+  "lat": 37.6579485,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/3.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=512830&eY=1155060&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EB%8F%84%EB%B4%89%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P7832648&rtIds=,P7832648",
+  "naver": "https://map.naver.com/p/directions/-/14144037.182283383,4531207.745322466,%EB%8F%84%EB%B4%89%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,12145963,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 4,
@@ -33,7 +42,10 @@
   "address": "서울 마포구 월드컵로42길 13",
   "type": "1,2종보통,1종대형,2종소형(원동기)",
   "lng": 126.880794,
-  "lat": 37.5787315
+  "lat": 37.5787315,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/4.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=473903&eY=1133212&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%84%9C%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P7936131&rtIds=,P7936131",
+  "naver": "https://map.naver.com/p/directions/-/14124414.32791185,4520124.801990377,%EC%84%9C%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785321,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 5,
@@ -42,7 +54,10 @@
   "address": "인천 남동구 아암대로 1247",
   "type": "1,2종보통,1종대형,대형견인차,구난차,소형견인차,2종소형(원동기)",
   "lng": 126.70884,
-  "lat": 37.3849137
+  "lat": 37.3849137,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/5.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=434988&eY=1079154&eName=%EC%9D%B8%EC%B2%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5%20%EC%A7%84%EC%9E%85%EB%A1%9C1&from=total&ids=,P18151388&rtIds=,P18151388",
+  "naver": "https://map.naver.com/p/directions/-/14105058.540130686,4492791.103297202,%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9D%B8%EC%B2%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785456,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 6,
@@ -51,7 +66,10 @@
   "address": "부산 남구 용호로 16",
   "type": "1,2종보통,1종대형,대형견인차,구난차,소형견인차,2종소형(원동기),다륜원동기",
   "lng": 129.105431,
-  "lat": 35.1271322
+  "lat": 35.1271322,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/6.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=979368&eY=458130&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EB%B6%80%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P1794679536&rtIds=,P1794679536",
+  "naver": "https://map.naver.com/p/directions/-/14372042.052756842,4181384.416777607,%EB%B6%80%EC%82%B0%EB%82%A8%EB%B6%80%EC%9E%90%EB%8F%99%EC%B0%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,12145967,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 7,
@@ -60,7 +78,10 @@
   "address": "부산 사상구 사상로367번길 35",
   "type": "1,2종보통",
   "lng": 128.983092,
-  "lat": 35.1772094
+  "lat": 35.1772094,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/7.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=951630&eY=471493&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EB%B6%80%EC%82%B0%EB%B6%81%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8406550&rtIds=,P8406550",
+  "naver": "https://map.naver.com/p/directions/-/14358347.996541318,4188039.5197905805,%EB%B6%80%EC%82%B0%EB%B6%81%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785328,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 8,
@@ -69,7 +90,10 @@
   "address": "대구 북구 태암남로 38",
   "type": "1,2종보통,1종대형,2종소형(원동기)",
   "lng": 128.551345,
-  "lat": 35.9242904
+  "lat": 35.9242904,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/8.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=850160&eY=676988&eName=%EB%8C%80%EA%B5%AC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P16868330&rtIds=,P16868330",
+  "naver": "https://map.naver.com/p/directions/-/14310365.644730117,4290239.057436293,%EB%8C%80%EA%B5%AC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785337,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 9,
@@ -78,7 +102,10 @@
   "address": "경기 용인시 기흥구 용구대로 2267 ",
   "type": "1,2종보통,1종대형,2종소형(원동기)",
   "lng": 127.107851,
-  "lat": 37.2892504
+  "lat": 37.2892504,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/9.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=524085&eY=1052849&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9A%A9%EC%9D%B8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8472491&rtIds=,P8472491",
+  "naver": "https://map.naver.com/p/directions/-/14149663.080104936,4479522.78888689,%EC%9A%A9%EC%9D%B8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,19546520,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 10,
@@ -87,7 +114,10 @@
   "address": "경기 안산시 단원구 순환로 352",
   "type": "1,2종보통,1종대형,대형견인차,구난차,2종소형(원동기),다륜원동기",
   "lng": 126.828363,
-  "lat": 37.3449004
+  "lat": 37.3449004,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/10.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=461955&eY=1068510&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%95%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8464718&rtIds=,P8464718",
+  "naver": "https://map.naver.com/p/directions/-/14118455.328777988,4487417.2215543855,%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%95%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785370,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 11,
@@ -96,7 +126,10 @@
   "address": "경기 의정부시 금오로109번길 55",
   "type": "1,2종보통,2종소형(원동기)",
   "lng": 127.076509,
-  "lat": 37.7597209
+  "lat": 37.7597209,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/11.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=516845&eY=1183510&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9D%98%EC%A0%95%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8491281&rtIds=,P8491281",
+  "naver": "https://map.naver.com/p/directions/-/14146087.653907951,4545626.966119429,%EC%9D%98%EC%A0%95%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785361,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 12,
@@ -105,7 +138,10 @@
   "address": "대전 동구 산서로1660번길 90",
   "type": "1,2종보통,1종대형,대형견인차,구난차,소형견인차,2종소형(원동기)",
   "lng": 127.462051,
-  "lat": 36.2849179
+  "lat": 36.2849179,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/12.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=603763&eY=774715&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EB%8C%80%EC%A0%84%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P7829096&rtIds=,P7829096",
+  "naver": "https://map.naver.com/p/directions/-/14188977.740140606,4339903.598237816,%EB%8C%80%EC%A0%84%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785420,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 13,
@@ -114,7 +150,10 @@
   "address": "강원 춘천시 신북읍 신북로 247",
   "type": "1,2종보통,1종대형,구난차,소형견인차,2종소형(원동기),다륜원동기",
   "lng": 127.750516,
-  "lat": 37.9474325
+  "lat": 37.9474325,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/13.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=664957&eY=1236021&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%B6%98%EC%B2%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P13338046&rtIds=,P13338046",
+  "naver": "https://map.naver.com/p/directions/-/14221138.742531117,4571969.979394322,%EC%B6%98%EC%B2%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785387,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 14,
@@ -123,7 +162,10 @@
   "address": "강원 강릉시 사천면 중앙서로 464",
   "type": "1,2종보통,1종대형,소형견인차,2종소형(원동기)",
   "lng": 128.817578,
-  "lat": 37.7953044
+  "lat": 37.7953044,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/14.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=900293&eY=1197178&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EA%B0%95%EB%A6%89%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P13338059&rtIds=,P13338059",
+  "naver": "https://map.naver.com/p/directions/-/14339937.133125793,4550600.110743513,%EA%B0%95%EB%A6%89%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785390,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 15,
@@ -132,7 +174,10 @@
   "address": "강원 원주시 호저면 사제로 596",
   "type": "1,2종보통,1종대형,2종소형(원동기),다륜원동기",
   "lng": 127.898333,
-  "lat": 37.3385452
+  "lat": 37.3385452,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/15.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=698945&eY=1067236&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9B%90%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P12256823&rtIds=,P12256823",
+  "naver": "https://map.naver.com/p/directions/-/14237543.851361524,4486308.060238777,%EC%9B%90%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785400,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 16,
@@ -141,7 +186,10 @@
   "address": "강원 태백시 수아밭길 166",
   "type": "1,2종보통,1종대형",
   "lng": 128.970738,
-  "lat": 37.1808687
+  "lat": 37.1808687,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/16.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=937453&eY=1027385&eName=%ED%83%9C%EB%B0%B1%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P13338053&rtIds=,P13338053",
+  "naver": "https://map.naver.com/p/directions/-/14356915.080923874,4464403.403089048,%ED%83%9C%EB%B0%B1%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785406,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 17,
@@ -150,7 +198,10 @@
   "address": "울산 울주군 상북면 봉화로 342",
   "type": "1,2종보통,1종대형,대형견인차,구난차,2종소형(원동기)",
   "lng": 129.099967,
-  "lat": 35.5754819
+  "lat": 35.5754819,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/17.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=975694&eY=582728&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9A%B8%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P10701252&rtIds=,P10701252",
+  "naver": "https://map.naver.com/p/directions/-/14371240.530159231,4242513.677443961,%EC%9A%B8%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785476,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 18,
@@ -159,7 +210,10 @@
   "address": "전북 전주시 덕진구 팔복로 359",
   "type": "1,2종보통,1종대형,대형견인차,소형견인차,2종소형(원동기),다륜원동기",
   "lng": 127.070547,
-  "lat": 35.8615912
+  "lat": 35.8615912,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/18.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=515790&eY=656953&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%A0%84%EB%B6%81%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8062809&rtIds=,P8062809",
+  "naver": "https://map.naver.com/p/directions/-/14145364.500231858,4281706.96971686,%EC%A0%84%EB%B6%81%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785425,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 19,
@@ -168,7 +222,10 @@
   "address": "전남 나주시 내영산2길 49",
   "type": "1,2종보통,1종대형,대형견인차,2종소형(원동기),다륜원동기",
   "lng": 126.704176,
-  "lat": 35.0084247
+  "lat": 35.0084247,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/19.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=432888&eY=420248&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%A0%84%EB%82%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P17131653&rtIds=,P17131653",
+  "naver": "https://map.naver.com/p/directions/-/14104821.129052665,4165085.519689899,%EC%A0%84%EB%82%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785426,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 20,
@@ -177,7 +234,10 @@
   "address": "전남 광양시 광양읍 대학로 11",
   "type": "1,2종보통,1종대형,대형견인차,구난차,소형견인차,2종소형(원동기),다륜원동기",
   "lng": 127.572055,
-  "lat": 34.960784
+  "lat": 34.960784,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/20.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=630576&eY=407405&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EA%B4%91%EC%96%91%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P27124025&rtIds=,P27124025",
+  "naver": "https://map.naver.com/p/directions/-/14201243.500497561,4158634.213900147,%EA%B4%91%EC%96%91%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,37169271,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 21,
@@ -186,7 +246,10 @@
   "address": "제주 제주시 애월읍 평화로 2072",
   "type": "1,2종보통,1종대형,대형견인차,구난차,소형견인차,2종소형(원동기),다륜원동기",
   "lng": 126.388114,
-  "lat": 33.4060731
+  "lat": 33.4060731,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/21.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=357563&eY=-23878&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%A0%9C%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P1981240646&rtIds=,P1981240646",
+  "naver": "https://map.naver.com/p/directions/-/14069392.075843137,3949315.5006440934,%EC%A0%9C%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785449,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 22,
@@ -195,7 +258,10 @@
   "address": "충북 청주시 상당구 남일면 교육원로 131-20",
   "type": "1,2종보통,1종대형,구난차,2종소형(원동기),다륜원동기",
   "lng": 127.56745,
-  "lat": 36.5768526
+  "lat": 36.5768526,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/22.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=626970&eY=855510&eName=%EC%B2%AD%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P11243066&rtIds=,P11243066",
+  "naver": "https://map.naver.com/p/directions/-/14200744.210317452,4380288.618766481,%EC%B2%AD%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,12145999,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 23,
@@ -204,7 +270,10 @@
   "address": "충북 충주시 대가주1길 16",
   "type": "1,2종보통,1종대형,2종소형(원동기),다륜원동기",
   "lng": 127.898111,
-  "lat": 36.9393926
+  "lat": 36.9393926,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/23.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=699814&eY=956507&eName=%EC%B6%A9%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8095794&rtIds=,P8095794",
+  "naver": "https://map.naver.com/p/directions/-/14237446.357751485,4430591.397396361,%EC%B6%A9%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785416,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 24,
@@ -213,7 +282,10 @@
   "address": "충남 예산군 오가면 국사봉로 500",
   "type": "1,2종보통,1종대형,대형견인차,2종소형(원동기),다륜원동기",
   "lng": 126.788188,
-  "lat": 36.6726427
+  "lat": 36.6726427,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/24.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=452620&eY=882038&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%98%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P10629908&rtIds=,P10629908",
+  "naver": "https://map.naver.com/p/directions/-/14113973.594946709,4393725.218051888,%EC%98%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785422,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 25,
@@ -222,7 +294,10 @@
   "address": "경북 문경시 신기공단1길 12",
   "type": "1,2종보통,1종대형,대형견인차,구난차,소형견인차,2종소형(원동기),다륜원동기",
   "lng": 128.172771,
-  "lat": 36.6366884
+  "lat": 36.6366884,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/25.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=762267&eY=873507&eName=%EB%AC%B8%EA%B2%BD%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P12364773&rtIds=,P12364773",
+  "naver": "https://map.naver.com/p/directions/-/14268160.162233893,4388676.524964657,%EB%AC%B8%EA%B2%BD%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785432,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 26,
@@ -231,7 +306,10 @@
   "address": "경북 포항시 남구 오천읍 냉천로 656",
   "type": "1,2종보통,1종대형,대형견인차,구난차,2종소형(원동기)",
   "lng": 129.393141,
-  "lat": 35.94257
+  "lat": 35.94257,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/26.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=1039820&eY=685706&eName=%ED%8F%AC%ED%95%AD%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8650357&rtIds=,P8650357",
+  "naver": "https://map.naver.com/p/directions/-/14403958.09660786,4292674.7779415455,%ED%8F%AC%ED%95%AD%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,19546528,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  },
  {
   "id": 27,
@@ -240,6 +318,9 @@
   "address": "경남 창원시 마산합포구 진동면 진북산업로 90-1",
   "type": "1,2종보통,1종대형,2종소형(원동기)",
   "lng": 128.487512,
-  "lat": 35.1251837
+  "lat": 35.1251837,
+  "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/27.png?raw=true",
+  "kakao": "https://map.kakao.com/?target=car&eX=838983&eY=454825&eName=%EB%A7%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P26231831&rtIds=,P26231831",
+  "naver": "https://map.naver.com/p/directions/-/14303168.171733383,4180821.587242186,%EB%A7%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,19546524,PLACE_POI/-/car?c=15.00,0,0,0,dh"
  }
 ]
