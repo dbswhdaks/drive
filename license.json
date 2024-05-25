@@ -8,8 +8,8 @@
   "lng": 127.067298,
   "lat": 37.508353,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/1.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=514878&eY=1113611&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EA%B0%95%EB%82%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P27008660&rtIds=,P27008660",
-  "naver": "https://map.naver.com/p/directions/-/14145068.869060155,4510215.383064104,%EA%B0%95%EB%82%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785296,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/27008660?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/18848513/home"
  },
  {
   "id": 2,
@@ -20,8 +20,8 @@
   "lng": 126.821009,
   "lat": 37.5502381,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/2.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=460678&eY=1125035&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EA%B0%95%EC%84%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8174104&rtIds=,P8174104",
-  "naver": "https://map.naver.com/p/directions/-/14117763.478142712,4515984.660546351,%EA%B0%95%EC%84%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785311,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/8174104?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785311/home"
  },
  {
   "id": 3,
@@ -32,8 +32,8 @@
   "lng": 127.058806,
   "lat": 37.6579485,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/3.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=512830&eY=1155060&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EB%8F%84%EB%B4%89%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P7832648&rtIds=,P7832648",
-  "naver": "https://map.naver.com/p/directions/-/14144037.182283383,4531207.745322466,%EB%8F%84%EB%B4%89%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,12145963,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/7832648?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/12145963/home"
  },
  {
   "id": 4,
@@ -44,8 +44,8 @@
   "lng": 126.880794,
   "lat": 37.5787315,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/4.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=473903&eY=1133212&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%84%9C%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P7936131&rtIds=,P7936131",
-  "naver": "https://map.naver.com/p/directions/-/14124414.32791185,4520124.801990377,%EC%84%9C%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785321,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/7936131?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785321/home"
  },
  {
   "id": 5,
@@ -56,8 +56,8 @@
   "lng": 126.70884,
   "lat": 37.3849137,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/5.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=434988&eY=1079154&eName=%EC%9D%B8%EC%B2%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5%20%EC%A7%84%EC%9E%85%EB%A1%9C1&from=total&ids=,P18151388&rtIds=,P18151388",
-  "naver": "https://map.naver.com/p/directions/-/14105058.540130686,4492791.103297202,%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9D%B8%EC%B2%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785456,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/11555324?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785456/home"
  },
  {
   "id": 6,
@@ -68,8 +68,8 @@
   "lng": 129.105431,
   "lat": 35.1271322,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/6.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=979368&eY=458130&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EB%B6%80%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P1794679536&rtIds=,P1794679536",
-  "naver": "https://map.naver.com/p/directions/-/14372042.052756842,4181384.416777607,%EB%B6%80%EC%82%B0%EB%82%A8%EB%B6%80%EC%9E%90%EB%8F%99%EC%B0%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,12145967,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/1794679536?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/12145967/home"
  },
  {
   "id": 7,
@@ -80,8 +80,8 @@
   "lng": 128.983092,
   "lat": 35.1772094,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/7.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=951630&eY=471493&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EB%B6%80%EC%82%B0%EB%B6%81%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8406550&rtIds=,P8406550",
-  "naver": "https://map.naver.com/p/directions/-/14358347.996541318,4188039.5197905805,%EB%B6%80%EC%82%B0%EB%B6%81%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785328,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/8406550?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785328/home"
  },
  {
   "id": 8,
@@ -92,8 +92,8 @@
   "lng": 128.551345,
   "lat": 35.9242904,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/8.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=850160&eY=676988&eName=%EB%8C%80%EA%B5%AC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P16868330&rtIds=,P16868330",
-  "naver": "https://map.naver.com/p/directions/-/14310365.644730117,4290239.057436293,%EB%8C%80%EA%B5%AC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785337,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/16868330?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785337/home"
  },
  {
   "id": 9,
@@ -104,8 +104,8 @@
   "lng": 127.107851,
   "lat": 37.2892504,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/9.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=524085&eY=1052849&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9A%A9%EC%9D%B8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8472491&rtIds=,P8472491",
-  "naver": "https://map.naver.com/p/directions/-/14149663.080104936,4479522.78888689,%EC%9A%A9%EC%9D%B8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,19546520,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/8472491?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/19546520/home"
  },
  {
   "id": 10,
@@ -116,8 +116,8 @@
   "lng": 126.828363,
   "lat": 37.3449004,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/10.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=461955&eY=1068510&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%95%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8464718&rtIds=,P8464718",
-  "naver": "https://map.naver.com/p/directions/-/14118455.328777988,4487417.2215543855,%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%95%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785370,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/8464718?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785370/home"
  },
  {
   "id": 11,
@@ -128,8 +128,8 @@
   "lng": 127.076509,
   "lat": 37.7597209,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/11.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=516845&eY=1183510&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9D%98%EC%A0%95%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8491281&rtIds=,P8491281",
-  "naver": "https://map.naver.com/p/directions/-/14146087.653907951,4545626.966119429,%EC%9D%98%EC%A0%95%EB%B6%80%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785361,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/8491281?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785361/home"
  },
  {
   "id": 12,
@@ -140,8 +140,8 @@
   "lng": 127.462051,
   "lat": 36.2849179,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/12.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=603763&eY=774715&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EB%8C%80%EC%A0%84%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P7829096&rtIds=,P7829096",
-  "naver": "https://map.naver.com/p/directions/-/14188977.740140606,4339903.598237816,%EB%8C%80%EC%A0%84%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785420,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/7829096?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785420/home"
  },
  {
   "id": 13,
@@ -152,8 +152,8 @@
   "lng": 127.750516,
   "lat": 37.9474325,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/13.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=664957&eY=1236021&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%B6%98%EC%B2%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P13338046&rtIds=,P13338046",
-  "naver": "https://map.naver.com/p/directions/-/14221138.742531117,4571969.979394322,%EC%B6%98%EC%B2%9C%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785387,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/13338046?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785387/home"
  },
  {
   "id": 14,
@@ -164,8 +164,8 @@
   "lng": 128.817578,
   "lat": 37.7953044,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/14.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=900293&eY=1197178&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EA%B0%95%EB%A6%89%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P13338059&rtIds=,P13338059",
-  "naver": "https://map.naver.com/p/directions/-/14339937.133125793,4550600.110743513,%EA%B0%95%EB%A6%89%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785390,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/13338059?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785390/home"
  },
  {
   "id": 15,
@@ -176,8 +176,8 @@
   "lng": 127.898333,
   "lat": 37.3385452,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/15.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=698945&eY=1067236&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9B%90%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P12256823&rtIds=,P12256823",
-  "naver": "https://map.naver.com/p/directions/-/14237543.851361524,4486308.060238777,%EC%9B%90%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785400,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/12256823?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785400/home"
  },
  {
   "id": 16,
@@ -188,8 +188,8 @@
   "lng": 128.970738,
   "lat": 37.1808687,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/16.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=937453&eY=1027385&eName=%ED%83%9C%EB%B0%B1%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P13338053&rtIds=,P13338053",
-  "naver": "https://map.naver.com/p/directions/-/14356915.080923874,4464403.403089048,%ED%83%9C%EB%B0%B1%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785406,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/13338053?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785406/home"
  },
  {
   "id": 17,
@@ -200,8 +200,8 @@
   "lng": 129.099967,
   "lat": 35.5754819,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/17.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=975694&eY=582728&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%9A%B8%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P10701252&rtIds=,P10701252",
-  "naver": "https://map.naver.com/p/directions/-/14371240.530159231,4242513.677443961,%EC%9A%B8%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785476,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/10701252?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785476/home"
  },
  {
   "id": 18,
@@ -212,8 +212,8 @@
   "lng": 127.070547,
   "lat": 35.8615912,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/18.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=515790&eY=656953&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%A0%84%EB%B6%81%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8062809&rtIds=,P8062809",
-  "naver": "https://map.naver.com/p/directions/-/14145364.500231858,4281706.96971686,%EC%A0%84%EB%B6%81%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785425,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/8062809?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785425/home"
  },
  {
   "id": 19,
@@ -224,8 +224,8 @@
   "lng": 126.704176,
   "lat": 35.0084247,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/19.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=432888&eY=420248&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%A0%84%EB%82%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P17131653&rtIds=,P17131653",
-  "naver": "https://map.naver.com/p/directions/-/14104821.129052665,4165085.519689899,%EC%A0%84%EB%82%A8%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785426,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/17131653?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785426/home"
  },
  {
   "id": 20,
@@ -236,8 +236,8 @@
   "lng": 127.572055,
   "lat": 34.960784,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/20.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=630576&eY=407405&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EA%B4%91%EC%96%91%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P27124025&rtIds=,P27124025",
-  "naver": "https://map.naver.com/p/directions/-/14201243.500497561,4158634.213900147,%EA%B4%91%EC%96%91%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,37169271,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/27124025?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/37169271/home"
  },
  {
   "id": 21,
@@ -248,8 +248,8 @@
   "lng": 126.388114,
   "lat": 33.4060731,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/21.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=357563&eY=-23878&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%A0%9C%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P1981240646&rtIds=,P1981240646",
-  "naver": "https://map.naver.com/p/directions/-/14069392.075843137,3949315.5006440934,%EC%A0%9C%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785449,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/1981240646?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785449/home"
  },
  {
   "id": 22,
@@ -260,8 +260,8 @@
   "lng": 127.56745,
   "lat": 36.5768526,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/22.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=626970&eY=855510&eName=%EC%B2%AD%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P11243066&rtIds=,P11243066",
-  "naver": "https://map.naver.com/p/directions/-/14200744.210317452,4380288.618766481,%EC%B2%AD%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,12145999,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/11243066?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/12145999/home"
  },
  {
   "id": 23,
@@ -272,8 +272,8 @@
   "lng": 127.898111,
   "lat": 36.9393926,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/23.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=699814&eY=956507&eName=%EC%B6%A9%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8095794&rtIds=,P8095794",
-  "naver": "https://map.naver.com/p/directions/-/14237446.357751485,4430591.397396361,%EC%B6%A9%EC%A3%BC%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785416,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/8095794?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785416/home"
  },
  {
   "id": 24,
@@ -284,8 +284,8 @@
   "lng": 126.788188,
   "lat": 36.6726427,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/24.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=452620&eY=882038&eName=%EB%8F%84%EB%A1%9C%EA%B5%90%ED%86%B5%EA%B3%B5%EB%8B%A8%20%EC%98%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P10629908&rtIds=,P10629908",
-  "naver": "https://map.naver.com/p/directions/-/14113973.594946709,4393725.218051888,%EC%98%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785422,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/10629908?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785422/home"
  },
  {
   "id": 25,
@@ -296,8 +296,8 @@
   "lng": 128.172771,
   "lat": 36.6366884,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/25.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=762267&eY=873507&eName=%EB%AC%B8%EA%B2%BD%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P12364773&rtIds=,P12364773",
-  "naver": "https://map.naver.com/p/directions/-/14268160.162233893,4388676.524964657,%EB%AC%B8%EA%B2%BD%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,11785432,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/12364773?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/11785432/home"
  },
  {
   "id": 26,
@@ -308,8 +308,8 @@
   "lng": 129.393141,
   "lat": 35.94257,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/26.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=1039820&eY=685706&eName=%ED%8F%AC%ED%95%AD%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P8650357&rtIds=,P8650357",
-  "naver": "https://map.naver.com/p/directions/-/14403958.09660786,4292674.7779415455,%ED%8F%AC%ED%95%AD%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,19546528,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/8650357?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/19546528/home"
  },
  {
   "id": 27,
@@ -320,7 +320,7 @@
   "lng": 128.487512,
   "lat": 35.1251837,
   "image": "https://github.com/dbswhdaks/driver_test_center/blob/main/27.png?raw=true",
-  "kakao": "https://map.kakao.com/?target=car&eX=838983&eY=454825&eName=%EB%A7%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5&from=total&ids=,P26231831&rtIds=,P26231831",
-  "naver": "https://map.naver.com/p/directions/-/14303168.171733383,4180821.587242186,%EB%A7%88%EC%82%B0%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EC%8B%9C%ED%97%98%EC%9E%A5,19546524,PLACE_POI/-/car?c=15.00,0,0,0,dh"
+  "kakao": "https://place.map.kakao.com/m/26231831?referrer=daumsearch_local",
+  "naver": "https://m.place.naver.com/place/19546524/home"
  }
 ]
